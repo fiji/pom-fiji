@@ -28,7 +28,6 @@
 		<edu.mines.version>20100113</edu.mines.version>
 		<fiji.version>2.0.0-SNAPSHOT</fiji.version>
 		<itextpdf.version>5.1.1</itextpdf.version>
-		<jama.groupId>gov.nist.math</jama.groupId>
 		<jama.version>1.0.3</jama.version>
 		<java3d.version>1.5.2</java3d.version>
 		<javassist.version>3.16.1-GA</javassist.version>
@@ -38,7 +37,6 @@
 		<jgrapht.version>0.8.3</jgrapht.version>
 		<jgraphx.version>1.10.4.1</jgraphx.version>
 		<jna.version>3.2.7</jna.version>
-		<jpedal.groupId>org.jpedal</jpedal.groupId>
 		<jpedal.version>2.80b11</jpedal.version>
 		<jruby.version>1.7.11</jruby.version>
 		<js.version>1.7R2</js.version>
@@ -162,7 +160,6 @@
 		<imagescience.version>2.4.2-SNAPSHOT</imagescience.version>
 		<imageware.version>2.0.0-SNAPSHOT</imageware.version>
 		<javac.version>1.6.0.24-ubuntu-fiji1</javac.version>
-		<jep.groupId>org.scijava</jep.groupId>
 		<jep.version>2.4.2</jep.version>
 		<legacy-imglib1.version>2.0.0-SNAPSHOT</legacy-imglib1.version>
 		<level_sets.version>1.0.1-SNAPSHOT</level_sets.version>
