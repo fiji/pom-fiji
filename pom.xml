@@ -1050,6 +1050,16 @@
 		<url>https://github.com/fiji/pom-fiji</url>
 	</scm>
 
+	<issueManagement>
+		<system>GitHub Issues</system>
+		<url>https://github.com/fiji/pom-fiji/issues</url>
+	</issueManagement>
+
+	<ciManagement>
+		<system>Jenkins</system>
+		<url>http://jenkins.imagej.net/job/pom-imagej/</url>
+	</ciManagement>
+
 	<reporting>
 		<plugins>
 			<plugin>
