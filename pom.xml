@@ -174,11 +174,6 @@
 		<weave_jy2java.version>2.0.0-SNAPSHOT</weave_jy2java.version>
 	</properties>
 
-	<modules>
-		<module>external</module>
-		<module>modules</module>
-	</modules>
-
 	<dependencyManagement>
 		<dependencies>
 			<dependency>
