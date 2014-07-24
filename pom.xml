@@ -65,7 +65,7 @@
 		<Color_Histogram.version>2.0.6-SNAPSHOT</Color_Histogram.version>
 		<Color_Inspector_3D.version>2.4-SNAPSHOT</Color_Inspector_3D.version>
 		<Colour_Deconvolution.version>2.0.0-SNAPSHOT</Colour_Deconvolution.version>
-		<CorrectBleach.version>2.0.0-SNAPSHOT</CorrectBleach.version>
+		<CorrectBleach.version>2.0.0</CorrectBleach.version>
 		<Descriptor_based_registration.version>2.0.0-SNAPSHOT</Descriptor_based_registration.version>
 		<Dichromacy.version>2.0.0-SNAPSHOT</Dichromacy.version>
 		<Differentials.version>2.0.0-SNAPSHOT</Differentials.version>
