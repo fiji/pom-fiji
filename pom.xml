@@ -49,7 +49,7 @@
 
 		<!-- Fiji sub-projects -->
 		<AnalyzeSkeleton.version>2.0.0-SNAPSHOT</AnalyzeSkeleton.version>
-		<Analyze_Reader_Writer.version>2.0.0-SNAPSHOT</Analyze_Reader_Writer.version>
+		<Analyze_Reader_Writer.version>2.0.0</Analyze_Reader_Writer.version>
 		<Anisotropic_Diffusion_2D.version>2.0.0-SNAPSHOT</Anisotropic_Diffusion_2D.version>
 		<Archipelago_Plugins.version>0.5.0-SNAPSHOT</Archipelago_Plugins.version>
 		<Arrow.version>2.0.1</Arrow.version>
