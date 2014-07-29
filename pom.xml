@@ -135,7 +135,7 @@
 		<Time_Stamper.version>2.0.0-SNAPSHOT</Time_Stamper.version>
 		<ToAST.version>25.0.1-SNAPSHOT</ToAST.version>
 		<TopoJ.version>2.0.0-SNAPSHOT</TopoJ.version>
-		<TrackMate.version>2.3.0-SNAPSHOT</TrackMate.version>
+		<TrackMate.version>2.4.0</TrackMate.version>
 		<Trainable_Segmentation.version>2.0.0</Trainable_Segmentation.version>
 		<TrakEM2.version>1.0b-SNAPSHOT</TrakEM2.version>
 		<TrakEM2_Archipelago.version>2.0.0-SNAPSHOT</TrakEM2_Archipelago.version>
