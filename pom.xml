@@ -58,7 +58,7 @@
 		<BeanShell_Interpreter.version>2.0.0-SNAPSHOT</BeanShell_Interpreter.version>
 		<Bug_Submitter.version>2.0.1</Bug_Submitter.version>
 		<CLI.version>2.0.0-SNAPSHOT</CLI.version>
-		<CPU_Meter.version>2.0.0-SNAPSHOT</CPU_Meter.version>
+		<CPU_Meter.version>2.0.0</CPU_Meter.version>
 		<Calculator_Plus.version>2.0.0-SNAPSHOT</Calculator_Plus.version>
 		<Clojure_Interpreter.version>2.0.0-SNAPSHOT</Clojure_Interpreter.version>
 		<Colocalisation_Analysis.version>2.0.0-SNAPSHOT</Colocalisation_Analysis.version>
