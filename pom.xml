@@ -68,7 +68,7 @@
 		<CorrectBleach.version>2.0.0</CorrectBleach.version>
 		<Descriptor_based_registration.version>2.0.0-SNAPSHOT</Descriptor_based_registration.version>
 		<Dichromacy.version>2.0.0</Dichromacy.version>
-		<Differentials.version>2.0.0-SNAPSHOT</Differentials.version>
+		<Differentials.version>2.0.0</Differentials.version>
 		<Directionality.version>2.0.1-SNAPSHOT</Directionality.version>
 		<Extended_Depth_Field.version>2.0.0-SNAPSHOT</Extended_Depth_Field.version>
 		<FS_Align_TrakEM2.version>2.0.0-SNAPSHOT</FS_Align_TrakEM2.version>
