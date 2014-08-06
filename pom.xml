@@ -74,7 +74,7 @@
 		<FS_Align_TrakEM2.version>2.0.0-SNAPSHOT</FS_Align_TrakEM2.version>
 		<FeatureJ.version>1.6.1-SNAPSHOT</FeatureJ.version>
 		<Feature_Detection.version>2.0.0</Feature_Detection.version>
-		<Fiji_3D_Blob_Segmentation.version>2.0.0-SNAPSHOT</Fiji_3D_Blob_Segmentation.version>
+		<Fiji_3D_Blob_Segmentation.version>2.0.0</Fiji_3D_Blob_Segmentation.version>
 		<Fiji_Archipelago.version>2.0.0-SNAPSHOT</Fiji_Archipelago.version>
 		<Fiji_Developer.version>2.0.0-SNAPSHOT</Fiji_Developer.version>
 		<Fiji_Package_Maker.version>2.0.0-SNAPSHOT</Fiji_Package_Maker.version>
