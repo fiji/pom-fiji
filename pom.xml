@@ -76,7 +76,7 @@
 		<Feature_Detection.version>2.0.0</Feature_Detection.version>
 		<Fiji_3D_Blob_Segmentation.version>2.0.0</Fiji_3D_Blob_Segmentation.version>
 		<Fiji_Archipelago.version>2.0.0-SNAPSHOT</Fiji_Archipelago.version>
-		<Fiji_Developer.version>2.0.0-SNAPSHOT</Fiji_Developer.version>
+		<Fiji_Developer.version>2.0.0</Fiji_Developer.version>
 		<Fiji_Package_Maker.version>2.0.0-SNAPSHOT</Fiji_Package_Maker.version>
 		<Fiji_Plugins.version>2.0.0-SNAPSHOT</Fiji_Plugins.version>
 		<Fiji_Updater.version>2.0.0-SNAPSHOT</Fiji_Updater.version>
