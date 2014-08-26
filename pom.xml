@@ -45,7 +45,7 @@
 		<jzlib.version>1.0.7</jzlib.version>
 		<mpicbg.version>0.6.1</mpicbg.version>
 		<scala.version>2.10.0</scala.version>
-		<weka.version>3.7.6</weka.version>
+		<weka.version>3.7.11</weka.version>
 
 		<!-- Fiji sub-projects -->
 		<AnalyzeSkeleton.version>2.0.0-SNAPSHOT</AnalyzeSkeleton.version>
