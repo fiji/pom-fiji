@@ -142,7 +142,7 @@
 		<TransformJ.version>2.8.1-SNAPSHOT</TransformJ.version>
 		<TurboReg.version>2.0.0-SNAPSHOT</TurboReg.version>
 		<UnwarpJ.version>2.0.0-SNAPSHOT</UnwarpJ.version>
-		<VIB-lib.version>2.0.0-SNAPSHOT</VIB-lib.version>
+		<VIB-lib.version>2.0.0</VIB-lib.version>
 		<VIB.version>2.0.0-SNAPSHOT</VIB.version>
 		<Vaa3d_Reader.version>2.0.0-SNAPSHOT</Vaa3d_Reader.version>
 		<Vaa3d_Writer.version>1.0.0</Vaa3d_Writer.version>
