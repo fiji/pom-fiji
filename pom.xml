@@ -62,7 +62,7 @@
 		<CPU_Meter.version>2.0.0</CPU_Meter.version>
 		<Calculator_Plus.version>2.0.0</Calculator_Plus.version>
 		<Colocalisation_Analysis.version>2.0.0-SNAPSHOT</Colocalisation_Analysis.version>
-		<Color_Histogram.version>2.0.6-SNAPSHOT</Color_Histogram.version>
+		<Color_Histogram.version>2.0.6</Color_Histogram.version>
 		<Color_Inspector_3D.version>2.3</Color_Inspector_3D.version>
 		<Colour_Deconvolution.version>2.0.0</Colour_Deconvolution.version>
 		<CorrectBleach.version>2.0.0</CorrectBleach.version>
