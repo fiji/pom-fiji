@@ -56,7 +56,7 @@
 		<Anisotropic_Diffusion_2D.version>2.0.0</Anisotropic_Diffusion_2D.version>
 		<Archipelago_Plugins.version>0.5.0-SNAPSHOT</Archipelago_Plugins.version>
 		<Arrow.version>2.0.1</Arrow.version>
-		<Auto_Threshold.version>1.16-SNAPSHOT</Auto_Threshold.version>
+		<Auto_Threshold.version>1.15</Auto_Threshold.version>
 		<BalloonSegmentation.version>2.0.0</BalloonSegmentation.version>
 		<BeanShell_Interpreter.version>2.0.0-SNAPSHOT</BeanShell_Interpreter.version>
 		<Bug_Submitter.version>2.0.1</Bug_Submitter.version>
@@ -66,16 +66,16 @@
 		<Clojure_Interpreter.version>2.0.0-SNAPSHOT</Clojure_Interpreter.version>
 		<Colocalisation_Analysis.version>2.0.0-SNAPSHOT</Colocalisation_Analysis.version>
 		<Color_Histogram.version>2.0.6-SNAPSHOT</Color_Histogram.version>
-		<Color_Inspector_3D.version>2.4-SNAPSHOT</Color_Inspector_3D.version>
+		<Color_Inspector_3D.version>2.3</Color_Inspector_3D.version>
 		<Colour_Deconvolution.version>2.0.0</Colour_Deconvolution.version>
 		<CorrectBleach.version>2.0.0</CorrectBleach.version>
 		<Descriptor_based_registration.version>2.0.0-SNAPSHOT</Descriptor_based_registration.version>
 		<Dichromacy.version>2.0.0</Dichromacy.version>
 		<Differentials.version>2.0.0</Differentials.version>
-		<Directionality.version>2.0.1-SNAPSHOT</Directionality.version>
+		<Directionality.version>2.0.0</Directionality.version>
 		<Extended_Depth_Field.version>2.0.0</Extended_Depth_Field.version>
 		<FS_Align_TrakEM2.version>2.0.0-SNAPSHOT</FS_Align_TrakEM2.version>
-		<FeatureJ.version>1.6.1-SNAPSHOT</FeatureJ.version>
+		<FeatureJ.version>1.6.0</FeatureJ.version>
 		<Feature_Detection.version>2.0.0</Feature_Detection.version>
 		<Fiji_3D_Blob_Segmentation.version>2.0.0</Fiji_3D_Blob_Segmentation.version>
 		<Fiji_Archipelago.version>2.0.0-SNAPSHOT</Fiji_Archipelago.version>
@@ -83,17 +83,17 @@
 		<Fiji_Package_Maker.version>2.0.0</Fiji_Package_Maker.version>
 		<Fiji_Plugins.version>2.0.0</Fiji_Plugins.version>
 		<Fiji_Updater.version>2.0.0-SNAPSHOT</Fiji_Updater.version>
-		<FlowJ.version>1.29.1-SNAPSHOT</FlowJ.version>
+		<FlowJ.version>1.29.0</FlowJ.version>
 		<Graph_Cut.version>0.2.0</Graph_Cut.version>
-		<Gray_Morphology.version>2.3.2-SNAPSHOT</Gray_Morphology.version>
-		<Helmholtz_Analysis.version>2.0.1-SNAPSHOT</Helmholtz_Analysis.version>
+		<Gray_Morphology.version>2.3.1</Gray_Morphology.version>
+		<Helmholtz_Analysis.version>2.0.0</Helmholtz_Analysis.version>
 		<IJ_Robot.version>1.0.0</IJ_Robot.version>
 		<IO.version>2.0.0-SNAPSHOT</IO.version>
 		<Image_5D.version>1.2.5</Image_5D.version>
 		<ImageJ_3D_Objects_Counter.version>2.0.0-SNAPSHOT</ImageJ_3D_Objects_Counter.version>
 		<ImageJ_3D_Viewer.version>2.0.0-SNAPSHOT</ImageJ_3D_Viewer.version>
 		<Image_Expression_Parser.version>2.0.0-SNAPSHOT</Image_Expression_Parser.version>
-		<Interactive_3D_Surface_Plot.version>2.31.1-SNAPSHOT</Interactive_3D_Surface_Plot.version>
+		<Interactive_3D_Surface_Plot.version>2.31.0</Interactive_3D_Surface_Plot.version>
 		<IsoData_Classifier.version>2.0.0-SNAPSHOT</IsoData_Classifier.version>
 		<JRuby_Interpreter.version>2.0.0-SNAPSHOT</JRuby_Interpreter.version>
 		<Javascript.version>2.0.0-SNAPSHOT</Javascript.version>
@@ -101,28 +101,28 @@
 		<Kuwahara_Filter.version>2.0.0-SNAPSHOT</Kuwahara_Filter.version>
 		<Lasso_and_Blow_Tool.version>2.0.0-SNAPSHOT</Lasso_and_Blow_Tool.version>
 		<Linear_Kuwahara.version>2.0.0-SNAPSHOT</Linear_Kuwahara.version>
-		<LocalThickness.version>3.1.1-SNAPSHOT</LocalThickness.version>
+		<LocalThickness.version>3.1.0</LocalThickness.version>
 		<MTrack2.version>2.0.0-SNAPSHOT</MTrack2.version>
-		<MTrackJ.version>1.5.1-SNAPSHOT</MTrackJ.version>
+		<MTrackJ.version>1.5.0</MTrackJ.version>
 		<M_I_P.version>2.0.0-SNAPSHOT</M_I_P.version>
 		<Manual_Tracking.version>2.0.0-SNAPSHOT</Manual_Tracking.version>
 		<MosaicJ.version>2.0.0-SNAPSHOT</MosaicJ.version>
 		<Multi_Kymograph.version>2.0.0-SNAPSHOT</Multi_Kymograph.version>
-		<PIV_analyser.version>1.1.1-SNAPSHOT</PIV_analyser.version>
+		<PIV_analyser.version>1.1.0</PIV_analyser.version>
 		<PointPicker.version>2.0.0-SNAPSHOT</PointPicker.version>
-		<QuickPALM.version>1.1.1-SNAPSHOT</QuickPALM.version>
+		<QuickPALM.version>1.1.0</QuickPALM.version>
 		<RATS.version>2.0.0-SNAPSHOT</RATS.version>
-		<RandomJ.version>1.5.1-SNAPSHOT</RandomJ.version>
+		<RandomJ.version>1.5.0</RandomJ.version>
 		<Reconstruct_Reader.version>2.0.0-SNAPSHOT</Reconstruct_Reader.version>
 		<Refresh_Javas.version>2.0.0-SNAPSHOT</Refresh_Javas.version>
 		<SPIM_Opener.version>2.0.0</SPIM_Opener.version>
 		<SPIM_Registration.version>2.0.0-SNAPSHOT</SPIM_Registration.version>
 		<Samples.version>2.0.0-SNAPSHOT</Samples.version>
-		<Scala_Interpreter.version>1.0.2-SNAPSHOT</Scala_Interpreter.version>
+		<Scala_Interpreter.version>1.0.1</Scala_Interpreter.version>
 		<Series_Labeler.version>2.0.0-SNAPSHOT</Series_Labeler.version>
 		<SheppLogan.version>2.0.0-SNAPSHOT</SheppLogan.version>
 		<Sholl_Analysis.version>3.4.2</Sholl_Analysis.version>
-		<Simple_Neurite_Tracer.version>2.0.2-SNAPSHOT</Simple_Neurite_Tracer.version>
+		<Simple_Neurite_Tracer.version>2.0.1</Simple_Neurite_Tracer.version>
 		<Siox_Segmentation.version>1.0.1-SNAPSHOT</Siox_Segmentation.version>
 		<Skeletonize3D.version>1.0.1-SNAPSHOT</Skeletonize3D.version>
 		<Snakuscule.version>2.0.0-SNAPSHOT</Snakuscule.version>
@@ -131,18 +131,18 @@
 		<Stack_Manipulation.version>2.0.0-SNAPSHOT</Stack_Manipulation.version>
 		<Statistical_Region_Merging.version>2.0.0-SNAPSHOT</Statistical_Region_Merging.version>
 		<Stitching.version>2.0.0-SNAPSHOT</Stitching.version>
-		<Sync_Win.version>1.7-fiji2-SNAPSHOT</Sync_Win.version>
+		<Sync_Win.version>1.7-fiji1</Sync_Win.version>
 		<Thread_Killer.version>2.0.0-SNAPSHOT</Thread_Killer.version>
-		<Threshold_Colour.version>2.0.1-SNAPSHOT</Threshold_Colour.version>
+		<Threshold_Colour.version>2.0.0</Threshold_Colour.version>
 		<Time_Lapse.version>2.0.0</Time_Lapse.version>
 		<Time_Stamper.version>2.0.0-SNAPSHOT</Time_Stamper.version>
-		<ToAST.version>25.0.1-SNAPSHOT</ToAST.version>
+		<ToAST.version>25.0.0</ToAST.version>
 		<TopoJ.version>2.0.0-SNAPSHOT</TopoJ.version>
 		<TrackMate.version>2.5.0</TrackMate.version>
 		<Trainable_Segmentation.version>2.0.0</Trainable_Segmentation.version>
 		<TrakEM2.version>1.0b-SNAPSHOT</TrakEM2.version>
 		<TrakEM2_Archipelago.version>2.0.0-SNAPSHOT</TrakEM2_Archipelago.version>
-		<TransformJ.version>2.8.1-SNAPSHOT</TransformJ.version>
+		<TransformJ.version>2.8.0</TransformJ.version>
 		<TurboReg.version>2.0.0-SNAPSHOT</TurboReg.version>
 		<UnwarpJ.version>2.0.0-SNAPSHOT</UnwarpJ.version>
 		<VIB-lib.version>2.0.0</VIB-lib.version>
@@ -150,9 +150,9 @@
 		<Vaa3d_Reader.version>2.0.0-SNAPSHOT</Vaa3d_Reader.version>
 		<Vaa3d_Writer.version>1.0.0</Vaa3d_Writer.version>
 		<Video_Editing.version>2.0.0-SNAPSHOT</Video_Editing.version>
-		<View5D.version>1.3.1-SNAPSHOT</View5D.version>
-		<Volume_Calculator.version>1.0.1-SNAPSHOT</Volume_Calculator.version>
-		<Volume_Viewer.version>2.01.1-SNAPSHOT</Volume_Viewer.version>
+		<View5D.version>1.3.0</View5D.version>
+		<Volume_Calculator.version>1.0.0</Volume_Calculator.version>
+		<Volume_Viewer.version>2.01.0</Volume_Viewer.version>
 		<bUnwarpJ.version>2.6.1-SNAPSHOT</bUnwarpJ.version>
 		<blockmatching.version>2.0.0-SNAPSHOT</blockmatching.version>
 		<fake.version>2.0.0-SNAPSHOT</fake.version>
@@ -160,13 +160,13 @@
 		<fiji-lib.version>2.0.1</fiji-lib.version>
 		<fiji-scripting.version>2.0.0-SNAPSHOT</fiji-scripting.version>
 		<image5d.version>1.2.5</image5d.version>
-		<imagescience.version>2.4.2-SNAPSHOT</imagescience.version>
+		<imagescience.version>2.4.1</imagescience.version>
 		<imageware.version>2.0.0-SNAPSHOT</imageware.version>
 		<javac.version>1.6.0.24-ubuntu-fiji1</javac.version>
 		<jep.version>2.4.2</jep.version>
 		<legacy-imglib1.version>2.0.0-SNAPSHOT</legacy-imglib1.version>
-		<level_sets.version>1.0.1-SNAPSHOT</level_sets.version>
-		<mij.version>1.3.6-fiji2-SNAPSHOT</mij.version>
+		<level_sets.version>1.0.0</level_sets.version>
+		<mij.version>1.3.6-fiji1</mij.version>
 		<pal-optimization.version>2.0.0-SNAPSHOT</pal-optimization.version>
 		<panorama.version>2.0.0-SNAPSHOT</panorama.version>
 		<register_virtual_stack_slices.version>2.0.0</register_virtual_stack_slices.version>
