@@ -169,7 +169,7 @@
 		<mij.version>1.3.6-fiji2-SNAPSHOT</mij.version>
 		<pal-optimization.version>2.0.0-SNAPSHOT</pal-optimization.version>
 		<panorama.version>2.0.0-SNAPSHOT</panorama.version>
-		<register_virtual_stack_slices.version>2.0.0-SNAPSHOT</register_virtual_stack_slices.version>
+		<register_virtual_stack_slices.version>2.0.0</register_virtual_stack_slices.version>
 		<registration_3d.version>2.0.0-SNAPSHOT</registration_3d.version>
 		<skeletonize3d.version>1.0.1-SNAPSHOT</skeletonize3d.version>
 		<trakem2.version>1.0b-SNAPSHOT</trakem2.version>
