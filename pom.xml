@@ -51,7 +51,7 @@
 		<weka.version>3.7.11</weka.version>
 
 		<!-- Fiji sub-projects -->
-		<AnalyzeSkeleton.version>2.0.0-SNAPSHOT</AnalyzeSkeleton.version>
+		<AnalyzeSkeleton.version>2.0.0</AnalyzeSkeleton.version>
 		<Analyze_Reader_Writer.version>2.0.0</Analyze_Reader_Writer.version>
 		<Anisotropic_Diffusion_2D.version>2.0.0</Anisotropic_Diffusion_2D.version>
 		<Archipelago_Plugins.version>0.5.0-SNAPSHOT</Archipelago_Plugins.version>
@@ -126,7 +126,7 @@
 		<Siox_Segmentation.version>1.0.1-SNAPSHOT</Siox_Segmentation.version>
 		<Skeletonize3D.version>1.0.1-SNAPSHOT</Skeletonize3D.version>
 		<Snakuscule.version>2.0.0-SNAPSHOT</Snakuscule.version>
-		<SplineDeformationGenerator.version>2.0.0-SNAPSHOT</SplineDeformationGenerator.version>
+		<SplineDeformationGenerator.version>2.0.0</SplineDeformationGenerator.version>
 		<StackReg.version>2.0.0-SNAPSHOT</StackReg.version>
 		<Stack_Manipulation.version>2.0.0-SNAPSHOT</Stack_Manipulation.version>
 		<Statistical_Region_Merging.version>2.0.0-SNAPSHOT</Statistical_Region_Merging.version>
