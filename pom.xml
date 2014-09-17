@@ -21,12 +21,15 @@
 	<description></description>
 
 	<properties>
+		<!-- TO REMOVE before 2.0.0 -->
+		<fiji.groupId>sc.fiji</fiji.groupId>
+		<fiji.version>2.0.0-SNAPSHOT</fiji.version>
+
 		<batik.version>1.8</batik.version>
 		<beanshell.version>2.0b4</beanshell.version>
 		<clojure.version>1.3.0</clojure.version>
 		<commons-math.version>3.2</commons-math.version>
 		<edu.mines.version>20100113</edu.mines.version>
-		<fiji.version>2.0.0-SNAPSHOT</fiji.version>
 		<itextpdf.version>5.1.1</itextpdf.version>
 		<jama.version>1.0.3</jama.version>
 		<java3d.version>1.5.2</java3d.version>
