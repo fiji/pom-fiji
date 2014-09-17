@@ -87,7 +87,7 @@
 		<IJ_Robot.version>1.0.0</IJ_Robot.version>
 		<IO.version>2.0.0</IO.version>
 		<Image_5D.version>1.2.5</Image_5D.version>
-		<ImageJ_3D_Objects_Counter.version>2.0.0</ImageJ_4D_Objects_Counter.version>
+		<ImageJ_3D_Objects_Counter.version>2.0.0</ImageJ_3D_Objects_Counter.version>
 		<ImageJ_3D_Viewer.version>2.0.0</ImageJ_3D_Viewer.version>
 		<Image_Expression_Parser.version>2.0.0</Image_Expression_Parser.version>
 		<Interactive_3D_Surface_Plot.version>2.31.0</Interactive_3D_Surface_Plot.version>
