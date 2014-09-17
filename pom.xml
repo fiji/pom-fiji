@@ -115,8 +115,8 @@
 		<SheppLogan.version>2.0.0-SNAPSHOT</SheppLogan.version>
 		<Sholl_Analysis.version>3.4.2</Sholl_Analysis.version>
 		<Simple_Neurite_Tracer.version>2.0.1</Simple_Neurite_Tracer.version>
-		<Siox_Segmentation.version>1.0.1-SNAPSHOT</Siox_Segmentation.version>
-		<Skeletonize3D.version>1.0.1-SNAPSHOT</Skeletonize3D.version>
+		<Siox_Segmentation.version>1.0.1</Siox_Segmentation.version>
+		<Skeletonize3D.version>1.0.1</Skeletonize3D.version>
 		<Snakuscule.version>2.0.0</Snakuscule.version>
 		<SplineDeformationGenerator.version>2.0.0</SplineDeformationGenerator.version>
 		<StackReg.version>2.0.0</StackReg.version>
@@ -145,7 +145,7 @@
 		<View5D.version>1.3.0</View5D.version>
 		<Volume_Calculator.version>1.0.0</Volume_Calculator.version>
 		<Volume_Viewer.version>2.01.0</Volume_Viewer.version>
-		<bUnwarpJ.version>2.6.1-SNAPSHOT</bUnwarpJ.version>
+		<bUnwarpJ.version>2.6.1</bUnwarpJ.version>
 		<blockmatching.version>2.0.0</blockmatching.version>
 		<fiji-compat.version>2.0.0</fiji-compat.version>
 		<fiji-lib.version>2.0.1</fiji-lib.version>
