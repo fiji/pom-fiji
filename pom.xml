@@ -122,7 +122,7 @@
 		<StackReg.version>2.0.0</StackReg.version>
 		<Stack_Manipulation.version>2.0.0</Stack_Manipulation.version>
 		<Statistical_Region_Merging.version>2.0.0</Statistical_Region_Merging.version>
-		<Stitching.version>2.0.0-SNAPSHOT</Stitching.version>
+		<Stitching.version>2.0.0</Stitching.version>
 		<Sync_Win.version>1.7-fiji1</Sync_Win.version>
 		<Thread_Killer.version>2.0.0</Thread_Killer.version>
 		<Threshold_Colour.version>2.0.0</Threshold_Colour.version>
