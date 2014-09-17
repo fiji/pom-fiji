@@ -58,12 +58,9 @@
 		<Arrow.version>2.0.1</Arrow.version>
 		<Auto_Threshold.version>1.15</Auto_Threshold.version>
 		<BalloonSegmentation.version>2.0.0</BalloonSegmentation.version>
-		<BeanShell_Interpreter.version>2.0.0-SNAPSHOT</BeanShell_Interpreter.version>
 		<Bug_Submitter.version>2.0.1</Bug_Submitter.version>
-		<CLI.version>2.0.0-SNAPSHOT</CLI.version>
 		<CPU_Meter.version>2.0.0</CPU_Meter.version>
 		<Calculator_Plus.version>2.0.0</Calculator_Plus.version>
-		<Clojure_Interpreter.version>2.0.0-SNAPSHOT</Clojure_Interpreter.version>
 		<Colocalisation_Analysis.version>2.0.0-SNAPSHOT</Colocalisation_Analysis.version>
 		<Color_Histogram.version>2.0.6-SNAPSHOT</Color_Histogram.version>
 		<Color_Inspector_3D.version>2.3</Color_Inspector_3D.version>
@@ -95,9 +92,6 @@
 		<Image_Expression_Parser.version>2.0.0-SNAPSHOT</Image_Expression_Parser.version>
 		<Interactive_3D_Surface_Plot.version>2.31.0</Interactive_3D_Surface_Plot.version>
 		<IsoData_Classifier.version>2.0.0-SNAPSHOT</IsoData_Classifier.version>
-		<JRuby_Interpreter.version>2.0.0-SNAPSHOT</JRuby_Interpreter.version>
-		<Javascript.version>2.0.0-SNAPSHOT</Javascript.version>
-		<Jython_Interpreter.version>2.0.0-SNAPSHOT</Jython_Interpreter.version>
 		<Kuwahara_Filter.version>2.0.0-SNAPSHOT</Kuwahara_Filter.version>
 		<Lasso_and_Blow_Tool.version>2.0.0-SNAPSHOT</Lasso_and_Blow_Tool.version>
 		<Linear_Kuwahara.version>2.0.0-SNAPSHOT</Linear_Kuwahara.version>
@@ -114,11 +108,9 @@
 		<RATS.version>2.0.0-SNAPSHOT</RATS.version>
 		<RandomJ.version>1.5.0</RandomJ.version>
 		<Reconstruct_Reader.version>2.0.0-SNAPSHOT</Reconstruct_Reader.version>
-		<Refresh_Javas.version>2.0.0-SNAPSHOT</Refresh_Javas.version>
 		<SPIM_Opener.version>2.0.0</SPIM_Opener.version>
 		<SPIM_Registration.version>2.0.0-SNAPSHOT</SPIM_Registration.version>
 		<Samples.version>2.0.0-SNAPSHOT</Samples.version>
-		<Scala_Interpreter.version>1.0.1</Scala_Interpreter.version>
 		<Series_Labeler.version>2.0.0-SNAPSHOT</Series_Labeler.version>
 		<SheppLogan.version>2.0.0-SNAPSHOT</SheppLogan.version>
 		<Sholl_Analysis.version>3.4.2</Sholl_Analysis.version>
@@ -155,10 +147,8 @@
 		<Volume_Viewer.version>2.01.0</Volume_Viewer.version>
 		<bUnwarpJ.version>2.6.1-SNAPSHOT</bUnwarpJ.version>
 		<blockmatching.version>2.0.0-SNAPSHOT</blockmatching.version>
-		<fake.version>2.0.0-SNAPSHOT</fake.version>
 		<fiji-compat.version>2.0.0-SNAPSHOT</fiji-compat.version>
 		<fiji-lib.version>2.0.1</fiji-lib.version>
-		<fiji-scripting.version>2.0.0-SNAPSHOT</fiji-scripting.version>
 		<image5d.version>1.2.5</image5d.version>
 		<imagescience.version>2.4.1</imagescience.version>
 		<imageware.version>2.0.0-SNAPSHOT</imageware.version>
@@ -175,6 +165,18 @@
 		<trakem2.version>1.0b-SNAPSHOT</trakem2.version>
 		<wavelets.version>2.0.0-SNAPSHOT</wavelets.version>
 		<weave_jy2java.version>2.0.0-SNAPSHOT</weave_jy2java.version>
+
+		<!-- Scripting stuff that will be obsoleted by scijava's scripting support -->
+		<BeanShell_Interpreter.version>2.0.0-SNAPSHOT</BeanShell_Interpreter.version>
+		<CLI.version>2.0.0-SNAPSHOT</CLI.version>
+		<Clojure_Interpreter.version>2.0.0-SNAPSHOT</Clojure_Interpreter.version>
+		<JRuby_Interpreter.version>2.0.0-SNAPSHOT</JRuby_Interpreter.version>
+		<Javascript.version>2.0.0-SNAPSHOT</Javascript.version>
+		<Jython_Interpreter.version>2.0.0-SNAPSHOT</Jython_Interpreter.version>
+		<Refresh_Javas.version>2.0.0-SNAPSHOT</Refresh_Javas.version>
+		<Scala_Interpreter.version>1.0.1</Scala_Interpreter.version>
+		<fake.version>2.0.0-SNAPSHOT</fake.version>
+		<fiji-scripting.version>2.0.0-SNAPSHOT</fiji-scripting.version>
 	</properties>
 
 	<dependencyManagement>
