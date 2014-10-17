@@ -17,8 +17,9 @@
 	<version>2.0.0-beta-1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
-	<name>Aggregator project for the Fiji project</name>
-	<description></description>
+	<name>Fiji Projects</name>
+	<url>http://fiji.sc/</url>
+	<inceptionYear>2007</inceptionYear>
 
 	<properties>
 		<!-- If two artifacts on the classpath use two different versions of the
