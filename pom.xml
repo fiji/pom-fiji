@@ -93,14 +93,14 @@
 		<FlowJ.version>1.29.0</FlowJ.version>
 		<Graph_Cut.version>0.2.0</Graph_Cut.version>
 		<Gray_Morphology.version>2.3.1</Gray_Morphology.version>
-		<Helmholtz_Analysis.version>2.0.0</Helmholtz_Analysis.version>
+		<Helmholtz_Analysis.version>2.0</Helmholtz_Analysis.version>
 		<IJ_Robot.version>1.0.0</IJ_Robot.version>
 		<IO.version>2.0.0</IO.version>
 		<Image_5D.version>1.2.5</Image_5D.version>
 		<ImageJ_3D_Objects_Counter.version>2.0.0</ImageJ_3D_Objects_Counter.version>
 		<ImageJ_3D_Viewer.version>2.0.0</ImageJ_3D_Viewer.version>
 		<Image_Expression_Parser.version>2.0.0</Image_Expression_Parser.version>
-		<Interactive_3D_Surface_Plot.version>2.31.0</Interactive_3D_Surface_Plot.version>
+		<Interactive_3D_Surface_Plot.version>2.31</Interactive_3D_Surface_Plot.version>
 		<IsoData_Classifier.version>2.0.0</IsoData_Classifier.version>
 		<Kuwahara_Filter.version>2.0.0</Kuwahara_Filter.version>
 		<Lasso_and_Blow_Tool.version>2.0.0</Lasso_and_Blow_Tool.version>
@@ -112,7 +112,7 @@
 		<Manual_Tracking.version>2.0.0</Manual_Tracking.version>
 		<MosaicJ.version>2.0.0</MosaicJ.version>
 		<Multi_Kymograph.version>2.0.0</Multi_Kymograph.version>
-		<PIV_analyser.version>1.1.0</PIV_analyser.version>
+		<PIV_analyser.version>1.1</PIV_analyser.version>
 		<QuickPALM.version>1.1.0</QuickPALM.version>
 		<RATS.version>2.0.0</RATS.version>
 		<RandomJ.version>1.5.0</RandomJ.version>
@@ -133,7 +133,7 @@
 		<Stitching.version>2.0.0</Stitching.version>
 		<Sync_Win.version>1.7-fiji1</Sync_Win.version>
 		<Thread_Killer.version>2.0.0</Thread_Killer.version>
-		<Threshold_Colour.version>2.0.0</Threshold_Colour.version>
+		<Threshold_Colour.version>2.0</Threshold_Colour.version>
 		<Time_Lapse.version>2.0.0</Time_Lapse.version>
 		<Time_Stamper.version>2.0.0</Time_Stamper.version>
 		<ToAST.version>25.0.0</ToAST.version>
@@ -151,7 +151,7 @@
 		<Video_Editing.version>2.0.0</Video_Editing.version>
 		<View5D.version>1.3.0</View5D.version>
 		<Volume_Calculator.version>1.0.0</Volume_Calculator.version>
-		<Volume_Viewer.version>2.01.0</Volume_Viewer.version>
+		<Volume_Viewer.version>2.01</Volume_Viewer.version>
 		<bUnwarpJ.version>2.6.1</bUnwarpJ.version>
 		<blockmatching.version>2.0.0</blockmatching.version>
 		<fiji-compat.version>2.0.0</fiji-compat.version>
@@ -163,7 +163,7 @@
 		<jep.version>2.4.2</jep.version>
 		<legacy-imglib1.version>2.0.0-SNAPSHOT</legacy-imglib1.version>
 		<level_sets.version>1.0</level_sets.version>
-		<mij.version>1.3.6-fiji1</mij.version>
+		<mij.version>1.3.6-fiji</mij.version>
 		<pal-optimization.version>2.0.0</pal-optimization.version>
 		<panorama.version>2.0.0</panorama.version>
 		<register_virtual_stack_slices.version>2.0.0</register_virtual_stack_slices.version>
