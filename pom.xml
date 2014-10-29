@@ -776,11 +776,6 @@
 			</dependency>
 			<dependency>
 				<groupId>sc.fiji</groupId>
-				<artifactId>trakem2</artifactId>
-				<version>${trakem2.version}</version>
-			</dependency>
-			<dependency>
-				<groupId>sc.fiji</groupId>
 				<artifactId>wavelets</artifactId>
 				<version>${wavelets.version}</version>
 			</dependency>
