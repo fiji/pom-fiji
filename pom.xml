@@ -183,7 +183,6 @@
 		<Jython_Interpreter.version>2.0.0-SNAPSHOT</Jython_Interpreter.version>
 		<Refresh_Javas.version>2.0.0-SNAPSHOT</Refresh_Javas.version>
 		<Scala_Interpreter.version>1.0.1</Scala_Interpreter.version>
-		<fake.version>2.0.0-SNAPSHOT</fake.version>
 		<fiji-scripting.version>2.0.0-SNAPSHOT</fiji-scripting.version>
 		<weave_jy2java.version>2.0.0-SNAPSHOT</weave_jy2java.version>
 	</properties>
@@ -694,11 +693,6 @@
 				<groupId>sc.fiji</groupId>
 				<artifactId>blockmatching_</artifactId>
 				<version>${blockmatching.version}</version>
-			</dependency>
-			<dependency>
-				<groupId>sc.fiji</groupId>
-				<artifactId>fake</artifactId>
-				<version>${fake.version}</version>
 			</dependency>
 			<dependency>
 				<groupId>sc.fiji</groupId>
