@@ -72,7 +72,6 @@
 		<Differentials.version>2.0.0</Differentials.version>
 		<Directionality.version>2.0.0</Directionality.version>
 		<Extended_Depth_Field.version>2.0.0</Extended_Depth_Field.version>
-		<FS_Align_TrakEM2.version>2.0.0</FS_Align_TrakEM2.version>
 		<FeatureJ.version>1.6.0</FeatureJ.version>
 		<Feature_Detection.version>2.0.0</Feature_Detection.version>
 		<Fiji_3D_Blob_Segmentation.version>2.0.0</Fiji_3D_Blob_Segmentation.version>
@@ -107,7 +106,6 @@
 		<QuickPALM.version>1.1.0</QuickPALM.version>
 		<RATS.version>2.0.0</RATS.version>
 		<RandomJ.version>1.5.0</RandomJ.version>
-		<Reconstruct_Reader.version>2.0.0</Reconstruct_Reader.version>
 		<SPIM_Opener.version>2.0.0</SPIM_Opener.version>
 		<SPIM_Registration.version>2.0.0-pre-0</SPIM_Registration.version>
 		<Samples.version>2.0.0</Samples.version>
@@ -131,8 +129,6 @@
 		<TopoJ.version>2.0.0</TopoJ.version>
 		<TrackMate.version>2.6.0</TrackMate.version>
 		<Trainable_Segmentation.version>2.1.0</Trainable_Segmentation.version>
-		<TrakEM2.version>1.0b</TrakEM2.version>
-		<TrakEM2_Archipelago.version>2.0.0</TrakEM2_Archipelago.version>
 		<TransformJ.version>2.8.0</TransformJ.version>
 		<TurboReg.version>2.0.0</TurboReg.version>
 		<VIB-lib.version>2.0.0</VIB-lib.version>
@@ -144,7 +140,6 @@
 		<Volume_Calculator.version>1.0.0</Volume_Calculator.version>
 		<Volume_Viewer.version>2.01</Volume_Viewer.version>
 		<bUnwarpJ.version>2.6.1</bUnwarpJ.version>
-		<blockmatching.version>2.0.0</blockmatching.version>
 		<fiji-compat.version>2.0.0</fiji-compat.version>
 		<fiji-lib.version>2.1.0</fiji-lib.version>
 		<image5d.version>1.2.5</image5d.version>
@@ -156,7 +151,6 @@
 		<mij.version>1.3.6-fiji</mij.version>
 		<pal-optimization.version>2.0.0</pal-optimization.version>
 		<panorama.version>2.0.0</panorama.version>
-		<register_virtual_stack_slices.version>2.0.1</register_virtual_stack_slices.version>
 		<registration_3d.version>2.0.0</registration_3d.version>
 		<wavelets.version>2.0.0</wavelets.version>
 	</properties>
@@ -262,11 +256,6 @@
 				<groupId>sc.fiji</groupId>
 				<artifactId>Extended_Depth_Field</artifactId>
 				<version>${Extended_Depth_Field.version}</version>
-			</dependency>
-			<dependency>
-				<groupId>sc.fiji</groupId>
-				<artifactId>FS_Align_TrakEM2</artifactId>
-				<version>${FS_Align_TrakEM2.version}</version>
 			</dependency>
 			<dependency>
 				<groupId>sc.fiji</groupId>
@@ -440,11 +429,6 @@
 			</dependency>
 			<dependency>
 				<groupId>sc.fiji</groupId>
-				<artifactId>Reconstruct_Reader</artifactId>
-				<version>${Reconstruct_Reader.version}</version>
-			</dependency>
-			<dependency>
-				<groupId>sc.fiji</groupId>
 				<artifactId>SPIM_Opener</artifactId>
 				<version>${SPIM_Opener.version}</version>
 			</dependency>
@@ -560,16 +544,6 @@
 			</dependency>
 			<dependency>
 				<groupId>sc.fiji</groupId>
-				<artifactId>TrakEM2_</artifactId>
-				<version>${TrakEM2.version}</version>
-			</dependency>
-			<dependency>
-				<groupId>sc.fiji</groupId>
-				<artifactId>TrakEM2_Archipelago</artifactId>
-				<version>${TrakEM2_Archipelago.version}</version>
-			</dependency>
-			<dependency>
-				<groupId>sc.fiji</groupId>
 				<artifactId>TransformJ_</artifactId>
 				<version>${TransformJ.version}</version>
 			</dependency>
@@ -625,11 +599,6 @@
 			</dependency>
 			<dependency>
 				<groupId>sc.fiji</groupId>
-				<artifactId>blockmatching_</artifactId>
-				<version>${blockmatching.version}</version>
-			</dependency>
-			<dependency>
-				<groupId>sc.fiji</groupId>
 				<artifactId>fiji-compat</artifactId>
 				<version>${fiji-compat.version}</version>
 			</dependency>
@@ -682,11 +651,6 @@
 				<groupId>sc.fiji</groupId>
 				<artifactId>panorama_</artifactId>
 				<version>${panorama.version}</version>
-			</dependency>
-			<dependency>
-				<groupId>sc.fiji</groupId>
-				<artifactId>register_virtual_stack_slices</artifactId>
-				<version>${register_virtual_stack_slices.version}</version>
 			</dependency>
 			<dependency>
 				<groupId>sc.fiji</groupId>
@@ -1006,7 +970,6 @@
 				<Differentials.version>LATEST</Differentials.version>
 				<Directionality.version>LATEST</Directionality.version>
 				<Extended_Depth_Field.version>LATEST</Extended_Depth_Field.version>
-				<FS_Align_TrakEM2.version>LATEST</FS_Align_TrakEM2.version>
 				<FeatureJ.version>LATEST</FeatureJ.version>
 				<Feature_Detection.version>LATEST</Feature_Detection.version>
 				<Fiji_3D_Blob_Segmentation.version>LATEST</Fiji_3D_Blob_Segmentation.version>
@@ -1041,7 +1004,6 @@
 				<QuickPALM.version>LATEST</QuickPALM.version>
 				<RATS.version>LATEST</RATS.version>
 				<RandomJ.version>LATEST</RandomJ.version>
-				<Reconstruct_Reader.version>LATEST</Reconstruct_Reader.version>
 				<SPIM_Opener.version>LATEST</SPIM_Opener.version>
 				<SPIM_Registration.version>LATEST</SPIM_Registration.version>
 				<Samples.version>LATEST</Samples.version>
@@ -1065,8 +1027,6 @@
 				<TopoJ.version>LATEST</TopoJ.version>
 				<TrackMate.version>LATEST</TrackMate.version>
 				<Trainable_Segmentation.version>LATEST</Trainable_Segmentation.version>
-				<TrakEM2.version>LATEST</TrakEM2.version>
-				<TrakEM2_Archipelago.version>LATEST</TrakEM2_Archipelago.version>
 				<TransformJ.version>LATEST</TransformJ.version>
 				<TurboReg.version>LATEST</TurboReg.version>
 				<VIB-lib.version>LATEST</VIB-lib.version>
@@ -1078,7 +1038,6 @@
 				<Volume_Calculator.version>LATEST</Volume_Calculator.version>
 				<Volume_Viewer.version>LATEST</Volume_Viewer.version>
 				<bUnwarpJ.version>LATEST</bUnwarpJ.version>
-				<blockmatching.version>LATEST</blockmatching.version>
 				<fiji-compat.version>LATEST</fiji-compat.version>
 				<fiji-lib.version>LATEST</fiji-lib.version>
 				<image5d.version>LATEST</image5d.version>
@@ -1090,7 +1049,6 @@
 				<mij.version>LATEST</mij.version>
 				<pal-optimization.version>LATEST</pal-optimization.version>
 				<panorama.version>LATEST</panorama.version>
-				<register_virtual_stack_slices.version>LATEST</register_virtual_stack_slices.version>
 				<registration_3d.version>LATEST</registration_3d.version>
 				<wavelets.version>LATEST</wavelets.version>
 			</properties>
