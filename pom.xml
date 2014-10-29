@@ -741,16 +741,19 @@
 				<groupId>java3d</groupId>
 				<artifactId>j3d-core</artifactId>
 				<version>${java3d.version}</version>
+				<scope>provided</scope>
 			</dependency>
 			<dependency>
 				<groupId>java3d</groupId>
 				<artifactId>j3d-core-utils</artifactId>
 				<version>${java3d.version}</version>
+				<scope>provided</scope>
 			</dependency>
 			<dependency>
 				<groupId>java3d</groupId>
 				<artifactId>vecmath</artifactId>
 				<version>${java3d.version}</version>
+				<scope>provided</scope>
 			</dependency>
 			<dependency>
 				<groupId>org.javassist</groupId>
