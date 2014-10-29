@@ -35,10 +35,6 @@
 		     simply override that component's version property in your POM's
 		     <properties> section. dependencies rather than hardcoding them. -->
 
-		<!-- TO REMOVE before 2.0.0 -->
-		<fiji.groupId>sc.fiji</fiji.groupId>
-		<fiji.version>2.0.0-SNAPSHOT</fiji.version>
-
 		<batik.version>1.8</batik.version>
 		<beanshell.version>2.0b4</beanshell.version>
 		<clojure.version>1.3.0</clojure.version>
