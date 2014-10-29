@@ -123,12 +123,12 @@
 		<Series_Labeler.version>2.0.0</Series_Labeler.version>
 		<Sholl_Analysis.version>3.4.3</Sholl_Analysis.version>
 		<Simple_Neurite_Tracer.version>2.0.0</Simple_Neurite_Tracer.version>
-		<Siox_Segmentation.version>1.0.1</Siox_Segmentation.version>
+		<Siox_Segmentation.version>1.0.3</Siox_Segmentation.version>
 		<Skeletonize3D.version>1.0.1</Skeletonize3D.version>
 		<Snakuscule.version>2.0.0</Snakuscule.version>
 		<SplineDeformationGenerator.version>2.0.0</SplineDeformationGenerator.version>
 		<StackReg.version>2.0.0</StackReg.version>
-		<Stack_Manipulation.version>2.0.0</Stack_Manipulation.version>
+		<Stack_Manipulation.version>2.0.1</Stack_Manipulation.version>
 		<Statistical_Region_Merging.version>2.0.0</Statistical_Region_Merging.version>
 		<Stitching.version>2.0.0</Stitching.version>
 		<Sync_Win.version>1.7-fiji1</Sync_Win.version>
@@ -139,7 +139,7 @@
 		<ToAST.version>25.0.0</ToAST.version>
 		<TopoJ.version>2.0.0</TopoJ.version>
 		<TrackMate.version>2.5.3</TrackMate.version>
-		<Trainable_Segmentation.version>2.0.0</Trainable_Segmentation.version>
+		<Trainable_Segmentation.version>2.1.0</Trainable_Segmentation.version>
 		<TrakEM2.version>1.0b-SNAPSHOT</TrakEM2.version>
 		<TrakEM2_Archipelago.version>2.0.0-SNAPSHOT</TrakEM2_Archipelago.version>
 		<TransformJ.version>2.8.0</TransformJ.version>
@@ -166,7 +166,7 @@
 		<mij.version>1.3.6-fiji</mij.version>
 		<pal-optimization.version>2.0.0</pal-optimization.version>
 		<panorama.version>2.0.0</panorama.version>
-		<register_virtual_stack_slices.version>2.0.0</register_virtual_stack_slices.version>
+		<register_virtual_stack_slices.version>2.0.1</register_virtual_stack_slices.version>
 		<registration_3d.version>2.0.0</registration_3d.version>
 		<wavelets.version>2.0.0</wavelets.version>
 
