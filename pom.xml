@@ -58,7 +58,7 @@
 		<AnalyzeSkeleton.version>2.0.0</AnalyzeSkeleton.version>
 		<Analyze_Reader_Writer.version>2.0.0</Analyze_Reader_Writer.version>
 		<Anisotropic_Diffusion_2D.version>2.0.0</Anisotropic_Diffusion_2D.version>
-		<Archipelago_Plugins.version>0.5.0-SNAPSHOT</Archipelago_Plugins.version>
+		<Archipelago_Plugins.version>0.5.0</Archipelago_Plugins.version>
 		<Arrow.version>2.0.1</Arrow.version>
 		<Auto_Threshold.version>1.15</Auto_Threshold.version>
 		<BalloonSegmentation.version>2.0.0</BalloonSegmentation.version>
@@ -75,11 +75,11 @@
 		<Differentials.version>2.0.0</Differentials.version>
 		<Directionality.version>2.0.0</Directionality.version>
 		<Extended_Depth_Field.version>2.0.0</Extended_Depth_Field.version>
-		<FS_Align_TrakEM2.version>2.0.0-SNAPSHOT</FS_Align_TrakEM2.version>
+		<FS_Align_TrakEM2.version>2.0.0</FS_Align_TrakEM2.version>
 		<FeatureJ.version>1.6.0</FeatureJ.version>
 		<Feature_Detection.version>2.0.0</Feature_Detection.version>
 		<Fiji_3D_Blob_Segmentation.version>2.0.0</Fiji_3D_Blob_Segmentation.version>
-		<Fiji_Archipelago.version>2.0.0-SNAPSHOT</Fiji_Archipelago.version>
+		<Fiji_Archipelago.version>2.0.0</Fiji_Archipelago.version>
 		<Fiji_Developer.version>2.0.0</Fiji_Developer.version>
 		<Fiji_Package_Maker.version>2.0.0</Fiji_Package_Maker.version>
 		<Fiji_Plugins.version>2.0.0</Fiji_Plugins.version>
@@ -132,10 +132,10 @@
 		<Time_Stamper.version>2.0.0</Time_Stamper.version>
 		<ToAST.version>25.0.0</ToAST.version>
 		<TopoJ.version>2.0.0</TopoJ.version>
-		<TrackMate.version>2.5.3</TrackMate.version>
+		<TrackMate.version>2.6.0</TrackMate.version>
 		<Trainable_Segmentation.version>2.1.0</Trainable_Segmentation.version>
-		<TrakEM2.version>1.0b-SNAPSHOT</TrakEM2.version>
-		<TrakEM2_Archipelago.version>2.0.0-SNAPSHOT</TrakEM2_Archipelago.version>
+		<TrakEM2.version>1.0b</TrakEM2.version>
+		<TrakEM2_Archipelago.version>2.0.0</TrakEM2_Archipelago.version>
 		<TransformJ.version>2.8.0</TransformJ.version>
 		<TurboReg.version>2.0.0</TurboReg.version>
 		<VIB-lib.version>2.0.0</VIB-lib.version>
