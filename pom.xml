@@ -855,7 +855,6 @@
 			<plugin>
 				<groupId>org.scijava</groupId>
 				<artifactId>scijava-maven-plugin</artifactId>
-				<version>${scijava-maven-plugin.version}</version>
 				<executions>
 					<execution>
 						<id>set-rootdir</id>
