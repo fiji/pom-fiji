@@ -448,11 +448,6 @@
 			</dependency>
 			<dependency>
 				<groupId>sc.fiji</groupId>
-				<artifactId>Refresh_Javas</artifactId>
-				<version>${Refresh_Javas.version}</version>
-			</dependency>
-			<dependency>
-				<groupId>sc.fiji</groupId>
 				<artifactId>SPIM_Opener</artifactId>
 				<version>${SPIM_Opener.version}</version>
 			</dependency>
@@ -700,11 +695,6 @@
 				<groupId>sc.fiji</groupId>
 				<artifactId>registration_3d</artifactId>
 				<version>${registration_3d.version}</version>
-			</dependency>
-			<dependency>
-				<groupId>sc.fiji</groupId>
-				<artifactId>skeletonize3d</artifactId>
-				<version>${skeletonize3d.version}</version>
 			</dependency>
 			<dependency>
 				<groupId>sc.fiji</groupId>
