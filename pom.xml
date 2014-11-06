@@ -134,6 +134,7 @@
 		<Volume_Calculator.version>1.0.0</Volume_Calculator.version>
 		<Volume_Viewer.version>2.01</Volume_Viewer.version>
 		<bUnwarpJ.version>2.6.1</bUnwarpJ.version>
+		<bij.version>0.1.0</bij.version>
 		<fiji-compat.version>2.0.0</fiji-compat.version>
 		<fiji-lib.version>2.1.0</fiji-lib.version>
 		<imagescience.version>2.4.1</imagescience.version>
@@ -567,6 +568,11 @@
 			</dependency>
 			<dependency>
 				<groupId>sc.fiji</groupId>
+				<artifactId>bij</artifactId>
+				<version>${bij.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>sc.fiji</groupId>
 				<artifactId>fiji-compat</artifactId>
 				<version>${fiji-compat.version}</version>
 			</dependency>
@@ -996,6 +1002,7 @@
 				<Volume_Calculator.version>LATEST</Volume_Calculator.version>
 				<Volume_Viewer.version>LATEST</Volume_Viewer.version>
 				<bUnwarpJ.version>LATEST</bUnwarpJ.version>
+				<bij.version>LATEST</bij.version>
 				<fiji-compat.version>LATEST</fiji-compat.version>
 				<fiji-lib.version>LATEST</fiji-lib.version>
 				<imagescience.version>LATEST</imagescience.version>
