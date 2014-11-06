@@ -71,7 +71,7 @@
 		<Differentials.version>2.0.0</Differentials.version>
 		<Directionality.version>2.0</Directionality.version>
 		<Extended_Depth_Field.version>2.0.1</Extended_Depth_Field.version>
-		<FeatureJ.version>1.6.0</FeatureJ.version>
+		<FeatureJ.version>1.6.1</FeatureJ.version>
 		<Fiji_3D_Blob_Segmentation.version>2.0.0</Fiji_3D_Blob_Segmentation.version>
 		<Fiji_Archipelago.version>2.0.0</Fiji_Archipelago.version>
 		<Fiji_Developer.version>2.0.1</Fiji_Developer.version>
@@ -94,7 +94,7 @@
 		<Linear_Kuwahara.version>2.0.0</Linear_Kuwahara.version>
 		<LocalThickness.version>3.1</LocalThickness.version>
 		<MTrack2.version>2.0.0</MTrack2.version>
-		<MTrackJ.version>1.5.0</MTrackJ.version>
+		<MTrackJ.version>1.5.1</MTrackJ.version>
 		<M_I_P.version>2.0.0</M_I_P.version>
 		<Manual_Tracking.version>2.0.0</Manual_Tracking.version>
 		<MosaicJ.version>2.0.0</MosaicJ.version>
@@ -102,7 +102,7 @@
 		<PIV_analyser.version>1.1</PIV_analyser.version>
 		<QuickPALM.version>1.1</QuickPALM.version>
 		<RATS.version>2.0.0</RATS.version>
-		<RandomJ.version>1.5.0</RandomJ.version>
+		<RandomJ.version>1.5.1</RandomJ.version>
 		<SPIM_Opener.version>2.0.0</SPIM_Opener.version>
 		<Samples.version>2.0.0</Samples.version>
 		<Series_Labeler.version>2.0.0</Series_Labeler.version>
@@ -123,7 +123,7 @@
 		<ToAST.version>25.0</ToAST.version>
 		<TopoJ.version>2.0.0</TopoJ.version>
 		<TrackMate.version>2.6.0</TrackMate.version>
-		<TransformJ.version>2.8.0</TransformJ.version>
+		<TransformJ.version>2.8.1</TransformJ.version>
 		<TurboReg.version>2.0.0</TurboReg.version>
 		<VIB-lib.version>2.0.1</VIB-lib.version>
 		<VIB.version>2.0.1</VIB.version>
