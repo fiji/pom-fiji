@@ -79,7 +79,6 @@
 		<Fiji_Plugins.version>2.0.1</Fiji_Plugins.version>
 		<Fiji_Updater.version>2.0.0</Fiji_Updater.version>
 		<FlowJ.version>1.29</FlowJ.version>
-		<Graph_Cut.version>0.2.0</Graph_Cut.version>
 		<Gray_Morphology.version>2.3.1</Gray_Morphology.version>
 		<Helmholtz_Analysis.version>2.0</Helmholtz_Analysis.version>
 		<IJ_Robot.version>1.0.0</IJ_Robot.version>
@@ -116,7 +115,6 @@
 		<StackReg.version>2.0.0</StackReg.version>
 		<Stack_Manipulation.version>2.0.1</Stack_Manipulation.version>
 		<Statistical_Region_Merging.version>2.0.0</Statistical_Region_Merging.version>
-		<Stitching.version>2.0.0</Stitching.version>
 		<Sync_Win.version>1.7-fiji1</Sync_Win.version>
 		<Thread_Killer.version>2.0.0</Thread_Killer.version>
 		<Threshold_Colour.version>2.0</Threshold_Colour.version>
@@ -125,7 +123,6 @@
 		<ToAST.version>25.0</ToAST.version>
 		<TopoJ.version>2.0.0</TopoJ.version>
 		<TrackMate.version>2.6.0</TrackMate.version>
-		<Trainable_Segmentation.version>2.1.0</Trainable_Segmentation.version>
 		<TransformJ.version>2.8.0</TransformJ.version>
 		<TurboReg.version>2.0.0</TurboReg.version>
 		<VIB-lib.version>2.0.1</VIB-lib.version>
@@ -475,11 +472,6 @@
 			</dependency>
 			<dependency>
 				<groupId>sc.fiji</groupId>
-				<artifactId>Stitching_</artifactId>
-				<version>${Stitching.version}</version>
-			</dependency>
-			<dependency>
-				<groupId>sc.fiji</groupId>
 				<artifactId>Sync_Win</artifactId>
 				<version>${Sync_Win.version}</version>
 			</dependency>
@@ -517,11 +509,6 @@
 				<groupId>sc.fiji</groupId>
 				<artifactId>TrackMate_</artifactId>
 				<version>${TrackMate.version}</version>
-			</dependency>
-			<dependency>
-				<groupId>sc.fiji</groupId>
-				<artifactId>Trainable_Segmentation</artifactId>
-				<version>${Trainable_Segmentation.version}</version>
 			</dependency>
 			<dependency>
 				<groupId>sc.fiji</groupId>
@@ -990,7 +977,6 @@
 				<StackReg.version>LATEST</StackReg.version>
 				<Stack_Manipulation.version>LATEST</Stack_Manipulation.version>
 				<Statistical_Region_Merging.version>LATEST</Statistical_Region_Merging.version>
-				<Stitching.version>LATEST</Stitching.version>
 				<Sync_Win.version>LATEST</Sync_Win.version>
 				<Thread_Killer.version>LATEST</Thread_Killer.version>
 				<Threshold_Colour.version>LATEST</Threshold_Colour.version>
@@ -999,7 +985,6 @@
 				<ToAST.version>LATEST</ToAST.version>
 				<TopoJ.version>LATEST</TopoJ.version>
 				<TrackMate.version>LATEST</TrackMate.version>
-				<Trainable_Segmentation.version>LATEST</Trainable_Segmentation.version>
 				<TransformJ.version>LATEST</TransformJ.version>
 				<TurboReg.version>LATEST</TurboReg.version>
 				<VIB-lib.version>LATEST</VIB-lib.version>
