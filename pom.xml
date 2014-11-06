@@ -67,13 +67,11 @@
 		<Color_Inspector_3D.version>2.3</Color_Inspector_3D.version>
 		<Colour_Deconvolution.version>2.0.0</Colour_Deconvolution.version>
 		<CorrectBleach.version>2.0.0</CorrectBleach.version>
-		<Descriptor_based_registration.version>2.0.0-pre-0</Descriptor_based_registration.version>
 		<Dichromacy.version>2.0.0</Dichromacy.version>
 		<Differentials.version>2.0.0</Differentials.version>
 		<Directionality.version>2.0.0</Directionality.version>
 		<Extended_Depth_Field.version>2.0.1</Extended_Depth_Field.version>
 		<FeatureJ.version>1.6.0</FeatureJ.version>
-		<Feature_Detection.version>2.0.0</Feature_Detection.version>
 		<Fiji_3D_Blob_Segmentation.version>2.0.0</Fiji_3D_Blob_Segmentation.version>
 		<Fiji_Archipelago.version>2.0.0</Fiji_Archipelago.version>
 		<Fiji_Developer.version>2.0.1</Fiji_Developer.version>
@@ -107,7 +105,6 @@
 		<RATS.version>2.0.0</RATS.version>
 		<RandomJ.version>1.5.0</RandomJ.version>
 		<SPIM_Opener.version>2.0.0</SPIM_Opener.version>
-		<SPIM_Registration.version>2.0.0-pre-0</SPIM_Registration.version>
 		<Samples.version>2.0.0</Samples.version>
 		<Series_Labeler.version>2.0.0</Series_Labeler.version>
 		<Sholl_Analysis.version>3.4.3</Sholl_Analysis.version>
@@ -234,11 +231,6 @@
 			</dependency>
 			<dependency>
 				<groupId>sc.fiji</groupId>
-				<artifactId>Descriptor_based_registration</artifactId>
-				<version>${Descriptor_based_registration.version}</version>
-			</dependency>
-			<dependency>
-				<groupId>sc.fiji</groupId>
 				<artifactId>Dichromacy_</artifactId>
 				<version>${Dichromacy.version}</version>
 			</dependency>
@@ -261,11 +253,6 @@
 				<groupId>sc.fiji</groupId>
 				<artifactId>FeatureJ_</artifactId>
 				<version>${FeatureJ.version}</version>
-			</dependency>
-			<dependency>
-				<groupId>sc.fiji</groupId>
-				<artifactId>Feature_Detection</artifactId>
-				<version>${Feature_Detection.version}</version>
 			</dependency>
 			<dependency>
 				<groupId>sc.fiji</groupId>
@@ -431,11 +418,6 @@
 				<groupId>sc.fiji</groupId>
 				<artifactId>SPIM_Opener</artifactId>
 				<version>${SPIM_Opener.version}</version>
-			</dependency>
-			<dependency>
-				<groupId>sc.fiji</groupId>
-				<artifactId>SPIM_Registration</artifactId>
-				<version>${SPIM_Registration.version}</version>
 			</dependency>
 			<dependency>
 				<groupId>sc.fiji</groupId>
@@ -965,13 +947,11 @@
 				<Color_Inspector_3D.version>LATEST</Color_Inspector_3D.version>
 				<Colour_Deconvolution.version>LATEST</Colour_Deconvolution.version>
 				<CorrectBleach.version>LATEST</CorrectBleach.version>
-				<Descriptor_based_registration.version>LATEST</Descriptor_based_registration.version>
 				<Dichromacy.version>LATEST</Dichromacy.version>
 				<Differentials.version>LATEST</Differentials.version>
 				<Directionality.version>LATEST</Directionality.version>
 				<Extended_Depth_Field.version>LATEST</Extended_Depth_Field.version>
 				<FeatureJ.version>LATEST</FeatureJ.version>
-				<Feature_Detection.version>LATEST</Feature_Detection.version>
 				<Fiji_3D_Blob_Segmentation.version>LATEST</Fiji_3D_Blob_Segmentation.version>
 				<Fiji_Archipelago.version>LATEST</Fiji_Archipelago.version>
 				<Fiji_Developer.version>LATEST</Fiji_Developer.version>
@@ -1005,7 +985,6 @@
 				<RATS.version>LATEST</RATS.version>
 				<RandomJ.version>LATEST</RandomJ.version>
 				<SPIM_Opener.version>LATEST</SPIM_Opener.version>
-				<SPIM_Registration.version>LATEST</SPIM_Registration.version>
 				<Samples.version>LATEST</Samples.version>
 				<Series_Labeler.version>LATEST</Series_Labeler.version>
 				<Sholl_Analysis.version>LATEST</Sholl_Analysis.version>
