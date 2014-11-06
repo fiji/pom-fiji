@@ -139,7 +139,6 @@
 		<bUnwarpJ.version>2.6.1</bUnwarpJ.version>
 		<fiji-compat.version>2.0.0</fiji-compat.version>
 		<fiji-lib.version>2.1.0</fiji-lib.version>
-		<image5d.version>1.2.5</image5d.version>
 		<imagescience.version>2.4.1</imagescience.version>
 		<imageware.version>2.0.0</imageware.version>
 		<javac.version>1.6.0.24-ubuntu-fiji1</javac.version>
@@ -591,11 +590,6 @@
 			</dependency>
 			<dependency>
 				<groupId>sc.fiji</groupId>
-				<artifactId>image5d</artifactId>
-				<version>${image5d.version}</version>
-			</dependency>
-			<dependency>
-				<groupId>sc.fiji</groupId>
 				<artifactId>imagescience</artifactId>
 				<version>${imagescience.version}</version>
 			</dependency>
@@ -1019,7 +1013,6 @@
 				<bUnwarpJ.version>LATEST</bUnwarpJ.version>
 				<fiji-compat.version>LATEST</fiji-compat.version>
 				<fiji-lib.version>LATEST</fiji-lib.version>
-				<image5d.version>LATEST</image5d.version>
 				<imagescience.version>LATEST</imagescience.version>
 				<imageware.version>LATEST</imageware.version>
 				<javac.version>LATEST</javac.version>
