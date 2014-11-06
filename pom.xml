@@ -69,7 +69,7 @@
 		<CorrectBleach.version>2.0.0</CorrectBleach.version>
 		<Dichromacy.version>2.0.0</Dichromacy.version>
 		<Differentials.version>2.0.0</Differentials.version>
-		<Directionality.version>2.0.0</Directionality.version>
+		<Directionality.version>2.0</Directionality.version>
 		<Extended_Depth_Field.version>2.0.1</Extended_Depth_Field.version>
 		<FeatureJ.version>1.6.0</FeatureJ.version>
 		<Fiji_3D_Blob_Segmentation.version>2.0.0</Fiji_3D_Blob_Segmentation.version>
@@ -78,7 +78,7 @@
 		<Fiji_Package_Maker.version>2.0.1</Fiji_Package_Maker.version>
 		<Fiji_Plugins.version>2.0.1</Fiji_Plugins.version>
 		<Fiji_Updater.version>2.0.0</Fiji_Updater.version>
-		<FlowJ.version>1.29.0</FlowJ.version>
+		<FlowJ.version>1.29</FlowJ.version>
 		<Graph_Cut.version>0.2.0</Graph_Cut.version>
 		<Gray_Morphology.version>2.3.1</Gray_Morphology.version>
 		<Helmholtz_Analysis.version>2.0</Helmholtz_Analysis.version>
@@ -93,7 +93,7 @@
 		<Kuwahara_Filter.version>2.0.0</Kuwahara_Filter.version>
 		<Lasso_and_Blow_Tool.version>2.0.0</Lasso_and_Blow_Tool.version>
 		<Linear_Kuwahara.version>2.0.0</Linear_Kuwahara.version>
-		<LocalThickness.version>3.1.0</LocalThickness.version>
+		<LocalThickness.version>3.1</LocalThickness.version>
 		<MTrack2.version>2.0.0</MTrack2.version>
 		<MTrackJ.version>1.5.0</MTrackJ.version>
 		<M_I_P.version>2.0.0</M_I_P.version>
@@ -101,7 +101,7 @@
 		<MosaicJ.version>2.0.0</MosaicJ.version>
 		<Multi_Kymograph.version>2.0.0</Multi_Kymograph.version>
 		<PIV_analyser.version>1.1</PIV_analyser.version>
-		<QuickPALM.version>1.1.0</QuickPALM.version>
+		<QuickPALM.version>1.1</QuickPALM.version>
 		<RATS.version>2.0.0</RATS.version>
 		<RandomJ.version>1.5.0</RandomJ.version>
 		<SPIM_Opener.version>2.0.0</SPIM_Opener.version>
@@ -122,7 +122,7 @@
 		<Threshold_Colour.version>2.0</Threshold_Colour.version>
 		<Time_Lapse.version>2.0.0</Time_Lapse.version>
 		<Time_Stamper.version>2.0.0</Time_Stamper.version>
-		<ToAST.version>25.0.0</ToAST.version>
+		<ToAST.version>25.0</ToAST.version>
 		<TopoJ.version>2.0.0</TopoJ.version>
 		<TrackMate.version>2.6.0</TrackMate.version>
 		<Trainable_Segmentation.version>2.1.0</Trainable_Segmentation.version>
