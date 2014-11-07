@@ -123,6 +123,7 @@
 		<ToAST.version>25.0</ToAST.version>
 		<TopoJ.version>2.0.0</TopoJ.version>
 		<TrackMate.version>2.6.0</TrackMate.version>
+		<Trainable_Segmentation.version>2.1.1</Trainable_Segmentation.version>
 		<TransformJ.version>2.8.1</TransformJ.version>
 		<TurboReg.version>2.0.0</TurboReg.version>
 		<VIB-lib.version>2.0.1</VIB-lib.version>
@@ -510,6 +511,11 @@
 				<groupId>sc.fiji</groupId>
 				<artifactId>TrackMate_</artifactId>
 				<version>${TrackMate.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>sc.fiji</groupId>
+				<artifactId>Trainable_Segmentation</artifactId>
+				<version>${Trainable_Segmentation.version}</version>
 			</dependency>
 			<dependency>
 				<groupId>sc.fiji</groupId>
@@ -991,6 +997,7 @@
 				<ToAST.version>LATEST</ToAST.version>
 				<TopoJ.version>LATEST</TopoJ.version>
 				<TrackMate.version>LATEST</TrackMate.version>
+				<Trainable_Segmentation.version>LATEST</Trainable_Segmentation.version>
 				<TransformJ.version>LATEST</TransformJ.version>
 				<TurboReg.version>LATEST</TurboReg.version>
 				<VIB-lib.version>LATEST</VIB-lib.version>
