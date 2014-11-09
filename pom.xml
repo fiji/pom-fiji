@@ -58,14 +58,14 @@
 		<AnalyzeSkeleton.version>2.0.0</AnalyzeSkeleton.version>
 		<Analyze_Reader_Writer.version>2.0.0</Analyze_Reader_Writer.version>
 		<Anisotropic_Diffusion_2D.version>2.0.0</Anisotropic_Diffusion_2D.version>
-		<Archipelago_Plugins.version>0.5.0</Archipelago_Plugins.version>
+		<Archipelago_Plugins.version>0.5.1</Archipelago_Plugins.version>
 		<Arrow.version>2.0.1</Arrow.version>
 		<Auto_Threshold.version>1.15</Auto_Threshold.version>
 		<BalloonSegmentation.version>2.0.0</BalloonSegmentation.version>
 		<Bug_Submitter.version>2.0.1</Bug_Submitter.version>
 		<CPU_Meter.version>2.0.0</CPU_Meter.version>
 		<Calculator_Plus.version>2.0.0</Calculator_Plus.version>
-		<Colocalisation_Analysis.version>2.0.0</Colocalisation_Analysis.version>
+		<Colocalisation_Analysis.version>2.0.1</Colocalisation_Analysis.version>
 		<Color_Histogram.version>2.0.6</Color_Histogram.version>
 		<Color_Inspector_3D.version>2.3</Color_Inspector_3D.version>
 		<Colour_Deconvolution.version>2.0.0</Colour_Deconvolution.version>
@@ -75,7 +75,7 @@
 		<Directionality.version>2.0</Directionality.version>
 		<Extended_Depth_Field.version>2.0.1</Extended_Depth_Field.version>
 		<FeatureJ.version>1.6.1</FeatureJ.version>
-		<Fiji_3D_Blob_Segmentation.version>2.0.1</Fiji_3D_Blob_Segmentation.version>
+		<Fiji_3D_Blob_Segmentation.version>2.0.2</Fiji_3D_Blob_Segmentation.version>
 		<Fiji_Archipelago.version>2.0.0</Fiji_Archipelago.version>
 		<Fiji_Developer.version>2.0.1</Fiji_Developer.version>
 		<Fiji_Package_Maker.version>2.0.1</Fiji_Package_Maker.version>
@@ -88,12 +88,12 @@
 		<IO.version>2.0.0</IO.version>
 		<Image_5D.version>1.2.5</Image_5D.version>
 		<ImageJ_3D_Objects_Counter.version>2.0.0</ImageJ_3D_Objects_Counter.version>
-		<ImageJ_3D_Viewer.version>3.0.0</ImageJ_3D_Viewer.version>
+		<ImageJ_3D_Viewer.version>3.0.1</ImageJ_3D_Viewer.version>
 		<Image_Expression_Parser.version>3.0.0</Image_Expression_Parser.version>
 		<Interactive_3D_Surface_Plot.version>2.31</Interactive_3D_Surface_Plot.version>
 		<IsoData_Classifier.version>2.0.0</IsoData_Classifier.version>
 		<Kuwahara_Filter.version>2.0.0</Kuwahara_Filter.version>
-		<Lasso_and_Blow_Tool.version>2.0.0</Lasso_and_Blow_Tool.version>
+		<Lasso_and_Blow_Tool.version>2.0.1</Lasso_and_Blow_Tool.version>
 		<Linear_Kuwahara.version>2.0.0</Linear_Kuwahara.version>
 		<LocalThickness.version>3.1</LocalThickness.version>
 		<MTrack2.version>2.0.0</MTrack2.version>
@@ -106,12 +106,12 @@
 		<QuickPALM.version>1.1</QuickPALM.version>
 		<RATS.version>2.0.0</RATS.version>
 		<RandomJ.version>1.5.1</RandomJ.version>
-		<SPIM_Opener.version>2.0.0</SPIM_Opener.version>
+		<SPIM_Opener.version>2.0.1</SPIM_Opener.version>
 		<Samples.version>2.0.0</Samples.version>
 		<Series_Labeler.version>2.0.0</Series_Labeler.version>
 		<Sholl_Analysis.version>3.4.3</Sholl_Analysis.version>
 		<Simple_Neurite_Tracer.version>2.0.2</Simple_Neurite_Tracer.version>
-		<Siox_Segmentation.version>1.0.3</Siox_Segmentation.version>
+		<Siox_Segmentation.version>1.0.4</Siox_Segmentation.version>
 		<Skeletonize3D.version>1.0.1</Skeletonize3D.version>
 		<Snakuscule.version>2.0.0</Snakuscule.version>
 		<SplineDeformationGenerator.version>2.0.0</SplineDeformationGenerator.version>
@@ -131,7 +131,7 @@
 		<TurboReg.version>2.0.0</TurboReg.version>
 		<VIB-lib.version>2.0.1</VIB-lib.version>
 		<VIB.version>2.0.1</VIB.version>
-		<Vaa3d_Reader.version>2.0.0</Vaa3d_Reader.version>
+		<Vaa3d_Reader.version>2.0.1</Vaa3d_Reader.version>
 		<Vaa3d_Writer.version>1.0.0</Vaa3d_Writer.version>
 		<Video_Editing.version>2.0.0</Video_Editing.version>
 		<View5D.version>1.3.0</View5D.version>
@@ -145,7 +145,7 @@
 		<imageware.version>2.0.0</imageware.version>
 		<javac.version>1.6.0.24-ubuntu-fiji1</javac.version>
 		<jep.version>2.4.2</jep.version>
-		<level_sets.version>1.0</level_sets.version>
+		<level_sets.version>1.0.1</level_sets.version>
 		<mij.version>1.3.6-fiji</mij.version>
 		<pal-optimization.version>2.0.0</pal-optimization.version>
 		<panorama.version>2.0.0</panorama.version>
