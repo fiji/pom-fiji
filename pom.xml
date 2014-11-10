@@ -58,7 +58,7 @@
 		<AnalyzeSkeleton.version>2.0.0</AnalyzeSkeleton.version>
 		<Analyze_Reader_Writer.version>2.0.0</Analyze_Reader_Writer.version>
 		<Anisotropic_Diffusion_2D.version>2.0.0</Anisotropic_Diffusion_2D.version>
-		<Archipelago_Plugins.version>0.5.1</Archipelago_Plugins.version>
+		<Archipelago_Plugins.version>0.5.2</Archipelago_Plugins.version>
 		<Arrow.version>2.0.1</Arrow.version>
 		<Auto_Threshold.version>1.15</Auto_Threshold.version>
 		<BalloonSegmentation.version>2.0.0</BalloonSegmentation.version>
@@ -77,7 +77,7 @@
 		<FeatureJ.version>1.6.1</FeatureJ.version>
 		<Fiji_3D_Blob_Segmentation.version>2.0.2</Fiji_3D_Blob_Segmentation.version>
 		<Fiji_Archipelago.version>2.0.0</Fiji_Archipelago.version>
-		<Fiji_Developer.version>2.0.1</Fiji_Developer.version>
+		<Fiji_Developer.version>2.0.2</Fiji_Developer.version>
 		<Fiji_Package_Maker.version>2.0.1</Fiji_Package_Maker.version>
 		<Fiji_Plugins.version>2.0.1</Fiji_Plugins.version>
 		<Fiji_Updater.version>2.0.0</Fiji_Updater.version>
@@ -126,7 +126,7 @@
 		<ToAST.version>25.0</ToAST.version>
 		<TopoJ.version>2.0.0</TopoJ.version>
 		<TrackMate.version>2.6.0</TrackMate.version>
-		<Trainable_Segmentation.version>2.1.3</Trainable_Segmentation.version>
+		<Trainable_Segmentation.version>2.1.4</Trainable_Segmentation.version>
 		<TransformJ.version>2.8.1</TransformJ.version>
 		<TurboReg.version>2.0.0</TurboReg.version>
 		<VIB-lib.version>2.0.1</VIB-lib.version>
@@ -141,7 +141,7 @@
 		<bij.version>0.1.0</bij.version>
 		<fiji-compat.version>2.0.0</fiji-compat.version>
 		<fiji-lib.version>2.1.0</fiji-lib.version>
-		<imagescience.version>2.4.1</imagescience.version>
+		<imagescience.version>2.4.2</imagescience.version>
 		<imageware.version>2.0.0</imageware.version>
 		<javac.version>1.6.0.24-ubuntu-fiji1</javac.version>
 		<jep.version>2.4.2</jep.version>
