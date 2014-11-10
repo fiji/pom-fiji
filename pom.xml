@@ -126,7 +126,7 @@
 		<ToAST.version>25.0</ToAST.version>
 		<TopoJ.version>2.0.0</TopoJ.version>
 		<TrackMate.version>2.6.0</TrackMate.version>
-		<Trainable_Segmentation.version>2.1.1</Trainable_Segmentation.version>
+		<Trainable_Segmentation.version>2.1.3</Trainable_Segmentation.version>
 		<TransformJ.version>2.8.1</TransformJ.version>
 		<TurboReg.version>2.0.0</TurboReg.version>
 		<VIB-lib.version>2.0.1</VIB-lib.version>
