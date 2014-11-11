@@ -57,7 +57,7 @@
 		<Anisotropic_Diffusion_2D.version>2.0.0</Anisotropic_Diffusion_2D.version>
 		<Archipelago_Plugins.version>0.5.2</Archipelago_Plugins.version>
 		<Arrow.version>2.0.1</Arrow.version>
-		<Auto_Threshold.version>1.15</Auto_Threshold.version>
+		<Auto_Threshold.version>1.15.1</Auto_Threshold.version>
 		<BalloonSegmentation.version>2.0.0</BalloonSegmentation.version>
 		<Bug_Submitter.version>2.0.1</Bug_Submitter.version>
 		<CPU_Meter.version>2.0.0</CPU_Meter.version>
@@ -107,7 +107,7 @@
 		<Samples.version>2.0.0</Samples.version>
 		<Series_Labeler.version>2.0.0</Series_Labeler.version>
 		<Sholl_Analysis.version>3.4.3</Sholl_Analysis.version>
-		<Simple_Neurite_Tracer.version>2.0.2</Simple_Neurite_Tracer.version>
+		<Simple_Neurite_Tracer.version>2.0.3</Simple_Neurite_Tracer.version>
 		<Siox_Segmentation.version>1.0.4</Siox_Segmentation.version>
 		<Skeletonize3D.version>1.0.1</Skeletonize3D.version>
 		<Snakuscule.version>2.0.0</Snakuscule.version>
