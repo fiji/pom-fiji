@@ -11,7 +11,7 @@
 
 	<groupId>sc.fiji</groupId>
 	<artifactId>pom-fiji</artifactId>
-	<version>5.1-SNAPSHOT</version>
+	<version>5.0.6</version>
 	<packaging>pom</packaging>
 
 	<name>Fiji Projects</name>
@@ -836,7 +836,7 @@
 	<scm>
 		<connection>scm:git:git://github.com/fiji/pom-fiji</connection>
 		<developerConnection>scm:git:git@github.com:fiji/pom-fiji</developerConnection>
-		<tag>HEAD</tag>
+		<tag>pom-fiji-5.0.6</tag>
 		<url>https://github.com/fiji/pom-fiji</url>
 	</scm>
 
