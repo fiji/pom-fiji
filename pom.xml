@@ -69,10 +69,10 @@
 		<Color_Histogram.version>2.0.6</Color_Histogram.version>
 		<Color_Inspector_3D.version>2.3.1</Color_Inspector_3D.version>
 		<Colour_Deconvolution.version>2.0.0</Colour_Deconvolution.version>
-		<CorrectBleach.version>2.0.0</CorrectBleach.version>
+		<CorrectBleach.version>2.0.1</CorrectBleach.version>
 		<Dichromacy.version>2.0.0</Dichromacy.version>
 		<Differentials.version>2.0.0</Differentials.version>
-		<Directionality.version>2.0</Directionality.version>
+		<Directionality.version>2.0.1</Directionality.version>
 		<Extended_Depth_Field.version>2.0.1</Extended_Depth_Field.version>
 		<FeatureJ.version>1.6.2</FeatureJ.version>
 		<Fiji_3D_Blob_Segmentation.version>2.0.2</Fiji_3D_Blob_Segmentation.version>
@@ -81,29 +81,29 @@
 		<Fiji_Package_Maker.version>2.0.1</Fiji_Package_Maker.version>
 		<Fiji_Plugins.version>2.0.1</Fiji_Plugins.version>
 		<Fiji_Updater.version>2.0.0</Fiji_Updater.version>
-		<FlowJ.version>1.29</FlowJ.version>
-		<Gray_Morphology.version>2.3.1</Gray_Morphology.version>
-		<Helmholtz_Analysis.version>2.0</Helmholtz_Analysis.version>
-		<IJ_Robot.version>1.0.0</IJ_Robot.version>
+		<FlowJ.version>1.29.1</FlowJ.version>
+		<Gray_Morphology.version>2.3.2</Gray_Morphology.version>
+		<Helmholtz_Analysis.version>2.0.1</Helmholtz_Analysis.version>
+		<IJ_Robot.version>1.0.1</IJ_Robot.version>
 		<IO.version>2.0.0</IO.version>
 		<Image_5D.version>1.2.5</Image_5D.version>
 		<ImageJ_3D_Objects_Counter.version>2.0.0</ImageJ_3D_Objects_Counter.version>
 		<ImageJ_3D_Viewer.version>3.0.1</ImageJ_3D_Viewer.version>
 		<Image_Expression_Parser.version>3.0.0</Image_Expression_Parser.version>
-		<Interactive_3D_Surface_Plot.version>2.31</Interactive_3D_Surface_Plot.version>
+		<Interactive_3D_Surface_Plot.version>2.31.1</Interactive_3D_Surface_Plot.version>
 		<IsoData_Classifier.version>2.0.0</IsoData_Classifier.version>
 		<Kuwahara_Filter.version>2.0.0</Kuwahara_Filter.version>
 		<Lasso_and_Blow_Tool.version>2.0.1</Lasso_and_Blow_Tool.version>
 		<Linear_Kuwahara.version>2.0.0</Linear_Kuwahara.version>
-		<LocalThickness.version>3.1</LocalThickness.version>
+		<LocalThickness.version>3.1.1</LocalThickness.version>
 		<MTrack2.version>2.0.0</MTrack2.version>
 		<MTrackJ.version>1.5.2</MTrackJ.version>
 		<M_I_P.version>2.0.0</M_I_P.version>
 		<Manual_Tracking.version>2.0.0</Manual_Tracking.version>
 		<MosaicJ.version>2.0.0</MosaicJ.version>
 		<Multi_Kymograph.version>2.0.0</Multi_Kymograph.version>
-		<PIV_analyser.version>1.1</PIV_analyser.version>
-		<QuickPALM.version>1.1</QuickPALM.version>
+		<PIV_analyser.version>1.1.1</PIV_analyser.version>
+		<QuickPALM.version>1.1.1</QuickPALM.version>
 		<RATS.version>2.0.0</RATS.version>
 		<RandomJ.version>1.5.2</RandomJ.version>
 		<SPIM_Opener.version>2.0.1</SPIM_Opener.version>
@@ -118,12 +118,12 @@
 		<StackReg.version>2.0.0</StackReg.version>
 		<Stack_Manipulation.version>2.0.1</Stack_Manipulation.version>
 		<Statistical_Region_Merging.version>2.0.0</Statistical_Region_Merging.version>
-		<Sync_Win.version>1.7-fiji1</Sync_Win.version>
+		<Sync_Win.version>1.7-fiji2</Sync_Win.version>
 		<Thread_Killer.version>2.0.0</Thread_Killer.version>
-		<Threshold_Colour.version>2.0</Threshold_Colour.version>
+		<Threshold_Colour.version>2.0.1</Threshold_Colour.version>
 		<Time_Lapse.version>2.0.1</Time_Lapse.version>
 		<Time_Stamper.version>2.0.0</Time_Stamper.version>
-		<ToAST.version>25.0</ToAST.version>
+		<ToAST.version>25.0.1</ToAST.version>
 		<TopoJ.version>2.0.0</TopoJ.version>
 		<TrackMate.version>2.6.1</TrackMate.version>
 		<Trainable_Segmentation.version>2.1.4</Trainable_Segmentation.version>
@@ -134,19 +134,19 @@
 		<Vaa3d_Reader.version>2.0.1</Vaa3d_Reader.version>
 		<Vaa3d_Writer.version>1.0.0</Vaa3d_Writer.version>
 		<Video_Editing.version>2.0.0</Video_Editing.version>
-		<View5D.version>1.3.0</View5D.version>
+		<View5D.version>1.3.1</View5D.version>
 		<Volume_Calculator.version>1.0.1</Volume_Calculator.version>
-		<Volume_Viewer.version>2.01</Volume_Viewer.version>
+		<Volume_Viewer.version>2.01.1</Volume_Viewer.version>
 		<bUnwarpJ.version>2.6.1</bUnwarpJ.version>
 		<bij.version>0.1.0</bij.version>
 		<fiji-compat.version>2.0.0</fiji-compat.version>
 		<fiji-lib.version>2.1.0</fiji-lib.version>
 		<imagescience.version>2.4.2</imagescience.version>
 		<imageware.version>2.0.0</imageware.version>
-		<javac.version>1.6.0.24-ubuntu-fiji1</javac.version>
+		<javac.version>1.6.0.24-ubuntu-fiji2</javac.version>
 		<jep.version>2.4.2</jep.version>
 		<level_sets.version>1.0.1</level_sets.version>
-		<mij.version>1.3.6-fiji</mij.version>
+		<mij.version>1.3.6-fiji2</mij.version>
 		<pal-optimization.version>2.0.0</pal-optimization.version>
 		<panorama.version>2.0.0</panorama.version>
 		<registration_3d.version>2.0.0</registration_3d.version>
