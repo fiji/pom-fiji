@@ -5,7 +5,7 @@
 	<parent>
 		<groupId>net.imagej</groupId>
 		<artifactId>pom-imagej</artifactId>
-		<version>5.0</version>
+		<version>5.1</version>
 		<relativePath />
 	</parent>
 
@@ -756,6 +756,16 @@
 
 	<build>
 		<plugins>
+			<plugin>
+				<artifactId>maven-enforcer-plugin</artifactId>
+				<configuration>
+					<rules>
+						<requireReproducibleBuilds implementation="org.scijava.maven.plugin.RequireReproducibleBuilds">
+							<groupIds>org.scijava,io.scif,net.imagej,net.imglib2,sc.fiji</groupIds>
+						</requireReproducibleBuilds>
+					</rules>
+				</configuration>
+			</plugin>
 			<plugin>
 				<groupId>net.imagej</groupId>
 				<artifactId>imagej-maven-plugin</artifactId>
