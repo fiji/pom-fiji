@@ -21,6 +21,13 @@
 		<name>Fiji</name>
 		<url>http://fiji.sc/</url>
 	</organization>
+	<licenses>
+		<license>
+			<name>GNU General Public License v3+</name>
+			<url>http://www.gnu.org/licenses/gpl.html</url>
+			<distribution>repo</distribution>
+		</license>
+	</licenses>
 
 	<properties>
 		<!-- If two artifacts on the classpath use two different versions of the
@@ -826,6 +833,14 @@
 						</goals>
 					</execution>
 				</executions>
+			</plugin>
+			<plugin>
+				<groupId>org.codehaus.mojo</groupId>
+				<artifactId>license-maven-plugin</artifactId>
+				<configuration>
+					<licenseName>gpl_v3</licenseName>
+					<organizationName>${fiji.authors}</organizationName>
+				</configuration>
 			</plugin>
 		</plugins>
 	</build>
