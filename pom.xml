@@ -542,7 +542,7 @@
 			</dependency>
 			<dependency>
 				<groupId>sc.fiji</groupId>
-				<artifactId>Stitching</artifactId>
+				<artifactId>Stitching_</artifactId>
 				<version>${Stitching.version}</version>
 			</dependency>
 			<dependency>
