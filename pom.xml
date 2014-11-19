@@ -17,6 +17,10 @@
 	<name>Fiji Projects</name>
 	<url>http://fiji.sc/</url>
 	<inceptionYear>2007</inceptionYear>
+	<organization>
+		<name>Fiji</name>
+		<url>http://fiji.sc/</url>
+	</organization>
 
 	<properties>
 		<!-- If two artifacts on the classpath use two different versions of the
