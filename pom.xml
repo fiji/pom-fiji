@@ -83,6 +83,7 @@
 		<Directionality.version>2.0.1</Directionality.version>
 		<Extended_Depth_Field.version>2.0.1</Extended_Depth_Field.version>
 		<FeatureJ.version>1.6.2</FeatureJ.version>
+		<Feature_Detection.version>2.0.1</Feature_Detection.version>
 		<Fiji_3D_Blob_Segmentation.version>2.0.2</Fiji_3D_Blob_Segmentation.version>
 		<Fiji_Archipelago.version>2.0.0</Fiji_Archipelago.version>
 		<Fiji_Developer.version>2.0.2</Fiji_Developer.version>
@@ -90,6 +91,7 @@
 		<Fiji_Plugins.version>2.0.1</Fiji_Plugins.version>
 		<Fiji_Updater.version>2.0.0</Fiji_Updater.version>
 		<FlowJ.version>1.29.1</FlowJ.version>
+		<Graph_Cut.version>0.2.1</Graph_Cut.version>
 		<Gray_Morphology.version>2.3.2</Gray_Morphology.version>
 		<Helmholtz_Analysis.version>2.0.1</Helmholtz_Analysis.version>
 		<IJ_Robot.version>1.0.1</IJ_Robot.version>
@@ -111,12 +113,14 @@
 		<MosaicJ.version>2.0.0</MosaicJ.version>
 		<Multi_Kymograph.version>2.0.0</Multi_Kymograph.version>
 		<PIV_analyser.version>1.1.1</PIV_analyser.version>
+		<PointPicker.version>2.0.0</PointPicker.version>
 		<QuickPALM.version>1.1.1</QuickPALM.version>
 		<RATS.version>2.0.0</RATS.version>
 		<RandomJ.version>1.5.2</RandomJ.version>
 		<SPIM_Opener.version>2.0.1</SPIM_Opener.version>
 		<Samples.version>2.0.0</Samples.version>
 		<Series_Labeler.version>2.0.0</Series_Labeler.version>
+		<SheppLogan.version>2.0.0</SheppLogan.version>
 		<Sholl_Analysis.version>3.4.3</Sholl_Analysis.version>
 		<Simple_Neurite_Tracer.version>2.0.3</Simple_Neurite_Tracer.version>
 		<Siox_Segmentation.version>1.0.4</Siox_Segmentation.version>
@@ -126,6 +130,7 @@
 		<StackReg.version>2.0.0</StackReg.version>
 		<Stack_Manipulation.version>2.0.1</Stack_Manipulation.version>
 		<Statistical_Region_Merging.version>2.0.0</Statistical_Region_Merging.version>
+		<Stitching.version>2.0.1</Stitching.version>
 		<Sync_Win.version>1.7-fiji2</Sync_Win.version>
 		<Thread_Killer.version>2.0.0</Thread_Killer.version>
 		<Threshold_Colour.version>2.0.1</Threshold_Colour.version>
@@ -137,6 +142,7 @@
 		<Trainable_Segmentation.version>2.1.4</Trainable_Segmentation.version>
 		<TransformJ.version>2.8.2</TransformJ.version>
 		<TurboReg.version>2.0.0</TurboReg.version>
+		<UnwarpJ.version>2.0.0</UnwarpJ.version>
 		<VIB-lib.version>2.0.1</VIB-lib.version>
 		<VIB.version>2.0.2</VIB.version>
 		<Vaa3d_Reader.version>2.0.1</Vaa3d_Reader.version>
@@ -153,6 +159,7 @@
 		<imageware.version>2.0.0</imageware.version>
 		<javac.version>1.6.0.24-ubuntu-fiji2</javac.version>
 		<jep.version>2.4.2</jep.version>
+		<legacy-imglib1.version>1.0.0-DEPRECATED</legacy-imglib1.version>
 		<level_sets.version>1.0.1</level_sets.version>
 		<mij.version>1.3.6-fiji2</mij.version>
 		<pal-optimization.version>2.0.0</pal-optimization.version>
@@ -265,6 +272,11 @@
 			</dependency>
 			<dependency>
 				<groupId>sc.fiji</groupId>
+				<artifactId>Feature_Detection</artifactId>
+				<version>${Feature_Detection.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>sc.fiji</groupId>
 				<artifactId>3D_Blob_Segmentation</artifactId>
 				<version>${Fiji_3D_Blob_Segmentation.version}</version>
 			</dependency>
@@ -297,6 +309,11 @@
 				<groupId>sc.fiji</groupId>
 				<artifactId>FlowJ_</artifactId>
 				<version>${FlowJ.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>sc.fiji</groupId>
+				<artifactId>Graph_Cut</artifactId>
+				<version>${Graph_Cut.version}</version>
 			</dependency>
 			<dependency>
 				<groupId>sc.fiji</groupId>
@@ -405,6 +422,11 @@
 			</dependency>
 			<dependency>
 				<groupId>sc.fiji</groupId>
+				<artifactId>PointPicker_</artifactId>
+				<version>${PointPicker.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>sc.fiji</groupId>
 				<artifactId>QuickPALM_</artifactId>
 				<version>${QuickPALM.version}</version>
 			</dependency>
@@ -432,6 +454,11 @@
 				<groupId>sc.fiji</groupId>
 				<artifactId>Series_Labeler</artifactId>
 				<version>${Series_Labeler.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>sc.fiji</groupId>
+				<artifactId>SheppLogan_</artifactId>
+				<version>${SheppLogan.version}</version>
 			</dependency>
 			<dependency>
 				<groupId>ca.mcgill</groupId>
@@ -477,6 +504,11 @@
 				<groupId>sc.fiji</groupId>
 				<artifactId>Statistical_Region_Merging</artifactId>
 				<version>${Statistical_Region_Merging.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>sc.fiji</groupId>
+				<artifactId>Stitching</artifactId>
+				<version>${Stitching.version}</version>
 			</dependency>
 			<dependency>
 				<groupId>sc.fiji</groupId>
@@ -532,6 +564,11 @@
 				<groupId>sc.fiji</groupId>
 				<artifactId>TurboReg_</artifactId>
 				<version>${TurboReg.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>sc.fiji</groupId>
+				<artifactId>UnwarpJ_</artifactId>
+				<version>${UnwarpJ.version}</version>
 			</dependency>
 			<dependency>
 				<groupId>sc.fiji</groupId>
@@ -612,6 +649,11 @@
 				<groupId>org.scijava</groupId>
 				<artifactId>jep</artifactId>
 				<version>${jep.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>sc.fiji</groupId>
+				<artifactId>legacy-imglib1</artifactId>
+				<version>${legacy-imglib1.version}</version>
 			</dependency>
 			<dependency>
 				<groupId>sc.fiji</groupId>
@@ -969,6 +1011,7 @@
 				<Directionality.version>LATEST</Directionality.version>
 				<Extended_Depth_Field.version>LATEST</Extended_Depth_Field.version>
 				<FeatureJ.version>LATEST</FeatureJ.version>
+				<Feature_Detection.version>LATEST</Feature_Detection.version>
 				<Fiji_3D_Blob_Segmentation.version>LATEST</Fiji_3D_Blob_Segmentation.version>
 				<Fiji_Archipelago.version>LATEST</Fiji_Archipelago.version>
 				<Fiji_Developer.version>LATEST</Fiji_Developer.version>
@@ -976,6 +1019,7 @@
 				<Fiji_Plugins.version>LATEST</Fiji_Plugins.version>
 				<Fiji_Updater.version>LATEST</Fiji_Updater.version>
 				<FlowJ.version>LATEST</FlowJ.version>
+				<Graph_Cut.version>LATEST</Graph_Cut.version>
 				<Gray_Morphology.version>LATEST</Gray_Morphology.version>
 				<Helmholtz_Analysis.version>LATEST</Helmholtz_Analysis.version>
 				<IJ_Robot.version>LATEST</IJ_Robot.version>
@@ -997,12 +1041,14 @@
 				<MosaicJ.version>LATEST</MosaicJ.version>
 				<Multi_Kymograph.version>LATEST</Multi_Kymograph.version>
 				<PIV_analyser.version>LATEST</PIV_analyser.version>
+				<PointPicker.version>LATEST</PointPicker.version>
 				<QuickPALM.version>LATEST</QuickPALM.version>
 				<RATS.version>LATEST</RATS.version>
 				<RandomJ.version>LATEST</RandomJ.version>
 				<SPIM_Opener.version>LATEST</SPIM_Opener.version>
 				<Samples.version>LATEST</Samples.version>
 				<Series_Labeler.version>LATEST</Series_Labeler.version>
+				<SheppLogan.version>LATEST</SheppLogan.version>
 				<Sholl_Analysis.version>LATEST</Sholl_Analysis.version>
 				<Simple_Neurite_Tracer.version>LATEST</Simple_Neurite_Tracer.version>
 				<Siox_Segmentation.version>LATEST</Siox_Segmentation.version>
@@ -1012,6 +1058,7 @@
 				<StackReg.version>LATEST</StackReg.version>
 				<Stack_Manipulation.version>LATEST</Stack_Manipulation.version>
 				<Statistical_Region_Merging.version>LATEST</Statistical_Region_Merging.version>
+				<Stitching.version>LATEST</Stitching.version>
 				<Sync_Win.version>LATEST</Sync_Win.version>
 				<Thread_Killer.version>LATEST</Thread_Killer.version>
 				<Threshold_Colour.version>LATEST</Threshold_Colour.version>
@@ -1023,6 +1070,7 @@
 				<Trainable_Segmentation.version>LATEST</Trainable_Segmentation.version>
 				<TransformJ.version>LATEST</TransformJ.version>
 				<TurboReg.version>LATEST</TurboReg.version>
+				<UnwarpJ.version>LATEST</UnwarpJ.version>
 				<VIB-lib.version>LATEST</VIB-lib.version>
 				<VIB.version>LATEST</VIB.version>
 				<Vaa3d_Reader.version>LATEST</Vaa3d_Reader.version>
@@ -1039,6 +1087,7 @@
 				<imageware.version>LATEST</imageware.version>
 				<javac.version>LATEST</javac.version>
 				<jep.version>LATEST</jep.version>
+				<legacy-imglib1.version>LATEST</legacy-imglib1.version>
 				<level_sets.version>LATEST</level_sets.version>
 				<mij.version>LATEST</mij.version>
 				<pal-optimization.version>LATEST</pal-optimization.version>
