@@ -876,7 +876,7 @@
 
 	<ciManagement>
 		<system>Jenkins</system>
-		<url>http://jenkins.imagej.net/job/pom-imagej/</url>
+		<url>http://jenkins.imagej.net/job/pom-fiji/</url>
 	</ciManagement>
 
 	<reporting>
