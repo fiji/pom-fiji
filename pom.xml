@@ -29,6 +29,9 @@
 		</license>
 	</licenses>
 
+	<developers />
+	<contributors />
+
 	<properties>
 		<!-- If two artifacts on the classpath use two different versions of the
 		     same dependency, behavior is inconsistent at best, and often broken.
