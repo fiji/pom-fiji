@@ -15,6 +15,9 @@
 	<packaging>pom</packaging>
 
 	<name>Fiji Projects</name>
+	<description>Parent POM for Fiji-based projects. It ensures that projects all use a compatible build environment, including Java version, as well as versions of dependencies and plugins.
+
+Projects wishing to use pom-fiji as a parent project need to override the &lt;name&gt;, &lt;description&gt;, &lt;url&gt;, &lt;inceptionYear&gt; &lt;licenses&gt;, &lt;developers&gt;, &lt;contributors&gt;, &lt;organization&gt; and the &lt;scm&gt; sections.</description>
 	<url>http://fiji.sc/</url>
 	<inceptionYear>2007</inceptionYear>
 	<organization>
