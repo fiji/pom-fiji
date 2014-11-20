@@ -120,7 +120,7 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 
 		     If you need to override the version of a particular component, then
 		     simply override that component's version property in your POM's
-		     <properties> section. dependencies rather than hardcoding them. -->
+		     <properties> section, rather than hardcoding them. -->
 
 		<batik.version>1.8</batik.version>
 		<commons-math.version>3.2</commons-math.version>
