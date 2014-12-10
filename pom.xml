@@ -935,7 +935,7 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 					<execution>
 						<id>attach-sources</id>
 						<goals>
-							<goal>jar</goal>
+							<goal>jar-no-fork</goal>
 						</goals>
 					</execution>
 				</executions>
