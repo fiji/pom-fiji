@@ -175,7 +175,7 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<Helmholtz_Analysis.version>2.0.1</Helmholtz_Analysis.version>
 		<IJ_Robot.version>2.0.0</IJ_Robot.version>
 		<IO.version>2.0.0</IO.version>
-		<Image_5D.version>1.2.5</Image_5D.version>
+		<Image_5D.version>1.2.6</Image_5D.version>
 		<ImageJ_3D_Objects_Counter.version>2.0.0</ImageJ_3D_Objects_Counter.version>
 		<ImageJ_3D_Viewer.version>3.0.1</ImageJ_3D_Viewer.version>
 		<Image_Expression_Parser.version>3.0.0</Image_Expression_Parser.version>
@@ -415,7 +415,7 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 				<version>${IO.version}</version>
 			</dependency>
 			<dependency>
-				<groupId>net.imagej</groupId>
+				<groupId>sc.fiji</groupId>
 				<artifactId>Image_5D</artifactId>
 				<version>${Image_5D.version}</version>
 			</dependency>
