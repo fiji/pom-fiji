@@ -218,7 +218,7 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<ToAST.version>25.0.1</ToAST.version>
 		<TopoJ.version>2.0.0</TopoJ.version>
 		<TrackMate.version>2.6.1</TrackMate.version>
-		<Trainable_Segmentation.version>2.1.4</Trainable_Segmentation.version>
+		<Trainable_Segmentation.version>2.1.6</Trainable_Segmentation.version>
 		<TransformJ.version>2.8.2</TransformJ.version>
 		<TurboReg.version>2.0.0</TurboReg.version>
 		<UnwarpJ.version>2.0.0</UnwarpJ.version>
