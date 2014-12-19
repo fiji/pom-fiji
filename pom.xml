@@ -167,7 +167,7 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<Fiji_Archipelago.version>2.0.0</Fiji_Archipelago.version>
 		<Fiji_Developer.version>2.0.2</Fiji_Developer.version>
 		<Fiji_Package_Maker.version>2.0.1</Fiji_Package_Maker.version>
-		<Fiji_Plugins.version>2.0.1</Fiji_Plugins.version>
+		<Fiji_Plugins.version>2.0.2</Fiji_Plugins.version>
 		<Fiji_Updater.version>2.0.0</Fiji_Updater.version>
 		<FlowJ.version>1.29.1</FlowJ.version>
 		<Graph_Cut.version>0.2.1</Graph_Cut.version>
@@ -232,7 +232,7 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<Volume_Viewer.version>2.01.1</Volume_Viewer.version>
 		<bUnwarpJ.version>2.6.1</bUnwarpJ.version>
 		<bij.version>0.1.0</bij.version>
-		<fiji-compat.version>2.0.0</fiji-compat.version>
+		<fiji-compat.version>2.0.1</fiji-compat.version>
 		<fiji-lib.version>2.1.0</fiji-lib.version>
 		<imagescience.version>2.4.2</imagescience.version>
 		<imageware.version>2.0.0</imageware.version>
