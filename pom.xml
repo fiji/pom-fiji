@@ -174,7 +174,7 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<Gray_Morphology.version>2.3.2</Gray_Morphology.version>
 		<Helmholtz_Analysis.version>2.0.1</Helmholtz_Analysis.version>
 		<IJ_Robot.version>2.0.0</IJ_Robot.version>
-		<IO.version>2.0.0</IO.version>
+		<IO.version>2.1.0</IO.version>
 		<Image_5D.version>1.2.6</Image_5D.version>
 		<ImageJ_3D_Objects_Counter.version>2.0.0</ImageJ_3D_Objects_Counter.version>
 		<ImageJ_3D_Viewer.version>3.0.1</ImageJ_3D_Viewer.version>
@@ -217,7 +217,7 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<Time_Stamper.version>2.0.0</Time_Stamper.version>
 		<ToAST.version>25.0.1</ToAST.version>
 		<TopoJ.version>2.0.0</TopoJ.version>
-		<TrackMate.version>2.6.4</TrackMate.version>
+		<TrackMate.version>2.7.0</TrackMate.version>
 		<Trainable_Segmentation.version>2.1.6</Trainable_Segmentation.version>
 		<TransformJ.version>2.8.2</TransformJ.version>
 		<TurboReg.version>2.0.0</TurboReg.version>
