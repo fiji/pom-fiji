@@ -166,7 +166,7 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<Fiji_3D_Blob_Segmentation.version>2.0.2</Fiji_3D_Blob_Segmentation.version>
 		<Fiji_Archipelago.version>2.0.0</Fiji_Archipelago.version>
 		<Fiji_Developer.version>2.0.2</Fiji_Developer.version>
-		<Fiji_Package_Maker.version>2.0.1</Fiji_Package_Maker.version>
+		<Fiji_Package_Maker.version>2.1.0</Fiji_Package_Maker.version>
 		<Fiji_Plugins.version>2.0.2</Fiji_Plugins.version>
 		<Fiji_Updater.version>2.0.0</Fiji_Updater.version>
 		<FlowJ.version>1.29.1</FlowJ.version>
