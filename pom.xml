@@ -182,6 +182,8 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<Interactive_3D_Surface_Plot.version>2.31.1</Interactive_3D_Surface_Plot.version>
 		<IsoData_Classifier.version>2.0.0</IsoData_Classifier.version>
 		<Kuwahara_Filter.version>2.0.0</Kuwahara_Filter.version>
+		<LSM_Reader.version>4.0h</LSM_Reader.version>
+		<LSM_Toolbox.version>4.0h</LSM_Toolbox.version>
 		<Lasso_and_Blow_Tool.version>2.0.1</Lasso_and_Blow_Tool.version>
 		<Linear_Kuwahara.version>2.0.0</Linear_Kuwahara.version>
 		<LocalThickness.version>3.1.1</LocalThickness.version>
@@ -448,6 +450,16 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 				<groupId>sc.fiji</groupId>
 				<artifactId>Kuwahara_Filter</artifactId>
 				<version>${Kuwahara_Filter.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>sc.fiji</groupId>
+				<artifactId>LSM_Reader</artifactId>
+				<version>${LSM_Reader.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>sc.fiji</groupId>
+				<artifactId>LSM_Toolbox</artifactId>
+				<version>${LSM_Toolbox.version}</version>
 			</dependency>
 			<dependency>
 				<groupId>sc.fiji</groupId>
@@ -1076,6 +1088,8 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 				<Interactive_3D_Surface_Plot.version>LATEST</Interactive_3D_Surface_Plot.version>
 				<IsoData_Classifier.version>LATEST</IsoData_Classifier.version>
 				<Kuwahara_Filter.version>LATEST</Kuwahara_Filter.version>
+				<LSM_Reader.version>LATEST</LSM_Reader.version>
+				<LSM_Toolbox.version>LATEST</LSM_Toolbox.version>
 				<Lasso_and_Blow_Tool.version>LATEST</Lasso_and_Blow_Tool.version>
 				<Linear_Kuwahara.version>LATEST</Linear_Kuwahara.version>
 				<LocalThickness.version>LATEST</LocalThickness.version>
