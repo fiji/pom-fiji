@@ -11,7 +11,7 @@
 
 	<groupId>sc.fiji</groupId>
 	<artifactId>pom-fiji</artifactId>
-	<version>6.6.1-SNAPSHOT</version>
+	<version>6.7.0</version>
 	<packaging>pom</packaging>
 
 	<name>Fiji Projects</name>
@@ -96,7 +96,7 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 	<scm>
 		<connection>scm:git:git://github.com/fiji/pom-fiji</connection>
 		<developerConnection>scm:git:git@github.com:fiji/pom-fiji</developerConnection>
-		<tag>HEAD</tag>
+		<tag>pom-fiji-6.7.0</tag>
 		<url>https://github.com/fiji/pom-fiji</url>
 	</scm>
 	<issueManagement>
