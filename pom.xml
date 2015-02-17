@@ -165,9 +165,9 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<Feature_Detection.version>2.0.1</Feature_Detection.version>
 		<Fiji_3D_Blob_Segmentation.version>2.0.2</Fiji_3D_Blob_Segmentation.version>
 		<Fiji_Archipelago.version>2.0.0</Fiji_Archipelago.version>
-		<Fiji_Developer.version>2.0.2</Fiji_Developer.version>
+		<Fiji_Developer.version>2.0.3</Fiji_Developer.version>
 		<Fiji_Package_Maker.version>2.1.0</Fiji_Package_Maker.version>
-		<Fiji_Plugins.version>2.0.2</Fiji_Plugins.version>
+		<Fiji_Plugins.version>3.0.0</Fiji_Plugins.version>
 		<Fiji_Updater.version>2.0.0</Fiji_Updater.version>
 		<FlowJ.version>1.29.1</FlowJ.version>
 		<Graph_Cut.version>0.2.1</Graph_Cut.version>
@@ -211,7 +211,7 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<StackReg.version>2.0.0</StackReg.version>
 		<Stack_Manipulation.version>2.0.1</Stack_Manipulation.version>
 		<Statistical_Region_Merging.version>2.0.0</Statistical_Region_Merging.version>
-		<Stitching.version>2.0.1</Stitching.version>
+		<Stitching.version>2.0.2</Stitching.version>
 		<Sync_Win.version>1.7-fiji2</Sync_Win.version>
 		<Thread_Killer.version>2.0.0</Thread_Killer.version>
 		<Threshold_Colour.version>2.0.1</Threshold_Colour.version>
