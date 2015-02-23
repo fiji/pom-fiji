@@ -123,7 +123,7 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		     <properties> section, rather than hardcoding them. -->
 
 		<batik.version>1.8</batik.version>
-		<commons-math.version>3.2</commons-math.version>
+		<commons-math.version>3.4.1</commons-math.version>
 		<edu.mines.version>20100113</edu.mines.version>
 		<itextpdf.version>5.1.1</itextpdf.version>
 		<jama.version>1.0.3</jama.version>
