@@ -961,6 +961,7 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 				<configuration>
 					<licenseName>gpl_v3</licenseName>
 					<organizationName>${fiji.authors}</organizationName>
+					<projectName>Fiji distribution of ImageJ for the life sciences.</projectName>
 				</configuration>
 			</plugin>
 		</plugins>
