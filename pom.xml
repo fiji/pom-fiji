@@ -188,7 +188,7 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<MTrack2.version>2.0.0</MTrack2.version>
 		<MTrackJ.version>1.5.2</MTrackJ.version>
 		<M_I_P.version>2.0.0</M_I_P.version>
-		<Manual_Tracking.version>2.0.0</Manual_Tracking.version>
+		<Manual_Tracking.version>2.1.0</Manual_Tracking.version>
 		<MosaicJ.version>2.0.0</MosaicJ.version>
 		<Multi_Kymograph.version>2.0.0</Multi_Kymograph.version>
 		<PIV_analyser.version>1.1.1</PIV_analyser.version>
@@ -210,7 +210,7 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<Stack_Manipulation.version>2.0.1</Stack_Manipulation.version>
 		<Statistical_Region_Merging.version>2.0.0</Statistical_Region_Merging.version>
 		<Stitching.version>2.0.3</Stitching.version>
-		<Sync_Win.version>1.7-fiji2</Sync_Win.version>
+		<Sync_Win.version>1.7-fiji3</Sync_Win.version>
 		<Thread_Killer.version>2.0.0</Thread_Killer.version>
 		<Threshold_Colour.version>2.0.1</Threshold_Colour.version>
 		<Time_Lapse.version>2.0.1</Time_Lapse.version>
@@ -234,7 +234,7 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<bij.version>0.1.0</bij.version>
 		<fiji-compat.version>2.0.2</fiji-compat.version>
 		<fiji-lib.version>2.1.0</fiji-lib.version>
-		<imagescience.version>2.4.2</imagescience.version>
+		<imagescience.version>2.5.0</imagescience.version>
 		<imageware.version>2.0.0</imageware.version>
 		<javac.version>1.6.0.24-ubuntu-fiji2</javac.version>
 		<jep.version>2.4.2</jep.version>
