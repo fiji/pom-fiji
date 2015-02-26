@@ -150,12 +150,12 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<Bug_Submitter.version>2.0.1</Bug_Submitter.version>
 		<CPU_Meter.version>2.0.0</CPU_Meter.version>
 		<Calculator_Plus.version>2.0.0</Calculator_Plus.version>
-		<Colocalisation_Analysis.version>2.0.1</Colocalisation_Analysis.version>
+		<Colocalisation_Analysis.version>2.0.2</Colocalisation_Analysis.version>
 		<Color_Histogram.version>2.0.6</Color_Histogram.version>
 		<Color_Inspector_3D.version>2.3.1</Color_Inspector_3D.version>
 		<Colour_Deconvolution.version>2.0.0</Colour_Deconvolution.version>
 		<CorrectBleach.version>2.0.1</CorrectBleach.version>
-		<Dichromacy.version>2.0.0</Dichromacy.version>
+		<Dichromacy.version>2.1.0</Dichromacy.version>
 		<Differentials.version>2.0.0</Differentials.version>
 		<Directionality.version>2.0.1</Directionality.version>
 		<Extended_Depth_Field.version>2.0.1</Extended_Depth_Field.version>
@@ -168,7 +168,7 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<Fiji_Plugins.version>3.0.0</Fiji_Plugins.version>
 		<Fiji_Updater.version>2.0.0</Fiji_Updater.version>
 		<FlowJ.version>1.29.1</FlowJ.version>
-		<Graph_Cut.version>0.2.1</Graph_Cut.version>
+		<Graph_Cut.version>1.0.0</Graph_Cut.version>
 		<Gray_Morphology.version>2.3.2</Gray_Morphology.version>
 		<Helmholtz_Analysis.version>2.0.1</Helmholtz_Analysis.version>
 		<IJ_Robot.version>2.0.0</IJ_Robot.version>
@@ -180,8 +180,8 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<Interactive_3D_Surface_Plot.version>2.31.1</Interactive_3D_Surface_Plot.version>
 		<IsoData_Classifier.version>2.0.0</IsoData_Classifier.version>
 		<Kuwahara_Filter.version>2.0.0</Kuwahara_Filter.version>
-		<LSM_Reader.version>4.0h</LSM_Reader.version>
-		<LSM_Toolbox.version>4.0h</LSM_Toolbox.version>
+		<LSM_Reader.version>4.1.0</LSM_Reader.version>
+		<LSM_Toolbox.version>4.1.0</LSM_Toolbox.version>
 		<Lasso_and_Blow_Tool.version>2.0.1</Lasso_and_Blow_Tool.version>
 		<Linear_Kuwahara.version>2.0.0</Linear_Kuwahara.version>
 		<LocalThickness.version>3.1.1</LocalThickness.version>
@@ -209,7 +209,7 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<StackReg.version>2.0.0</StackReg.version>
 		<Stack_Manipulation.version>2.0.1</Stack_Manipulation.version>
 		<Statistical_Region_Merging.version>2.0.0</Statistical_Region_Merging.version>
-		<Stitching.version>2.0.2</Stitching.version>
+		<Stitching.version>2.0.3</Stitching.version>
 		<Sync_Win.version>1.7-fiji2</Sync_Win.version>
 		<Thread_Killer.version>2.0.0</Thread_Killer.version>
 		<Threshold_Colour.version>2.0.1</Threshold_Colour.version>
@@ -232,7 +232,7 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<Volume_Viewer.version>2.01.1</Volume_Viewer.version>
 		<bUnwarpJ.version>2.6.1</bUnwarpJ.version>
 		<bij.version>0.1.0</bij.version>
-		<fiji-compat.version>2.0.1</fiji-compat.version>
+		<fiji-compat.version>2.0.2</fiji-compat.version>
 		<fiji-lib.version>2.1.0</fiji-lib.version>
 		<imagescience.version>2.4.2</imagescience.version>
 		<imageware.version>2.0.0</imageware.version>
