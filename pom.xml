@@ -150,6 +150,7 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<Bug_Submitter.version>2.0.1</Bug_Submitter.version>
 		<CPU_Meter.version>2.0.0</CPU_Meter.version>
 		<Calculator_Plus.version>2.0.0</Calculator_Plus.version>
+		<Cell_Counter.version>2.0.0</Cell_Counter.version>
 		<Colocalisation_Analysis.version>2.0.2</Colocalisation_Analysis.version>
 		<Color_Histogram.version>2.0.6</Color_Histogram.version>
 		<Color_Inspector_3D.version>2.3.1</Color_Inspector_3D.version>
@@ -298,6 +299,11 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 				<groupId>sc.fiji</groupId>
 				<artifactId>Calculator_Plus</artifactId>
 				<version>${Calculator_Plus.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>sc.fiji</groupId>
+				<artifactId>Cell_Counter</artifactId>
+				<version>${Cell_Counter.version}</version>
 			</dependency>
 			<dependency>
 				<groupId>sc.fiji</groupId>
@@ -1047,6 +1053,7 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 				<Bug_Submitter.version>LATEST</Bug_Submitter.version>
 				<CPU_Meter.version>LATEST</CPU_Meter.version>
 				<Calculator_Plus.version>LATEST</Calculator_Plus.version>
+				<Cell_Counter.version>LATEST</Cell_Counter.version>
 				<Colocalisation_Analysis.version>LATEST</Colocalisation_Analysis.version>
 				<Color_Histogram.version>LATEST</Color_Histogram.version>
 				<Color_Inspector_3D.version>LATEST</Color_Inspector_3D.version>
