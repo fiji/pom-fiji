@@ -201,7 +201,7 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<Samples.version>2.0.0</Samples.version>
 		<Series_Labeler.version>2.0.0</Series_Labeler.version>
 		<SheppLogan.version>2.0.0</SheppLogan.version>
-		<Sholl_Analysis.version>3.4.3</Sholl_Analysis.version>
+		<Sholl_Analysis.version>3.4.4</Sholl_Analysis.version>
 		<Simple_Neurite_Tracer.version>2.0.3</Simple_Neurite_Tracer.version>
 		<Siox_Segmentation.version>1.0.4</Siox_Segmentation.version>
 		<Skeletonize3D.version>1.0.1</Skeletonize3D.version>
