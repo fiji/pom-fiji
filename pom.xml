@@ -5,7 +5,7 @@
 	<parent>
 		<groupId>net.imagej</groupId>
 		<artifactId>pom-imagej</artifactId>
-		<version>5.12.0</version>
+		<version>5.13.0</version>
 		<relativePath />
 	</parent>
 
@@ -127,12 +127,8 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<edu.mines.version>20100113</edu.mines.version>
 		<itextpdf.version>5.1.1</itextpdf.version>
 		<java3d.version>1.5.2</java3d.version>
-		<javassist.version>3.16.1-GA</javassist.version>
-		<jcommon.version>1.0.23</jcommon.version>
-		<jdom.version>2.0.5</jdom.version>
 		<jgrapht.version>0.8.3</jgrapht.version>
 		<jgraphx.version>1.10.4.1</jgraphx.version>
-		<jna.version>3.2.7</jna.version>
 		<jpedal.version>2.80b11</jpedal.version>
 		<jsch.version>0.1.49</jsch.version>
 		<jzlib.version>1.1.2</jzlib.version>
@@ -820,21 +816,6 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 				<scope>provided</scope>
 			</dependency>
 			<dependency>
-				<groupId>org.javassist</groupId>
-				<artifactId>javassist</artifactId>
-				<version>${javassist.version}</version>
-			</dependency>
-			<dependency>
-				<groupId>org.jfree</groupId>
-				<artifactId>jcommon</artifactId>
-				<version>${jcommon.version}</version>
-			</dependency>
-			<dependency>
-				<groupId>org.jdom</groupId>
-				<artifactId>jdom2</artifactId>
-				<version>${jdom.version}</version>
-			</dependency>
-			<dependency>
 				<groupId>net.sf.jgrapht</groupId>
 				<artifactId>jgrapht</artifactId>
 				<version>${jgrapht.version}</version>
@@ -843,11 +824,6 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 				<groupId>org.tinyjee.jgraphx</groupId>
 				<artifactId>jgraphx</artifactId>
 				<version>${jgraphx.version}</version>
-			</dependency>
-			<dependency>
-				<groupId>net.java.dev.jna</groupId>
-				<artifactId>jna</artifactId>
-				<version>${jna.version}</version>
 			</dependency>
 			<dependency>
 				<groupId>org.jpedal</groupId>
