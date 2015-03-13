@@ -136,7 +136,7 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<weka.version>3.7.11</weka.version>
 
 		<!-- Fiji sub-projects -->
-		<AnalyzeSkeleton.version>2.0.3</AnalyzeSkeleton.version>
+		<AnalyzeSkeleton.version>2.0.4</AnalyzeSkeleton.version>
 		<Analyze_Reader_Writer.version>2.0.0</Analyze_Reader_Writer.version>
 		<Anisotropic_Diffusion_2D.version>2.0.0</Anisotropic_Diffusion_2D.version>
 		<Archipelago_Plugins.version>0.5.2</Archipelago_Plugins.version>
@@ -227,7 +227,7 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<View5D.version>1.3.1</View5D.version>
 		<Volume_Calculator.version>1.0.1</Volume_Calculator.version>
 		<Volume_Viewer.version>2.01.1</Volume_Viewer.version>
-		<bUnwarpJ.version>2.6.1</bUnwarpJ.version>
+		<bUnwarpJ.version>2.6.2</bUnwarpJ.version>
 		<bij.version>0.1.0</bij.version>
 		<fiji-compat.version>2.0.2</fiji-compat.version>
 		<fiji-lib.version>2.1.0</fiji-lib.version>
