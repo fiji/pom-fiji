@@ -71,8 +71,10 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		</developer>
 	</developers>
 	<contributors>
-		<!-- NB: Need a least one element to override the parent.
-		     See: http://jira.codehaus.org/browse/MNG-5220 -->
+		<!--
+		NB: Need a least one element to override the parent.
+		See: http://jira.codehaus.org/browse/MNG-5220
+		-->
 		<contributor><name>None</name></contributor>
 	</contributors>
 
@@ -109,18 +111,20 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 	</ciManagement>
 
 	<properties>
-		<!-- If two artifacts on the classpath use two different versions of the
-		     same dependency, behavior is inconsistent at best, and often broken.
-		     The following properties facilitate consistency of dependency
-		     versions between various projects in the Fiji software stack.
+		<!--
+		If two artifacts on the classpath use two different versions of the
+		same dependency, behavior is inconsistent at best, and often broken.
+		The following properties facilitate consistency of dependency
+		versions between various projects in the Fiji software stack.
 
-		     When possible, we advise declaring your Fiji dependencies without a
-		     <version> since the versions of core Fiji components are managed in
-		     this POM's <dependencyManagement> section.
+		When possible, we advise declaring your Fiji dependencies without a
+		<version> since the versions of core Fiji components are managed in
+		this POM's <dependencyManagement> section.
 
-		     If you need to override the version of a particular component, then
-		     simply override that component's version property in your POM's
-		     <properties> section, rather than hardcoding them. -->
+		If you need to override the version of a particular component, then
+		simply override that component's version property in your POM's
+		<properties> section, rather than hardcoding them.
+		-->
 
 		<batik.version>1.8</batik.version>
 		<commons-math.version>3.4.1</commons-math.version>
@@ -1007,10 +1011,12 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 			</build>
 		</profile>
 
-		<!-- This developer profile makes it easy to pin to SNAPSHOT versions.
-		     Add an empty dev.fiji file in your ~/.scijava directory, and
-		     dependencies will automatically update! You may also need to refresh
-		     your IDE; e.g., in Eclipse: right click, Maven > Update Project... -->
+		<!--
+		This developer profile makes it easy to pin to SNAPSHOT versions.
+		Add an empty dev.fiji file in your ~/.scijava directory, and
+		dependencies will automatically update! You may also need to refresh
+		your IDE; e.g., in Eclipse: right click, Maven > Update Project...
+		-->
 		<profile>
 			<id>dev.fiji</id>
 			<activation>
