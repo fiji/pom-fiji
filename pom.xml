@@ -126,17 +126,26 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<properties> section, rather than hardcoding them.
 		-->
 
+		<FS_Align_TrakEM2.version>2.0.1</FS_Align_TrakEM2.version>
+		<Reconstruct_Reader.version>2.0.2</Reconstruct_Reader.version>
+		<TrakEM2_Archipelago.version>2.0.1</TrakEM2_Archipelago.version>
 		<batik.version>1.8</batik.version>
+		<blockmatching.version>2.1.1</blockmatching.version>
 		<commons-math.version>3.4.1</commons-math.version>
 		<edu.mines.version>20100113</edu.mines.version>
 		<itextpdf.version>5.1.1</itextpdf.version>
 		<java3d.version>1.5.2</java3d.version>
+		<jitk-tps.version>1.1.1</jitk-tps.version>
 		<jgrapht.version>0.8.3</jgrapht.version>
 		<jgraphx.version>1.10.4.1</jgraphx.version>
 		<jpedal.version>2.80b11</jpedal.version>
 		<jsch.version>0.1.49</jsch.version>
 		<jzlib.version>1.1.2</jzlib.version>
-		<mpicbg.version>0.6.1</mpicbg.version>
+		<mpicbg.version>1.0.1</mpicbg.version>
+		<pom-bigdataviewer.version>1.2.0</pom-bigdataviewer.version>
+		<pom-trakem2.version>1.3.2</pom-trakem2.version>
+		<register_virtual_stack_slices.version>2.0.3</register_virtual_stack_slices.version>
+		<trakem2_tps.version>1.1.1</trakem2_tps.version>
 		<weka.version>3.7.11</weka.version>
 
 		<!-- Fiji sub-projects -->
@@ -210,7 +219,7 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<StackReg.version>2.0.0</StackReg.version>
 		<Stack_Manipulation.version>2.0.1</Stack_Manipulation.version>
 		<Statistical_Region_Merging.version>2.0.0</Statistical_Region_Merging.version>
-		<Stitching.version>2.0.3</Stitching.version>
+		<Stitching.version>3.0.1</Stitching.version>
 		<Sync_Win.version>1.7-fiji3</Sync_Win.version>
 		<Thread_Killer.version>2.0.0</Thread_Killer.version>
 		<Threshold_Colour.version>2.0.1</Threshold_Colour.version>
@@ -224,7 +233,7 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<TurboReg.version>2.0.0</TurboReg.version>
 		<UnwarpJ.version>2.0.0</UnwarpJ.version>
 		<VIB-lib.version>2.0.1</VIB-lib.version>
-		<VIB.version>2.0.3</VIB.version>
+		<VIB.version>2.0.2</VIB.version>
 		<Vaa3d_Reader.version>2.0.1</Vaa3d_Reader.version>
 		<Vaa3d_Writer.version>1.0.0</Vaa3d_Writer.version>
 		<Video_Editing.version>2.0.0</Video_Editing.version>
@@ -239,11 +248,11 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<imageware.version>2.0.0</imageware.version>
 		<javac.version>1.6.0.24-ubuntu-fiji2</javac.version>
 		<jep.version>2.4.2</jep.version>
-		<legacy-imglib1.version>1.1.1-DEPRECATED</legacy-imglib1.version>
+		<legacy-imglib1.version>1.1.3-DEPRECATED</legacy-imglib1.version>
 		<level_sets.version>1.0.1</level_sets.version>
 		<mij.version>1.3.6-fiji2</mij.version>
 		<pal-optimization.version>2.0.0</pal-optimization.version>
-		<panorama.version>2.0.0</panorama.version>
+		<panorama.version>3.0.0</panorama.version>
 		<registration_3d.version>2.0.0</registration_3d.version>
 		<wavelets.version>2.0.0</wavelets.version>
 	</properties>
@@ -868,6 +877,53 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 				<groupId>nz.ac.waikato.cms.weka</groupId>
 				<artifactId>weka-dev</artifactId>
 				<version>${weka.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>sc.fiji</groupId>
+				<artifactId>pom-bigdataviewer</artifactId>
+				<version>${pom-bigdataviewer.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>sc.fiji</groupId>
+				<artifactId>FS_Align_TrakEM2</artifactId>
+				<version>${FS_Align_TrakEM2.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>sc.fiji</groupId>
+				<artifactId>Reconstruct_Reader</artifactId>
+				<version>${Reconstruct_Reader.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>sc.fiji</groupId>
+				<artifactId>TrakEM2_Archipelago</artifactId>
+				<version>${TrakEM2_Archipelago.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>sc.fiji</groupId>
+				<artifactId>blockmatching_</artifactId>
+				<version>${blockmatching.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>sc.fiji</groupId>
+				<artifactId>register_virtual_stack_slices</artifactId>
+				<version>
+					${register_virtual_stack_slices.version}
+				</version>
+			</dependency>
+			<dependency>
+				<groupId>sc.fiji</groupId>
+				<artifactId>pom-trakem2</artifactId>
+				<version>${pom-trakem2.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>jitk</groupId>
+				<artifactId>jitk-tps</artifactId>
+				<version>${jitk-tps.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>sc.fiji</groupId>
+				<artifactId>trakem2_tps</artifactId>
+				<version>${trakem2_tps.version}</version>
 			</dependency>
 		</dependencies>
 	</dependencyManagement>
