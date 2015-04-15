@@ -178,11 +178,11 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<Fiji_Plugins.version>3.0.0</Fiji_Plugins.version>
 		<Fiji_Updater.version>2.0.0</Fiji_Updater.version>
 		<FlowJ.version>1.29.1</FlowJ.version>
-		<Graph_Cut.version>1.0.0</Graph_Cut.version>
+		<Graph_Cut.version>1.0.1</Graph_Cut.version>
 		<Gray_Morphology.version>2.3.2</Gray_Morphology.version>
 		<Helmholtz_Analysis.version>2.0.1</Helmholtz_Analysis.version>
 		<IJ_Robot.version>2.0.0</IJ_Robot.version>
-		<IO.version>2.2.0</IO.version>
+		<IO.version>2.2.1</IO.version>
 		<Image_5D.version>1.2.6</Image_5D.version>
 		<ImageJ_3D_Objects_Counter.version>2.0.0</ImageJ_3D_Objects_Counter.version>
 		<ImageJ_3D_Viewer.version>3.0.1</ImageJ_3D_Viewer.version>
@@ -211,7 +211,7 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<Series_Labeler.version>2.0.0</Series_Labeler.version>
 		<SheppLogan.version>2.0.0</SheppLogan.version>
 		<Sholl_Analysis.version>3.4.4</Sholl_Analysis.version>
-		<Simple_Neurite_Tracer.version>2.0.3</Simple_Neurite_Tracer.version>
+		<Simple_Neurite_Tracer.version>2.0.4</Simple_Neurite_Tracer.version>
 		<Siox_Segmentation.version>1.0.4</Siox_Segmentation.version>
 		<Skeletonize3D.version>1.0.1</Skeletonize3D.version>
 		<Snakuscule.version>2.0.0</Snakuscule.version>
@@ -228,12 +228,12 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<ToAST.version>25.0.1</ToAST.version>
 		<TopoJ.version>2.0.0</TopoJ.version>
 		<TrackMate.version>2.7.3</TrackMate.version>
-		<Trainable_Segmentation.version>2.1.8</Trainable_Segmentation.version>
+		<Trainable_Segmentation.version>2.2.0</Trainable_Segmentation.version>
 		<TransformJ.version>2.8.2</TransformJ.version>
 		<TurboReg.version>2.0.0</TurboReg.version>
 		<UnwarpJ.version>2.0.0</UnwarpJ.version>
 		<VIB-lib.version>2.0.1</VIB-lib.version>
-		<VIB.version>2.0.2</VIB.version>
+		<VIB.version>2.0.3</VIB.version>
 		<Vaa3d_Reader.version>2.0.1</Vaa3d_Reader.version>
 		<Vaa3d_Writer.version>1.0.0</Vaa3d_Writer.version>
 		<Video_Editing.version>2.0.0</Video_Editing.version>
