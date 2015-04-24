@@ -156,7 +156,7 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<Arrow.version>2.0.1</Arrow.version>
 		<Auto_Threshold.version>1.16.0</Auto_Threshold.version>
 		<BalloonSegmentation.version>2.0.0</BalloonSegmentation.version>
-		<Bug_Submitter.version>2.0.1</Bug_Submitter.version>
+		<Bug_Submitter.version>2.0.2</Bug_Submitter.version>
 		<CPU_Meter.version>2.0.0</CPU_Meter.version>
 		<Calculator_Plus.version>2.0.0</Calculator_Plus.version>
 		<Cell_Counter.version>2.0.0</Cell_Counter.version>
