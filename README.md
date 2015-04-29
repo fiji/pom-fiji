@@ -1,3 +1,5 @@
+![](http://jenkins.imagej.net/job/pom-fiji/lastBuild/badge/icon)
+
 Maven POM parent for [Fiji projects](https://github.com/fiji),
 and for projects wishing to inherit the Fiji
 [Bill of Materials](http://imagej.net/BOM).
