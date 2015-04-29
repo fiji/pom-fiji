@@ -1,4 +1,4 @@
-![](http://jenkins.imagej.net/job/pom-fiji/lastBuild/badge/icon)
+[![](http://jenkins.imagej.net/job/pom-fiji/lastBuild/badge/icon)](http://jenkins.imagej.net/job/pom-fiji/)
 
 Maven POM parent for [Fiji projects](https://github.com/fiji),
 and for projects wishing to inherit the Fiji
