@@ -11,7 +11,7 @@
 
 	<groupId>sc.fiji</groupId>
 	<artifactId>pom-fiji</artifactId>
-	<version>10.0.2-SNAPSHOT</version>
+	<version>10.1.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
 	<name>Fiji Projects</name>
