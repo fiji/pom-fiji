@@ -11,7 +11,7 @@
 
 	<groupId>sc.fiji</groupId>
 	<artifactId>pom-fiji</artifactId>
-	<version>10.1.1-SNAPSHOT</version>
+	<version>11.0.0-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
 	<name>Fiji Projects</name>
@@ -222,7 +222,6 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<Stitching.version>3.0.2</Stitching.version>
 		<Sync_Win.version>1.7-fiji3</Sync_Win.version>
 		<Thread_Killer.version>2.0.0</Thread_Killer.version>
-		<Threshold_Colour.version>2.0.1</Threshold_Colour.version>
 		<Time_Lapse.version>2.0.1</Time_Lapse.version>
 		<Time_Stamper.version>2.0.0</Time_Stamper.version>
 		<ToAST.version>25.0.1</ToAST.version>
@@ -623,11 +622,6 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 				<groupId>sc.fiji</groupId>
 				<artifactId>Thread_Killer</artifactId>
 				<version>${Thread_Killer.version}</version>
-			</dependency>
-			<dependency>
-				<groupId>sc.fiji</groupId>
-				<artifactId>Threshold_Colour</artifactId>
-				<version>${Threshold_Colour.version}</version>
 			</dependency>
 			<dependency>
 				<groupId>sc.fiji</groupId>
@@ -1154,7 +1148,6 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 				<Stitching.version>LATEST</Stitching.version>
 				<Sync_Win.version>LATEST</Sync_Win.version>
 				<Thread_Killer.version>LATEST</Thread_Killer.version>
-				<Threshold_Colour.version>LATEST</Threshold_Colour.version>
 				<Time_Lapse.version>LATEST</Time_Lapse.version>
 				<Time_Stamper.version>LATEST</Time_Stamper.version>
 				<ToAST.version>LATEST</ToAST.version>
