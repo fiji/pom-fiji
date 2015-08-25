@@ -142,7 +142,7 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<jsch.version>0.1.49</jsch.version>
 		<jzlib.version>1.1.2</jzlib.version>
 		<mpicbg.version>1.0.2</mpicbg.version>
-		<pom-bigdataviewer.version>2.1.5</pom-bigdataviewer.version>
+		<pom-bigdataviewer.version>2.1.6</pom-bigdataviewer.version>
 		<pom-trakem2.version>1.3.2</pom-trakem2.version>
 		<register_virtual_stack_slices.version>2.0.5</register_virtual_stack_slices.version>
 		<trakem2_tps.version>1.1.1</trakem2_tps.version>
