@@ -169,7 +169,7 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<Differentials.version>2.0.0</Differentials.version>
 		<Directionality.version>2.0.1</Directionality.version>
 		<Extended_Depth_Field.version>2.0.1</Extended_Depth_Field.version>
-		<FeatureJ.version>1.6.2</FeatureJ.version>
+		<FeatureJ.version>2.0.0</FeatureJ.version>
 		<Feature_Detection.version>2.0.1</Feature_Detection.version>
 		<Fiji_3D_Blob_Segmentation.version>2.0.2</Fiji_3D_Blob_Segmentation.version>
 		<Fiji_Archipelago.version>2.0.0</Fiji_Archipelago.version>
@@ -196,7 +196,7 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<Linear_Kuwahara.version>2.0.0</Linear_Kuwahara.version>
 		<LocalThickness.version>3.1.1</LocalThickness.version>
 		<MTrack2.version>2.0.0</MTrack2.version>
-		<MTrackJ.version>1.5.2</MTrackJ.version>
+		<MTrackJ.version>1.5.4</MTrackJ.version>
 		<M_I_P.version>2.0.0</M_I_P.version>
 		<Manual_Tracking.version>2.1.0</Manual_Tracking.version>
 		<MosaicJ.version>2.0.0</MosaicJ.version>
@@ -205,7 +205,7 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<PointPicker.version>2.0.0</PointPicker.version>
 		<QuickPALM.version>1.1.1</QuickPALM.version>
 		<RATS.version>2.0.0</RATS.version>
-		<RandomJ.version>1.5.2</RandomJ.version>
+		<RandomJ.version>2.0.0</RandomJ.version>
 		<SPIM_Opener.version>2.0.1</SPIM_Opener.version>
 		<Samples.version>2.0.0</Samples.version>
 		<Series_Labeler.version>2.0.0</Series_Labeler.version>
@@ -228,7 +228,7 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<TopoJ.version>2.0.0</TopoJ.version>
 		<TrackMate.version>2.7.4</TrackMate.version>
 		<Trainable_Segmentation.version>2.2.1</Trainable_Segmentation.version>
-		<TransformJ.version>3.1.1</TransformJ.version>
+		<TransformJ.version>4.0.0</TransformJ.version>
 		<TurboReg.version>2.0.0</TurboReg.version>
 		<UnwarpJ.version>2.0.0</UnwarpJ.version>
 		<VIB-lib.version>2.0.1</VIB-lib.version>
@@ -244,7 +244,7 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<fiji-compat.version>2.0.2</fiji-compat.version>
 		<fiji-lib.version>2.1.0</fiji-lib.version>
 		<H5J_Loader_Plugin.version>1.0.2</H5J_Loader_Plugin.version>
-		<imagescience.version>2.5.0</imagescience.version>
+		<imagescience.version>3.0.0</imagescience.version>
 		<imageware.version>2.0.0</imageware.version>
 		<javac.version>1.6.0.24-ubuntu-fiji2</javac.version>
 		<jep.version>2.4.2</jep.version>
