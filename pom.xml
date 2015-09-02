@@ -240,6 +240,7 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<Volume_Calculator.version>1.0.2</Volume_Calculator.version>
 		<Volume_Viewer.version>2.01.1</Volume_Viewer.version>
 		<bUnwarpJ.version>2.6.3</bUnwarpJ.version>
+		<bigwarp.version>1.0.0</bigwarp.version>
 		<bij.version>0.1.0</bij.version>
 		<fiji-compat.version>2.0.2</fiji-compat.version>
 		<fiji-lib.version>2.1.0</fiji-lib.version>
@@ -716,6 +717,11 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 			</dependency>
 			<dependency>
 				<groupId>sc.fiji</groupId>
+				<artifactId>bigwarp_fiji</artifactId>
+				<version>${bigwarp.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>sc.fiji</groupId>
 				<artifactId>bij</artifactId>
 				<version>${bij.version}</version>
 			</dependency>
@@ -1172,6 +1178,7 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 				<Volume_Calculator.version>LATEST</Volume_Calculator.version>
 				<Volume_Viewer.version>LATEST</Volume_Viewer.version>
 				<bUnwarpJ.version>LATEST</bUnwarpJ.version>
+				<bigwarp.version>LATEST</bigwarp.version>
 				<bij.version>LATEST</bij.version>
 				<fiji-compat.version>LATEST</fiji-compat.version>
 				<fiji-lib.version>LATEST</fiji-lib.version>
