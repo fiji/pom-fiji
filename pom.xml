@@ -135,7 +135,7 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<edu.mines.version>20100113</edu.mines.version>
 		<itextpdf.version>5.1.1</itextpdf.version>
 		<java3d.version>1.5.2</java3d.version>
-		<jitk-tps.version>1.1.1</jitk-tps.version>
+		<jitk-tps.version>1.2.0</jitk-tps.version>
 		<jgrapht.version>0.8.3</jgrapht.version>
 		<jgraphx.version>1.10.4.1</jgraphx.version>
 		<jpedal.version>2.80b11</jpedal.version>
