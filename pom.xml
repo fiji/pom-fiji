@@ -245,7 +245,7 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<bij.version>0.1.0</bij.version>
 		<fiji-compat.version>2.0.2</fiji-compat.version>
 		<fiji-lib.version>2.1.1</fiji-lib.version>
-		<H5J_Loader_Plugin.version>1.0.2</H5J_Loader_Plugin.version>
+		<H5J_Loader_Plugin.version>1.0.3</H5J_Loader_Plugin.version>
 		<imagescience.version>3.0.0</imagescience.version>
 		<imageware.version>2.0.0</imageware.version>
 		<javac.version>1.6.0.24-ubuntu-fiji2</javac.version>
