@@ -160,8 +160,8 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<Bug_Submitter.version>2.0.2</Bug_Submitter.version>
 		<CPU_Meter.version>2.0.0</CPU_Meter.version>
 		<Calculator_Plus.version>2.0.0</Calculator_Plus.version>
-		<Cell_Counter.version>2.1.0</Cell_Counter.version>
-		<Colocalisation_Analysis.version>2.1.0</Colocalisation_Analysis.version>
+		<Cell_Counter.version>2.2.0</Cell_Counter.version>
+		<Colocalisation_Analysis.version>2.2.0</Colocalisation_Analysis.version>
 		<Color_Histogram.version>2.0.6</Color_Histogram.version>
 		<Color_Inspector_3D.version>2.3.1</Color_Inspector_3D.version>
 		<Colour_Deconvolution.version>2.0.0</Colour_Deconvolution.version>
@@ -254,7 +254,7 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<level_sets.version>1.0.1</level_sets.version>
 		<mij.version>1.3.6-fiji2</mij.version>
 		<pal-optimization.version>2.0.0</pal-optimization.version>
-		<panorama.version>3.0.0</panorama.version>
+		<panorama.version>3.0.1</panorama.version>
 		<registration_3d.version>2.0.0</registration_3d.version>
 		<wavelets.version>2.0.0</wavelets.version>
 	</properties>
