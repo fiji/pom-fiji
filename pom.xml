@@ -208,7 +208,7 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<RATS.version>2.0.0</RATS.version>
 		<RandomJ.version>2.0.0</RandomJ.version>
 		<SPIM_Opener.version>2.0.1</SPIM_Opener.version>
-		<Samples.version>2.0.0</Samples.version>
+		<Samples.version>2.0.1</Samples.version>
 		<Series_Labeler.version>2.0.0</Series_Labeler.version>
 		<SheppLogan.version>2.0.0</SheppLogan.version>
 		<Sholl_Analysis.version>3.4.5</Sholl_Analysis.version>
