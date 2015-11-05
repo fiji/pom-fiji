@@ -126,6 +126,8 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<properties> section, rather than hardcoding them.
 		-->
 
+		<fiji.version>2.0.0</fiji.version>
+
 		<FS_Align_TrakEM2.version>2.0.1</FS_Align_TrakEM2.version>
 		<Reconstruct_Reader.version>2.0.2</Reconstruct_Reader.version>
 		<TrakEM2_Archipelago.version>2.0.1</TrakEM2_Archipelago.version>
@@ -261,6 +263,12 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 
 	<dependencyManagement>
 		<dependencies>
+			<dependency>
+				<groupId>sc.fiji</groupId>
+				<artifactId>fiji</artifactId>
+				<version>${fiji.version}</version>
+			</dependency>
+
 			<dependency>
 				<groupId>sc.fiji</groupId>
 				<artifactId>AnalyzeSkeleton_</artifactId>
@@ -1093,6 +1101,7 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 				</file>
 			</activation>
 			<properties>
+				<fiji.version>LATEST</fiji.version>
 				<AnalyzeSkeleton.version>LATEST</AnalyzeSkeleton.version>
 				<Analyze_Reader_Writer.version>LATEST</Analyze_Reader_Writer.version>
 				<Anisotropic_Diffusion_2D.version>LATEST</Anisotropic_Diffusion_2D.version>
