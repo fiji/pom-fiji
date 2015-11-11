@@ -86,13 +86,6 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 			<post>imagej@list.nih.gov</post>
 			<archive>http://list.nih.gov/archives/imagej.html</archive>
 		</mailingList>
-		<mailingList>
-			<name>Fiji-devel</name>
-			<subscribe>http://groups.google.com/group/fiji-devel</subscribe>
-			<unsubscribe>http://groups.google.com/group/fiji-devel</unsubscribe>
-			<post>fiji@fiji.sc</post>
-			<archive>http://groups.google.com/group/fiji-devel</archive>
-		</mailingList>
 	</mailingLists>
 
 	<scm>
