@@ -119,7 +119,7 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<commons-math.version>3.4.1</commons-math.version>
 		<edu.mines.version>20100113</edu.mines.version>
 		<itextpdf.version>5.1.1</itextpdf.version>
-		<jitk-tps.version>1.2.0</jitk-tps.version>
+		<jitk-tps.version>1.2.1</jitk-tps.version>
 		<jgrapht.version>0.8.3</jgrapht.version>
 		<jgraphx.version>1.10.4.1</jgraphx.version>
 		<jpedal.version>2.80b11</jpedal.version>
@@ -225,7 +225,7 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<Volume_Calculator.version>1.0.2</Volume_Calculator.version>
 		<Volume_Viewer.version>2.01.1</Volume_Viewer.version>
 		<bUnwarpJ.version>2.6.3</bUnwarpJ.version>
-		<bigwarp.version>1.0.0</bigwarp.version>
+		<bigwarp.version>1.1.0</bigwarp.version>
 		<bij.version>0.1.0</bij.version>
 		<fiji-compat.version>2.0.2</fiji-compat.version>
 		<fiji-lib.version>2.1.1</fiji-lib.version>
