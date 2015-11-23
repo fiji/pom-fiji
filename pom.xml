@@ -109,29 +109,19 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<properties> section, rather than hardcoding them.
 		-->
 
+		<!-- Fiji - https://github.com/fiji/fiji -->
 		<fiji.version>2.0.0</fiji.version>
 
-		<FS_Align_TrakEM2.version>2.0.1</FS_Align_TrakEM2.version>
-		<Reconstruct_Reader.version>2.0.2</Reconstruct_Reader.version>
-		<TrakEM2_Archipelago.version>2.0.1</TrakEM2_Archipelago.version>
-		<batik.version>1.8</batik.version>
-		<blockmatching.version>2.1.1</blockmatching.version>
-		<commons-math.version>3.4.1</commons-math.version>
-		<itextpdf.version>5.1.1</itextpdf.version>
-		<jitk-tps.version>1.2.1</jitk-tps.version>
-		<jgrapht.version>0.8.3</jgrapht.version>
-		<jgraphx.version>1.10.4.1</jgraphx.version>
-		<jpedal.version>2.80b11</jpedal.version>
-		<jsch.version>0.1.49</jsch.version>
-		<jzlib.version>1.1.2</jzlib.version>
-		<opencsv.version>2.4</opencsv.version>
-		<pom-bigdataviewer.version>2.2.2</pom-bigdataviewer.version>
-		<pom-trakem2.version>1.4.0</pom-trakem2.version>
-		<register_virtual_stack_slices.version>2.0.5</register_virtual_stack_slices.version>
-		<trakem2_tps.version>1.1.1</trakem2_tps.version>
-		<weka.version>3.7.11</weka.version>
+		<!-- Fiji sub-BOMs -->
 
-		<!-- Fiji sub-projects -->
+		<!-- pom-bigdataviewer - https://github.com/bigdataviewer/pom-bigdataviewer -->
+		<pom-bigdataviewer.version>2.2.0</pom-bigdataviewer.version>
+
+		<!-- pom-trakem2 - https://github.com/trakem2/TrakEM2 -->
+		<pom-trakem2.version>1.4.0</pom-trakem2.version>
+
+		<!-- Standard Fiji projects -->
+
 		<AnalyzeSkeleton.version>2.0.5</AnalyzeSkeleton.version>
 		<Analyze_Reader_Writer.version>2.0.0</Analyze_Reader_Writer.version>
 		<Anisotropic_Diffusion_2D.version>2.0.0</Anisotropic_Diffusion_2D.version>
@@ -193,7 +183,6 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<Samples.version>2.0.1</Samples.version>
 		<Series_Labeler.version>2.0.0</Series_Labeler.version>
 		<SheppLogan.version>2.0.0</SheppLogan.version>
-		<Sholl_Analysis.version>3.4.5</Sholl_Analysis.version>
 		<Simple_Neurite_Tracer.version>2.0.4</Simple_Neurite_Tracer.version>
 		<Siox_Segmentation.version>1.0.4</Siox_Segmentation.version>
 		<Skeletonize3D.version>1.0.1</Skeletonize3D.version>
@@ -223,7 +212,6 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<Volume_Calculator.version>1.0.2</Volume_Calculator.version>
 		<Volume_Viewer.version>2.01.1</Volume_Viewer.version>
 		<bUnwarpJ.version>2.6.3</bUnwarpJ.version>
-		<bigwarp.version>1.1.0</bigwarp.version>
 		<bij.version>0.1.0</bij.version>
 		<fiji-compat.version>2.0.2</fiji-compat.version>
 		<fiji-lib.version>2.1.1</fiji-lib.version>
@@ -239,15 +227,78 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<panorama.version>3.0.1</panorama.version>
 		<registration_3d.version>2.0.0</registration_3d.version>
 		<wavelets.version>2.0.0</wavelets.version>
+
+		<!-- External Fiji projects -->
+
+		<!-- Sholl Analysis - https://github.com/tferr/ASA -->
+		<Sholl_Analysis.version>3.4.5</Sholl_Analysis.version>
+
+		<!-- JITK TPS - https://github.com/saalfeldlab/jitk-tps -->
+		<jitk-tps.version>1.2.1</jitk-tps.version>
+
+		<!-- BigWarp - https://github.com/saalfeldlab/bigwarp -->
+		<bigwarp.version>1.1.0</bigwarp.version>
+
+		<!-- TrakEM2 TPS - https://github.com/saalfeldlab/trakem2-tps -->
+		<trakem2_tps.version>1.1.1</trakem2_tps.version>
+
+		<!-- TrakEM2-based projects -->
+
+		<!-- FS Align TrakEM2 - https://github.com/trakem2/FS_Align_TrakEM2 -->
+		<FS_Align_TrakEM2.version>2.0.1</FS_Align_TrakEM2.version>
+
+		<!-- Reconstruct Reader - https://github.com/trakem2/Reconstruct_Reader -->
+		<Reconstruct_Reader.version>2.0.2</Reconstruct_Reader.version>
+
+		<!-- TrakEM2 Archipelago - https://github.com/trakem2/TrakEM2_Archipelago -->
+		<TrakEM2_Archipelago.version>2.0.1</TrakEM2_Archipelago.version>
+
+		<!-- blockmatching - https://github.com/trakem2/blockmatching -->
+		<blockmatching.version>2.1.1</blockmatching.version>
+
+		<!-- register virtual stack slices - https://github.com/trakem2/register_virtual_stack_slices -->
+		<register_virtual_stack_slices.version>2.0.5</register_virtual_stack_slices.version>
+
+		<!-- Third party projects -->
+
+		<opencsv.version>2.4</opencsv.version>
+		<batik.version>1.8</batik.version>
+		<itextpdf.version>5.1.1</itextpdf.version>
+		<jsch.version>0.1.49</jsch.version>
+		<jzlib.version>1.1.2</jzlib.version>
+		<jgrapht.version>0.8.3</jgrapht.version>
+		<weka.version>3.7.11</weka.version>
+		<commons-math.version>3.4.1</commons-math.version>
+		<jpedal.version>2.80b11</jpedal.version>
+		<jgraphx.version>1.10.4.1</jgraphx.version>
 	</properties>
 
 	<dependencyManagement>
 		<dependencies>
+			<!-- Fiji - https://github.com/fiji/fiji -->
 			<dependency>
 				<groupId>sc.fiji</groupId>
 				<artifactId>fiji</artifactId>
 				<version>${fiji.version}</version>
 			</dependency>
+
+			<!-- Fiji sub-BOMs -->
+
+			<!-- pom-bigdataviewer - https://github.com/bigdataviewer/pom-bigdataviewer -->
+			<dependency>
+				<groupId>sc.fiji</groupId>
+				<artifactId>pom-bigdataviewer</artifactId>
+				<version>${pom-bigdataviewer.version}</version>
+			</dependency>
+
+			<!-- pom-trakem2 - https://github.com/trakem2/TrakEM2 -->
+			<dependency>
+				<groupId>sc.fiji</groupId>
+				<artifactId>pom-trakem2</artifactId>
+				<version>${pom-trakem2.version}</version>
+			</dependency>
+
+			<!-- Standard Fiji projects -->
 
 			<dependency>
 				<groupId>sc.fiji</groupId>
@@ -555,11 +606,6 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 				<version>${SheppLogan.version}</version>
 			</dependency>
 			<dependency>
-				<groupId>ca.mcgill</groupId>
-				<artifactId>Sholl_Analysis</artifactId>
-				<version>${Sholl_Analysis.version}</version>
-			</dependency>
-			<dependency>
 				<groupId>sc.fiji</groupId>
 				<artifactId>Simple_Neurite_Tracer</artifactId>
 				<version>${Simple_Neurite_Tracer.version}</version>
@@ -706,11 +752,6 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 			</dependency>
 			<dependency>
 				<groupId>sc.fiji</groupId>
-				<artifactId>bigwarp_fiji</artifactId>
-				<version>${bigwarp.version}</version>
-			</dependency>
-			<dependency>
-				<groupId>sc.fiji</groupId>
 				<artifactId>bij</artifactId>
 				<version>${bij.version}</version>
 			</dependency>
@@ -785,6 +826,75 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 				<version>${wavelets.version}</version>
 			</dependency>
 
+			<!-- External Fiji projects -->
+
+			<!-- Sholl Analysis - https://github.com/tferr/ASA -->
+			<dependency>
+				<groupId>ca.mcgill</groupId>
+				<artifactId>Sholl_Analysis</artifactId>
+				<version>${Sholl_Analysis.version}</version>
+			</dependency>
+
+			<!-- JITK TPS - https://github.com/saalfeldlab/jitk-tps -->
+			<dependency>
+				<groupId>jitk</groupId>
+				<artifactId>jitk-tps</artifactId>
+				<version>${jitk-tps.version}</version>
+			</dependency>
+
+			<!-- BigWarp - https://github.com/saalfeldlab/bigwarp -->
+			<dependency>
+				<groupId>sc.fiji</groupId>
+				<artifactId>bigwarp_fiji</artifactId>
+				<version>${bigwarp.version}</version>
+			</dependency>
+
+			<!-- TrakEM2 TPS - https://github.com/saalfeldlab/trakem2-tps -->
+			<dependency>
+				<groupId>sc.fiji</groupId>
+				<artifactId>trakem2_tps</artifactId>
+				<version>${trakem2_tps.version}</version>
+			</dependency>
+
+			<!-- TrakEM2-based projects -->
+
+			<!-- FS Align TrakEM2 - https://github.com/trakem2/FS_Align_TrakEM2 -->
+			<dependency>
+				<groupId>sc.fiji</groupId>
+				<artifactId>FS_Align_TrakEM2</artifactId>
+				<version>${FS_Align_TrakEM2.version}</version>
+			</dependency>
+
+			<!-- Reconstruct Reader - https://github.com/trakem2/Reconstruct_Reader -->
+			<dependency>
+				<groupId>sc.fiji</groupId>
+				<artifactId>Reconstruct_Reader</artifactId>
+				<version>${Reconstruct_Reader.version}</version>
+			</dependency>
+
+			<!-- TrakEM2 Archipelago - https://github.com/trakem2/TrakEM2_Archipelago -->
+			<dependency>
+				<groupId>sc.fiji</groupId>
+				<artifactId>TrakEM2_Archipelago</artifactId>
+				<version>${TrakEM2_Archipelago.version}</version>
+			</dependency>
+
+			<!-- blockmatching - https://github.com/trakem2/blockmatching -->
+			<dependency>
+				<groupId>sc.fiji</groupId>
+				<artifactId>blockmatching_</artifactId>
+				<version>${blockmatching.version}</version>
+			</dependency>
+
+			<!-- register virtual stack slices - https://github.com/trakem2/register_virtual_stack_slices -->
+			<dependency>
+				<groupId>sc.fiji</groupId>
+				<artifactId>register_virtual_stack_slices</artifactId>
+				<version>${register_virtual_stack_slices.version}</version>
+			</dependency>
+
+			<!-- Third party projects -->
+
 			<dependency>
 				<groupId>au.com.bytecode</groupId>
 				<artifactId>opencsv</artifactId>
@@ -796,34 +906,9 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 				<version>${batik.version}</version>
 			</dependency>
 			<dependency>
-				<groupId>org.apache.commons</groupId>
-				<artifactId>commons-math3</artifactId>
-				<version>${commons-math.version}</version>
-			</dependency>
-			<dependency>
 				<groupId>com.itextpdf</groupId>
 				<artifactId>itextpdf</artifactId>
 				<version>${itextpdf.version}</version>
-			</dependency>
-			<dependency>
-				<groupId>net.sf.jgrapht</groupId>
-				<artifactId>jgrapht</artifactId>
-				<version>${jgrapht.version}</version>
-			</dependency>
-			<dependency>
-				<groupId>org.tinyjee.jgraphx</groupId>
-				<artifactId>jgraphx</artifactId>
-				<version>${jgraphx.version}</version>
-			</dependency>
-			<dependency>
-				<groupId>org.jpedal</groupId>
-				<artifactId>jpedal</artifactId>
-				<version>${jpedal.version}</version>
-			</dependency>
-			<dependency>
-				<groupId>org.jpedal</groupId>
-				<artifactId>jpedalSTD</artifactId>
-				<version>${jpedal.version}</version>
 			</dependency>
 			<dependency>
 				<groupId>com.jcraft</groupId>
@@ -836,6 +921,11 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 				<version>${jzlib.version}</version>
 			</dependency>
 			<dependency>
+				<groupId>net.sf.jgrapht</groupId>
+				<artifactId>jgrapht</artifactId>
+				<version>${jgrapht.version}</version>
+			</dependency>
+			<dependency>
 				<groupId>nz.ac.waikato.cms.weka</groupId>
 				<artifactId>weka</artifactId>
 				<version>${weka.version}</version>
@@ -846,51 +936,24 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 				<version>${weka.version}</version>
 			</dependency>
 			<dependency>
-				<groupId>sc.fiji</groupId>
-				<artifactId>pom-bigdataviewer</artifactId>
-				<version>${pom-bigdataviewer.version}</version>
+				<groupId>org.apache.commons</groupId>
+				<artifactId>commons-math3</artifactId>
+				<version>${commons-math.version}</version>
 			</dependency>
 			<dependency>
-				<groupId>sc.fiji</groupId>
-				<artifactId>FS_Align_TrakEM2</artifactId>
-				<version>${FS_Align_TrakEM2.version}</version>
+				<groupId>org.jpedal</groupId>
+				<artifactId>jpedal</artifactId>
+				<version>${jpedal.version}</version>
 			</dependency>
 			<dependency>
-				<groupId>sc.fiji</groupId>
-				<artifactId>Reconstruct_Reader</artifactId>
-				<version>${Reconstruct_Reader.version}</version>
+				<groupId>org.jpedal</groupId>
+				<artifactId>jpedalSTD</artifactId>
+				<version>${jpedal.version}</version>
 			</dependency>
 			<dependency>
-				<groupId>sc.fiji</groupId>
-				<artifactId>TrakEM2_Archipelago</artifactId>
-				<version>${TrakEM2_Archipelago.version}</version>
-			</dependency>
-			<dependency>
-				<groupId>sc.fiji</groupId>
-				<artifactId>blockmatching_</artifactId>
-				<version>${blockmatching.version}</version>
-			</dependency>
-			<dependency>
-				<groupId>sc.fiji</groupId>
-				<artifactId>register_virtual_stack_slices</artifactId>
-				<version>
-					${register_virtual_stack_slices.version}
-				</version>
-			</dependency>
-			<dependency>
-				<groupId>sc.fiji</groupId>
-				<artifactId>pom-trakem2</artifactId>
-				<version>${pom-trakem2.version}</version>
-			</dependency>
-			<dependency>
-				<groupId>jitk</groupId>
-				<artifactId>jitk-tps</artifactId>
-				<version>${jitk-tps.version}</version>
-			</dependency>
-			<dependency>
-				<groupId>sc.fiji</groupId>
-				<artifactId>trakem2_tps</artifactId>
-				<version>${trakem2_tps.version}</version>
+				<groupId>org.tinyjee.jgraphx</groupId>
+				<artifactId>jgraphx</artifactId>
+				<version>${jgraphx.version}</version>
 			</dependency>
 		</dependencies>
 	</dependencyManagement>
@@ -1029,7 +1092,10 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 				</file>
 			</activation>
 			<properties>
+				<!-- Fiji -->
 				<fiji.version>LATEST</fiji.version>
+
+				<!-- Standard Fiji projects -->
 				<AnalyzeSkeleton.version>LATEST</AnalyzeSkeleton.version>
 				<Analyze_Reader_Writer.version>LATEST</Analyze_Reader_Writer.version>
 				<Anisotropic_Diffusion_2D.version>LATEST</Anisotropic_Diffusion_2D.version>
@@ -1091,7 +1157,6 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 				<Samples.version>LATEST</Samples.version>
 				<Series_Labeler.version>LATEST</Series_Labeler.version>
 				<SheppLogan.version>LATEST</SheppLogan.version>
-				<Sholl_Analysis.version>LATEST</Sholl_Analysis.version>
 				<Simple_Neurite_Tracer.version>LATEST</Simple_Neurite_Tracer.version>
 				<Siox_Segmentation.version>LATEST</Siox_Segmentation.version>
 				<Skeletonize3D.version>LATEST</Skeletonize3D.version>
@@ -1121,7 +1186,6 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 				<Volume_Calculator.version>LATEST</Volume_Calculator.version>
 				<Volume_Viewer.version>LATEST</Volume_Viewer.version>
 				<bUnwarpJ.version>LATEST</bUnwarpJ.version>
-				<bigwarp.version>LATEST</bigwarp.version>
 				<bij.version>LATEST</bij.version>
 				<fiji-compat.version>LATEST</fiji-compat.version>
 				<fiji-lib.version>LATEST</fiji-lib.version>
@@ -1137,6 +1201,19 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 				<panorama.version>LATEST</panorama.version>
 				<registration_3d.version>LATEST</registration_3d.version>
 				<wavelets.version>LATEST</wavelets.version>
+
+				<!-- External Fiji projects -->
+				<Sholl_Analysis.version>LATEST</Sholl_Analysis.version>
+				<jitk-tps.version>LATEST</jitk-tps.version>
+				<bigwarp.version>LATEST</bigwarp.version>
+				<trakem2_tps.version>LATEST</trakem2_tps.version>
+
+				<!-- TrakEM2-based projects -->
+				<FS_Align_TrakEM2.version>LATEST</FS_Align_TrakEM2.version>
+				<Reconstruct_Reader.version>LATEST</Reconstruct_Reader.version>
+				<TrakEM2_Archipelago.version>LATEST</TrakEM2_Archipelago.version>
+				<blockmatching.version>LATEST</blockmatching.version>
+				<register_virtual_stack_slices.version>LATEST</register_virtual_stack_slices.version>
 			</properties>
 			<repositories>
 				<repository>
