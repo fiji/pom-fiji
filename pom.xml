@@ -11,7 +11,7 @@
 
 	<groupId>sc.fiji</groupId>
 	<artifactId>pom-fiji</artifactId>
-	<version>17.0.1-SNAPSHOT</version>
+	<version>17.1.0-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
 	<name>Fiji Projects</name>
@@ -181,6 +181,7 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<RandomJ.version>2.0.0</RandomJ.version>
 		<SPIM_Opener.version>2.0.1</SPIM_Opener.version>
 		<Samples.version>2.0.1</Samples.version>
+		<Script_Launcher.version>0.1.0</Script_Launcher.version>
 		<Series_Labeler.version>2.0.0</Series_Labeler.version>
 		<SheppLogan.version>2.0.0</SheppLogan.version>
 		<Simple_Neurite_Tracer.version>2.0.4</Simple_Neurite_Tracer.version>
@@ -594,6 +595,11 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 				<groupId>sc.fiji</groupId>
 				<artifactId>Samples_</artifactId>
 				<version>${Samples.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>sc.fiji</groupId>
+				<artifactId>Script_Launcher</artifactId>
+				<version>${Script_Launcher.version}</version>
 			</dependency>
 			<dependency>
 				<groupId>sc.fiji</groupId>
@@ -1155,6 +1161,7 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 				<RandomJ.version>LATEST</RandomJ.version>
 				<SPIM_Opener.version>LATEST</SPIM_Opener.version>
 				<Samples.version>LATEST</Samples.version>
+				<Script_Launcher.version>LATEST</Script_Launcher.version>
 				<Series_Labeler.version>LATEST</Series_Labeler.version>
 				<SheppLogan.version>LATEST</SheppLogan.version>
 				<Simple_Neurite_Tracer.version>LATEST</Simple_Neurite_Tracer.version>
