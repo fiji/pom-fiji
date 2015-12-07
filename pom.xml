@@ -34,18 +34,6 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 
 	<developers>
 		<developer>
-			<id>dscho</id>
-			<name>Johannes Schindelin</name>
-			<email>schindelin@wisc.edu</email>
-			<url>http://loci.wisc.edu/people/johannes-schindelin</url>
-			<organization>UW-Madison LOCI</organization>
-			<organizationUrl>http://loci.wisc.edu/</organizationUrl>
-			<roles>
-				<role>maintainer</role>
-			</roles>
-			<timezone>+1</timezone>
-		</developer>
-		<developer>
 			<id>ctrueden</id>
 			<name>Curtis Rueden</name>
 			<email>ctrueden@wisc.edu</email>
@@ -53,6 +41,12 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 			<organization>UW-Madison LOCI</organization>
 			<organizationUrl>http://loci.wisc.edu/</organizationUrl>
 			<roles>
+				<role>founder</role>
+				<role>lead</role>
+				<role>developer</role>
+				<role>debugger</role>
+				<role>reviewer</role>
+				<role>support</role>
 				<role>maintainer</role>
 			</roles>
 			<timezone>-6</timezone>
@@ -65,17 +59,56 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 			<organization>UW-Madison LOCI</organization>
 			<organizationUrl>http://loci.wisc.edu/</organizationUrl>
 			<roles>
+				<role>lead</role>
+				<role>developer</role>
+				<role>debugger</role>
+				<role>reviewer</role>
+				<role>support</role>
 				<role>maintainer</role>
 			</roles>
 			<timezone>-6</timezone>
 		</developer>
 	</developers>
 	<contributors>
-		<!--
-		NB: Need a least one element to override the parent.
-		See: https://issues.apache.org/jira/browse/MNG-5220
-		-->
-		<contributor><name>None</name></contributor>
+		<contributor>
+			<name>Johannes Schindelin</name>
+			<url>http://imagej.net/User:Schindelin</url>
+			<roles><role>founder</role></roles>
+			<properties><id>dscho</id></properties>
+		</contributor>
+		<contributor>
+			<name>Ignacio Arganda-Carreras</name>
+			<url>http://imagej.net/User:Iarganda</url>
+			<properties><id>iarganda</id></properties>
+		</contributor>
+		<contributor>
+			<name>Tiago Ferreira</name>
+			<url>http://imagej.net/User:Tiago</url>
+			<properties><id>tferr</id></properties>
+		</contributor>
+		<contributor>
+			<name>Les Foster</name>
+			<properties><id>lesfoster</id></properties>
+		</contributor>
+		<contributor>
+			<name>Stefan Helfrich</name>
+			<properties><id>stelfrich</id></properties>
+		</contributor>
+		<contributor>
+			<name>Tobias Pietzsch</name>
+			<url>http://imagej.net/User:Pietzsch</url>
+			<properties><id>tpietzsch</id></properties>
+		</contributor>
+		<contributor>
+			<name>Stephan Saalfeld</name>
+			<url>http://imagej.net/User:Saalfeld</url>
+			<properties><id>axtimwalde</id></properties>
+		</contributor>
+		<contributor>
+			<name>Jean-Yves Tinevez</name>
+			<url>http://imagej.net/User:JeanYvesTinevez</url>
+			<properties><id>tinevez</id></properties>
+		</contributor>
 	</contributors>
 
 	<scm>
