@@ -169,7 +169,7 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<Colocalisation_Analysis.version>2.2.0</Colocalisation_Analysis.version>
 		<Color_Histogram.version>2.0.6</Color_Histogram.version>
 		<Color_Inspector_3D.version>2.3.1</Color_Inspector_3D.version>
-		<Colour_Deconvolution.version>2.0.0</Colour_Deconvolution.version>
+		<Colour_Deconvolution.version>3.0.0</Colour_Deconvolution.version>
 		<CorrectBleach.version>2.0.1</CorrectBleach.version>
 		<Descriptor_based_registration.version>2.0.12</Descriptor_based_registration.version>
 		<Dichromacy.version>2.1.0</Dichromacy.version>
@@ -196,7 +196,7 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<ImageJ_3D_Viewer.version>3.1.0</ImageJ_3D_Viewer.version>
 		<Image_5D.version>1.2.6</Image_5D.version>
 		<Image_Expression_Parser.version>3.0.0</Image_Expression_Parser.version>
-		<Interactive_3D_Surface_Plot.version>2.4.0</Interactive_3D_Surface_Plot.version>
+		<Interactive_3D_Surface_Plot.version>2.4.1</Interactive_3D_Surface_Plot.version>
 		<IsoData_Classifier.version>2.0.0</IsoData_Classifier.version>
 		<Kuwahara_Filter.version>2.0.0</Kuwahara_Filter.version>
 		<LSM_Reader.version>4.1.1</LSM_Reader.version>
@@ -265,7 +265,7 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<mij.version>1.3.6-fiji2</mij.version>
 		<pal-optimization.version>2.0.0</pal-optimization.version>
 		<panorama.version>3.0.1</panorama.version>
-		<register_virtual_stack_slices.version>2.0.5</register_virtual_stack_slices.version>
+		<register_virtual_stack_slices.version>2.0.6</register_virtual_stack_slices.version>
 		<registration_3d.version>2.0.0</registration_3d.version>
 		<wavelets.version>2.0.0</wavelets.version>
 
