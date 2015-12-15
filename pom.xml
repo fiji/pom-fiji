@@ -187,12 +187,13 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<FlowJ.version>1.29.1</FlowJ.version>
 		<Graph_Cut.version>1.0.1</Graph_Cut.version>
 		<Gray_Morphology.version>2.3.3</Gray_Morphology.version>
+		<H5J_Loader_Plugin.version>1.0.4</H5J_Loader_Plugin.version>
 		<Helmholtz_Analysis.version>2.0.1</Helmholtz_Analysis.version>
 		<IJ_Robot.version>2.0.0</IJ_Robot.version>
 		<IO.version>2.3.0</IO.version>
-		<Image_5D.version>1.2.6</Image_5D.version>
 		<ImageJ_3D_Objects_Counter.version>2.0.0</ImageJ_3D_Objects_Counter.version>
 		<ImageJ_3D_Viewer.version>3.1.0</ImageJ_3D_Viewer.version>
+		<Image_5D.version>1.2.6</Image_5D.version>
 		<Image_Expression_Parser.version>3.0.0</Image_Expression_Parser.version>
 		<Interactive_3D_Surface_Plot.version>2.4.0</Interactive_3D_Surface_Plot.version>
 		<IsoData_Classifier.version>2.0.0</IsoData_Classifier.version>
@@ -253,7 +254,6 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<blockmatching.version>2.1.1</blockmatching.version>
 		<fiji-compat.version>2.0.2</fiji-compat.version>
 		<fiji-lib.version>2.1.1</fiji-lib.version>
-		<H5J_Loader_Plugin.version>1.0.4</H5J_Loader_Plugin.version>
 		<imagescience.version>3.0.0</imagescience.version>
 		<imageware.version>2.0.0</imageware.version>
 		<javac.version>1.6.0.24-ubuntu-fiji2</javac.version>
@@ -476,6 +476,11 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 				<groupId>sc.fiji</groupId>
 				<artifactId>Gray_Morphology</artifactId>
 				<version>${Gray_Morphology.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>org.janelia</groupId>
+				<artifactId>H5J_Loader_Plugin</artifactId>
+				<version>${H5J_Loader_Plugin.version}</version>
 			</dependency>
 			<dependency>
 				<groupId>sc.fiji</groupId>
@@ -791,11 +796,6 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 				<groupId>sc.fiji</groupId>
 				<artifactId>fiji-lib</artifactId>
 				<version>${fiji-lib.version}</version>
-			</dependency>
-			<dependency>
-				<groupId>org.janelia</groupId>
-				<artifactId>H5J_Loader_Plugin</artifactId>
-				<version>${H5J_Loader_Plugin.version}</version>
 			</dependency>
 			<dependency>
 				<groupId>sc.fiji</groupId>
@@ -1134,6 +1134,7 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 				<FlowJ.version>LATEST</FlowJ.version>
 				<Graph_Cut.version>LATEST</Graph_Cut.version>
 				<Gray_Morphology.version>LATEST</Gray_Morphology.version>
+				<H5J_Loader_Plugin.version>LATEST</H5J_Loader_Plugin.version>
 				<Helmholtz_Analysis.version>LATEST</Helmholtz_Analysis.version>
 				<IJ_Robot.version>LATEST</IJ_Robot.version>
 				<IO.version>LATEST</IO.version>
@@ -1200,7 +1201,6 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 				<blockmatching.version>LATEST</blockmatching.version>
 				<fiji-compat.version>LATEST</fiji-compat.version>
 				<fiji-lib.version>LATEST</fiji-lib.version>
-				<H5J_Loader_Plugin.version>LATEST</H5J_Loader_Plugin.version>
 				<imagescience.version>LATEST</imagescience.version>
 				<imageware.version>LATEST</imageware.version>
 				<javac.version>LATEST</javac.version>
