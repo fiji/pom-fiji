@@ -171,6 +171,7 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<Color_Inspector_3D.version>2.3.1</Color_Inspector_3D.version>
 		<Colour_Deconvolution.version>2.0.0</Colour_Deconvolution.version>
 		<CorrectBleach.version>2.0.1</CorrectBleach.version>
+		<Descriptor_based_registration.version>2.0.12</Descriptor_based_registration.version>
 		<Dichromacy.version>2.1.0</Dichromacy.version>
 		<Differentials.version>2.0.0</Differentials.version>
 		<Directionality.version>2.0.1</Directionality.version>
@@ -216,6 +217,7 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<RandomJ.version>2.0.0</RandomJ.version>
 		<Reconstruct_Reader.version>2.0.2</Reconstruct_Reader.version>
 		<SPIM_Opener.version>2.0.1</SPIM_Opener.version>
+		<SPIM_Registration.version>3.0.6</SPIM_Registration.version>
 		<Samples.version>2.0.1</Samples.version>
 		<Script_Launcher.version>0.1.0</Script_Launcher.version>
 		<Series_Labeler.version>2.0.0</Series_Labeler.version>
@@ -401,6 +403,11 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 				<groupId>sc.fiji</groupId>
 				<artifactId>CorrectBleach_</artifactId>
 				<version>${CorrectBleach.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>sc.fiji</groupId>
+				<artifactId>Descriptor_based_registration</artifactId>
+				<version>${Descriptor_based_registration.version}</version>
 			</dependency>
 			<dependency>
 				<groupId>sc.fiji</groupId>
@@ -616,6 +623,11 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 				<groupId>sc.fiji</groupId>
 				<artifactId>SPIM_Opener</artifactId>
 				<version>${SPIM_Opener.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>sc.fiji</groupId>
+				<artifactId>SPIM_Registration</artifactId>
+				<version>${SPIM_Registration.version}</version>
 			</dependency>
 			<dependency>
 				<groupId>sc.fiji</groupId>
@@ -1118,6 +1130,7 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 				<Color_Inspector_3D.version>LATEST</Color_Inspector_3D.version>
 				<Colour_Deconvolution.version>LATEST</Colour_Deconvolution.version>
 				<CorrectBleach.version>LATEST</CorrectBleach.version>
+				<Descriptor_based_registration.version>LATEST</Descriptor_based_registration.version>
 				<Dichromacy.version>LATEST</Dichromacy.version>
 				<Differentials.version>LATEST</Differentials.version>
 				<Directionality.version>LATEST</Directionality.version>
@@ -1163,6 +1176,7 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 				<RandomJ.version>LATEST</RandomJ.version>
 				<Reconstruct_Reader.version>LATEST</Reconstruct_Reader.version>
 				<SPIM_Opener.version>LATEST</SPIM_Opener.version>
+				<SPIM_Registration.version>LATEST</SPIM_Registration.version>
 				<Samples.version>LATEST</Samples.version>
 				<Script_Launcher.version>LATEST</Script_Launcher.version>
 				<Series_Labeler.version>LATEST</Series_Labeler.version>
