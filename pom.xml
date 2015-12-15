@@ -1096,27 +1096,6 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 	</reporting>
 
 	<profiles>
-		<!-- HACK: Eclipse in JDK 1.5 mode does not like @Override for methods implemention interfaces. -->
-		<profile>
-			<id>no-eclipse</id>
-			<activation>
-				<property>
-					<name>!m2e.version</name>
-				</property>
-			</activation>
-			<build>
-				<plugins>
-					<plugin>
-						<artifactId>maven-compiler-plugin</artifactId>
-						<configuration>
-							<source>1.5</source>
-							<target>1.5</target>
-						</configuration>
-					</plugin>
-				</plugins>
-			</build>
-		</profile>
-
 		<!--
 		This developer profile makes it easy to pin to SNAPSHOT versions.
 		Add an empty dev.fiji file in your ~/.scijava directory, and
