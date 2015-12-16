@@ -11,7 +11,7 @@
 
 	<groupId>sc.fiji</groupId>
 	<artifactId>pom-fiji</artifactId>
-	<version>18.1.1-SNAPSHOT</version>
+	<version>19.0.0-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
 	<name>Fiji Projects</name>
@@ -193,7 +193,7 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<IJ_Robot.version>2.0.0</IJ_Robot.version>
 		<IO.version>2.3.0</IO.version>
 		<ImageJ_3D_Objects_Counter.version>2.0.0</ImageJ_3D_Objects_Counter.version>
-		<ImageJ_3D_Viewer.version>3.1.0</ImageJ_3D_Viewer.version>
+		<ImageJ_3D_Viewer.version>4.0.1</ImageJ_3D_Viewer.version>
 		<Image_5D.version>1.2.6</Image_5D.version>
 		<Image_Expression_Parser.version>3.0.0</Image_Expression_Parser.version>
 		<Interactive_3D_Surface_Plot.version>2.4.1</Interactive_3D_Surface_Plot.version>
@@ -217,7 +217,7 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<RandomJ.version>2.0.0</RandomJ.version>
 		<Reconstruct_Reader.version>2.0.2</Reconstruct_Reader.version>
 		<SPIM_Opener.version>2.0.1</SPIM_Opener.version>
-		<SPIM_Registration.version>3.0.6</SPIM_Registration.version>
+		<SPIM_Registration.version>4.0.0</SPIM_Registration.version>
 		<Samples.version>2.0.1</Samples.version>
 		<Script_Launcher.version>0.1.0</Script_Launcher.version>
 		<Series_Labeler.version>2.0.0</Series_Labeler.version>
