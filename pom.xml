@@ -11,7 +11,7 @@
 
 	<groupId>sc.fiji</groupId>
 	<artifactId>pom-fiji</artifactId>
-	<version>20.0.1-SNAPSHOT</version>
+	<version>21.0.0-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
 	<name>Fiji Projects</name>
@@ -177,7 +177,6 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<Directionality.version>2.0.1</Directionality.version>
 		<Extended_Depth_Field.version>2.0.1</Extended_Depth_Field.version>
 		<FS_Align_TrakEM2.version>2.0.1</FS_Align_TrakEM2.version>
-		<FeatureJ.version>2.0.0</FeatureJ.version>
 		<Feature_Detection.version>2.0.1</Feature_Detection.version>
 		<Fiji_3D_Blob_Segmentation.version>3.0.0</Fiji_3D_Blob_Segmentation.version>
 		<Fiji_Archipelago.version>2.0.0</Fiji_Archipelago.version>
@@ -205,7 +204,6 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<Linear_Kuwahara.version>2.0.0</Linear_Kuwahara.version>
 		<LocalThickness.version>4.0.0</LocalThickness.version>
 		<MTrack2.version>2.0.0</MTrack2.version>
-		<MTrackJ.version>1.5.4</MTrackJ.version>
 		<M_I_P.version>2.0.0</M_I_P.version>
 		<Manual_Tracking.version>2.1.0</Manual_Tracking.version>
 		<MosaicJ.version>2.0.0</MosaicJ.version>
@@ -214,7 +212,6 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<PointPicker.version>2.0.0</PointPicker.version>
 		<QuickPALM.version>1.1.1</QuickPALM.version>
 		<RATS.version>2.0.0</RATS.version>
-		<RandomJ.version>2.0.0</RandomJ.version>
 		<Reconstruct_Reader.version>2.0.2</Reconstruct_Reader.version>
 		<SPIM_Opener.version>2.0.1</SPIM_Opener.version>
 		<SPIM_Registration.version>4.0.0</SPIM_Registration.version>
@@ -240,7 +237,6 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<TrackMate.version>3.0.0</TrackMate.version>
 		<Trainable_Segmentation.version>3.0.0</Trainable_Segmentation.version>
 		<TrakEM2_Archipelago.version>2.0.1</TrakEM2_Archipelago.version>
-		<TransformJ.version>4.0.0</TransformJ.version>
 		<TurboReg.version>2.0.0</TurboReg.version>
 		<UnwarpJ.version>2.0.0</UnwarpJ.version>
 		<VIB-lib.version>2.1.1</VIB-lib.version>
@@ -256,7 +252,6 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<blockmatching.version>2.1.1</blockmatching.version>
 		<fiji-compat.version>2.0.2</fiji-compat.version>
 		<fiji-lib.version>2.1.1</fiji-lib.version>
-		<imagescience.version>3.0.0</imagescience.version>
 		<imageware.version>2.0.0</imageware.version>
 		<javac.version>1.6.0.24-ubuntu-fiji2</javac.version>
 		<jep.version>2.4.2</jep.version>
@@ -431,11 +426,6 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 			</dependency>
 			<dependency>
 				<groupId>sc.fiji</groupId>
-				<artifactId>FeatureJ_</artifactId>
-				<version>${FeatureJ.version}</version>
-			</dependency>
-			<dependency>
-				<groupId>sc.fiji</groupId>
 				<artifactId>Feature_Detection</artifactId>
 				<version>${Feature_Detection.version}</version>
 			</dependency>
@@ -571,11 +561,6 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 			</dependency>
 			<dependency>
 				<groupId>sc.fiji</groupId>
-				<artifactId>MTrackJ_</artifactId>
-				<version>${MTrackJ.version}</version>
-			</dependency>
-			<dependency>
-				<groupId>sc.fiji</groupId>
 				<artifactId>M_I_P</artifactId>
 				<version>${M_I_P.version}</version>
 			</dependency>
@@ -613,11 +598,6 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 				<groupId>sc.fiji</groupId>
 				<artifactId>RATS_</artifactId>
 				<version>${RATS.version}</version>
-			</dependency>
-			<dependency>
-				<groupId>sc.fiji</groupId>
-				<artifactId>RandomJ_</artifactId>
-				<version>${RandomJ.version}</version>
 			</dependency>
 			<dependency>
 				<groupId>sc.fiji</groupId>
@@ -736,11 +716,6 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 			</dependency>
 			<dependency>
 				<groupId>sc.fiji</groupId>
-				<artifactId>TransformJ_</artifactId>
-				<version>${TransformJ.version}</version>
-			</dependency>
-			<dependency>
-				<groupId>sc.fiji</groupId>
 				<artifactId>TurboReg_</artifactId>
 				<version>${TurboReg.version}</version>
 			</dependency>
@@ -808,11 +783,6 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 				<groupId>sc.fiji</groupId>
 				<artifactId>fiji-lib</artifactId>
 				<version>${fiji-lib.version}</version>
-			</dependency>
-			<dependency>
-				<groupId>sc.fiji</groupId>
-				<artifactId>imagescience</artifactId>
-				<version>${imagescience.version}</version>
 			</dependency>
 			<dependency>
 				<groupId>sc.fiji</groupId>
@@ -1136,7 +1106,6 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 				<Directionality.version>LATEST</Directionality.version>
 				<Extended_Depth_Field.version>LATEST</Extended_Depth_Field.version>
 				<FS_Align_TrakEM2.version>LATEST</FS_Align_TrakEM2.version>
-				<FeatureJ.version>LATEST</FeatureJ.version>
 				<Feature_Detection.version>LATEST</Feature_Detection.version>
 				<Fiji_3D_Blob_Segmentation.version>LATEST</Fiji_3D_Blob_Segmentation.version>
 				<Fiji_Archipelago.version>LATEST</Fiji_Archipelago.version>
@@ -1164,7 +1133,6 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 				<Linear_Kuwahara.version>LATEST</Linear_Kuwahara.version>
 				<LocalThickness.version>LATEST</LocalThickness.version>
 				<MTrack2.version>LATEST</MTrack2.version>
-				<MTrackJ.version>LATEST</MTrackJ.version>
 				<M_I_P.version>LATEST</M_I_P.version>
 				<Manual_Tracking.version>LATEST</Manual_Tracking.version>
 				<MosaicJ.version>LATEST</MosaicJ.version>
@@ -1173,7 +1141,6 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 				<PointPicker.version>LATEST</PointPicker.version>
 				<QuickPALM.version>LATEST</QuickPALM.version>
 				<RATS.version>LATEST</RATS.version>
-				<RandomJ.version>LATEST</RandomJ.version>
 				<Reconstruct_Reader.version>LATEST</Reconstruct_Reader.version>
 				<SPIM_Opener.version>LATEST</SPIM_Opener.version>
 				<SPIM_Registration.version>LATEST</SPIM_Registration.version>
@@ -1199,7 +1166,6 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 				<TrackMate.version>LATEST</TrackMate.version>
 				<Trainable_Segmentation.version>LATEST</Trainable_Segmentation.version>
 				<TrakEM2_Archipelago.version>LATEST</TrakEM2_Archipelago.version>
-				<TransformJ.version>LATEST</TransformJ.version>
 				<TurboReg.version>LATEST</TurboReg.version>
 				<UnwarpJ.version>LATEST</UnwarpJ.version>
 				<VIB-lib.version>LATEST</VIB-lib.version>
@@ -1215,7 +1181,6 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 				<blockmatching.version>LATEST</blockmatching.version>
 				<fiji-compat.version>LATEST</fiji-compat.version>
 				<fiji-lib.version>LATEST</fiji-lib.version>
-				<imagescience.version>LATEST</imagescience.version>
 				<imageware.version>LATEST</imageware.version>
 				<javac.version>LATEST</javac.version>
 				<jep.version>LATEST</jep.version>
