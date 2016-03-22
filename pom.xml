@@ -148,7 +148,7 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<!-- Fiji sub-BOMs -->
 
 		<!-- pom-bigdataviewer - https://github.com/bigdataviewer/pom-bigdataviewer -->
-		<pom-bigdataviewer.version>3.0.0</pom-bigdataviewer.version>
+		<pom-bigdataviewer.version>3.1.1</pom-bigdataviewer.version>
 
 		<!-- pom-trakem2 - https://github.com/trakem2/TrakEM2 -->
 		<pom-trakem2.version>1.4.0</pom-trakem2.version>
