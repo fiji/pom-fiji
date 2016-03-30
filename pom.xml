@@ -267,7 +267,7 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<!-- External Fiji projects -->
 
 		<!-- Sholl Analysis - https://github.com/tferr/ASA -->
-		<Sholl_Analysis.version>3.4.6</Sholl_Analysis.version>
+		<Sholl_Analysis.version>3.6.1</Sholl_Analysis.version>
 
 		<!-- JITK TPS - https://github.com/saalfeldlab/jitk-tps -->
 		<jitk-tps.version>2.0.0</jitk-tps.version>
