@@ -155,12 +155,12 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 
 		<!-- Standard Fiji projects -->
 
-		<AnalyzeSkeleton.version>3.0.0</AnalyzeSkeleton.version>
+		<AnalyzeSkeleton.version>3.1.0</AnalyzeSkeleton.version>
 		<Analyze_Reader_Writer.version>2.0.0</Analyze_Reader_Writer.version>
 		<Anisotropic_Diffusion_2D.version>2.0.0</Anisotropic_Diffusion_2D.version>
 		<Archipelago_Plugins.version>0.5.2</Archipelago_Plugins.version>
 		<Arrow.version>2.0.1</Arrow.version>
-		<Auto_Threshold.version>1.16.1</Auto_Threshold.version>
+		<Auto_Threshold.version>1.16.2</Auto_Threshold.version>
 		<BalloonSegmentation.version>2.0.0</BalloonSegmentation.version>
 		<Bug_Submitter.version>2.0.2</Bug_Submitter.version>
 		<CPU_Meter.version>2.0.0</CPU_Meter.version>
@@ -169,7 +169,7 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<Colocalisation_Analysis.version>2.2.0</Colocalisation_Analysis.version>
 		<Color_Histogram.version>2.0.6</Color_Histogram.version>
 		<Color_Inspector_3D.version>2.3.1</Color_Inspector_3D.version>
-		<Colour_Deconvolution.version>3.0.0</Colour_Deconvolution.version>
+		<Colour_Deconvolution.version>3.0.1</Colour_Deconvolution.version>
 		<CorrectBleach.version>2.0.1</CorrectBleach.version>
 		<Descriptor_based_registration.version>2.0.12</Descriptor_based_registration.version>
 		<Dichromacy.version>2.1.0</Dichromacy.version>
@@ -260,7 +260,7 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<mij.version>1.3.6-fiji2</mij.version>
 		<pal-optimization.version>2.0.0</pal-optimization.version>
 		<panorama.version>3.0.1</panorama.version>
-		<register_virtual_stack_slices.version>3.0.0</register_virtual_stack_slices.version>
+		<register_virtual_stack_slices.version>3.0.1</register_virtual_stack_slices.version>
 		<registration_3d.version>2.0.0</registration_3d.version>
 		<wavelets.version>2.0.0</wavelets.version>
 
