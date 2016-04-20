@@ -273,7 +273,6 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<!-- Third party projects -->
 
 		<opencsv.version>2.4</opencsv.version>
-		<batik.version>1.8</batik.version>
 		<itextpdf.version>5.1.1</itextpdf.version>
 		<jsch.version>0.1.49</jsch.version>
 		<jzlib.version>1.1.2</jzlib.version>
@@ -900,11 +899,6 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 				<groupId>au.com.bytecode</groupId>
 				<artifactId>opencsv</artifactId>
 				<version>${opencsv.version}</version>
-			</dependency>
-			<dependency>
-				<groupId>batik</groupId>
-				<artifactId>batik</artifactId>
-				<version>${batik.version}</version>
 			</dependency>
 			<dependency>
 				<groupId>com.itextpdf</groupId>
