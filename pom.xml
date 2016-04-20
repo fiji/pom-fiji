@@ -278,7 +278,6 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<jzlib.version>1.1.2</jzlib.version>
 		<jgrapht.version>0.8.3</jgrapht.version>
 		<weka.version>3.7.11</weka.version>
-		<commons-math.version>3.4.1</commons-math.version>
 		<jpedal.version>2.80b11</jpedal.version>
 		<jgraphx.version>1.10.4.1</jgraphx.version>
 	</properties>
@@ -929,11 +928,6 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 				<groupId>nz.ac.waikato.cms.weka</groupId>
 				<artifactId>weka-dev</artifactId>
 				<version>${weka.version}</version>
-			</dependency>
-			<dependency>
-				<groupId>org.apache.commons</groupId>
-				<artifactId>commons-math3</artifactId>
-				<version>${commons-math.version}</version>
 			</dependency>
 			<dependency>
 				<groupId>org.jpedal</groupId>
