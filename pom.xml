@@ -182,7 +182,7 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<H5J_Loader_Plugin.version>1.0.4</H5J_Loader_Plugin.version>
 		<Helmholtz_Analysis.version>2.0.1</Helmholtz_Analysis.version>
 		<IJ_Robot.version>2.0.0</IJ_Robot.version>
-		<IO.version>2.3.0</IO.version>
+		<IO.version>2.3.1</IO.version>
 		<ImageJ_3D_Objects_Counter.version>2.0.0</ImageJ_3D_Objects_Counter.version>
 		<ImageJ_3D_Viewer.version>4.0.1</ImageJ_3D_Viewer.version>
 		<Image_5D.version>1.2.6</Image_5D.version>
@@ -211,7 +211,7 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<Script_Launcher.version>0.1.0</Script_Launcher.version>
 		<Series_Labeler.version>2.0.0</Series_Labeler.version>
 		<SheppLogan.version>2.0.0</SheppLogan.version>
-		<Simple_Neurite_Tracer.version>3.0.1</Simple_Neurite_Tracer.version>
+		<Simple_Neurite_Tracer.version>3.0.2</Simple_Neurite_Tracer.version>
 		<Siox_Segmentation.version>1.0.4</Siox_Segmentation.version>
 		<Skeletonize3D.version>2.0.0</Skeletonize3D.version>
 		<Snakuscule.version>2.0.0</Snakuscule.version>
@@ -226,7 +226,7 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<Time_Stamper.version>2.0.0</Time_Stamper.version>
 		<ToAST.version>25.0.1</ToAST.version>
 		<TopoJ.version>2.0.0</TopoJ.version>
-		<TrackMate.version>3.2.0</TrackMate.version>
+		<TrackMate.version>3.2.1</TrackMate.version>
 		<Trainable_Segmentation.version>3.1.0</Trainable_Segmentation.version>
 		<TrakEM2_Archipelago.version>2.0.1</TrakEM2_Archipelago.version>
 		<TurboReg.version>2.0.0</TurboReg.version>
