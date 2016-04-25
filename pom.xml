@@ -5,13 +5,13 @@
 	<parent>
 		<groupId>net.imagej</groupId>
 		<artifactId>pom-imagej</artifactId>
-		<version>15.4.0</version>
+		<version>15.5.0</version>
 		<relativePath />
 	</parent>
 
 	<groupId>sc.fiji</groupId>
 	<artifactId>pom-fiji</artifactId>
-	<version>22.2.1-SNAPSHOT</version>
+	<version>22.3.0-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
 	<name>Fiji Projects</name>
