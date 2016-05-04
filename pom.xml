@@ -84,6 +84,7 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		</contributor>
 		<contributor>
 			<name>Stefan Helfrich</name>
+			<url>http://imagej.net/User:Stelfrich</url>
 			<properties><id>stelfrich</id></properties>
 		</contributor>
 		<contributor>
