@@ -274,6 +274,7 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 
 		<!-- Third party projects -->
 
+		<commons-codec.version>1.8</commons-codec.version>
 		<opencsv.version>2.4</opencsv.version>
 		<itextpdf.version>5.1.1</itextpdf.version>
 		<jsch.version>0.1.49</jsch.version>
@@ -935,6 +936,11 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 				<groupId>nz.ac.waikato.cms.weka</groupId>
 				<artifactId>weka-dev</artifactId>
 				<version>${weka.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>commons-codec</groupId>
+				<artifactId>commons-codec</artifactId>
+				<version>${commons-codec.version}</version>
 			</dependency>
 			<dependency>
 				<groupId>org.jpedal</groupId>
