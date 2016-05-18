@@ -186,7 +186,7 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<IO.version>2.3.1</IO.version>
 		<ImageJ_3D_Objects_Counter.version>2.0.0</ImageJ_3D_Objects_Counter.version>
 		<ImageJ_3D_Viewer.version>4.0.1</ImageJ_3D_Viewer.version>
-		<Image_5D.version>2.0.0</Image_5D.version>
+		<Image_5D.version>2.0.1</Image_5D.version>
 		<Image_Expression_Parser.version>3.0.0</Image_Expression_Parser.version>
 		<Interactive_3D_Surface_Plot.version>2.4.1</Interactive_3D_Surface_Plot.version>
 		<IsoData_Classifier.version>2.0.0</IsoData_Classifier.version>
