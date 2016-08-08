@@ -264,6 +264,9 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<!-- TrakEM2 TPS - https://github.com/saalfeldlab/trakem2-tps -->
 		<trakem2_tps.version>1.1.2</trakem2_tps.version>
 
+		<!-- Z-Spacing correction https://github.com/saalfeldlab/z-spacing -->
+		<z_spacing.version>1.0.2</z_spacing.version>
+
 		<!-- Third party projects -->
 
 		<commons-codec.version>1.8</commons-codec.version>
@@ -855,6 +858,13 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 				<version>${trakem2_tps.version}</version>
 			</dependency>
 
+			<!-- Z-Spacing correction https://github.com/saalfeldlab/z-spacing -->
+			<dependency>
+				<groupId>sc.fiji</groupId>
+				<artifactId>z_spacing</artifactId>
+				<version>${z_spacing.version}</version>
+			</dependency>
+
 			<!-- TrakEM2-based projects -->
 
 			<!-- FS Align TrakEM2 - https://github.com/trakem2/FS_Align_TrakEM2 -->
@@ -1184,6 +1194,7 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 				<jitk-tps.version>LATEST</jitk-tps.version>
 				<bigwarp.version>LATEST</bigwarp.version>
 				<trakem2_tps.version>LATEST</trakem2_tps.version>
+				<z_spacing.version>LATEST</z_spacing.version>
 			</properties>
 			<repositories>
 				<repository>
