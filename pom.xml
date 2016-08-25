@@ -141,7 +141,6 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<!-- Standard Fiji projects -->
 
 		<AnalyzeSkeleton.version>3.1.0</AnalyzeSkeleton.version>
-		<Analyze_Reader_Writer.version>2.0.0</Analyze_Reader_Writer.version>
 		<Anisotropic_Diffusion_2D.version>2.0.0</Anisotropic_Diffusion_2D.version>
 		<Archipelago_Plugins.version>0.5.2</Archipelago_Plugins.version>
 		<Arrow.version>2.0.1</Arrow.version>
@@ -150,7 +149,7 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<Bug_Submitter.version>2.1.0</Bug_Submitter.version>
 		<CPU_Meter.version>2.0.0</CPU_Meter.version>
 		<Calculator_Plus.version>2.0.0</Calculator_Plus.version>
-		<Cell_Counter.version>2.2.0</Cell_Counter.version>
+		<Cell_Counter.version>2.2.1</Cell_Counter.version>
 		<Colocalisation_Analysis.version>2.2.1</Colocalisation_Analysis.version>
 		<Color_Histogram.version>2.0.6</Color_Histogram.version>
 		<Color_Inspector_3D.version>2.3.1</Color_Inspector_3D.version>
@@ -169,13 +168,13 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<Fiji_Package_Maker.version>2.1.0</Fiji_Package_Maker.version>
 		<Fiji_Plugins.version>3.0.0</Fiji_Plugins.version>
 		<Fiji_Updater.version>2.0.0</Fiji_Updater.version>
-		<FlowJ.version>1.29.1</FlowJ.version>
+		<FlowJ.version>1.29.2</FlowJ.version>
 		<Graph_Cut.version>1.0.1</Graph_Cut.version>
 		<Gray_Morphology.version>2.3.3</Gray_Morphology.version>
 		<H5J_Loader_Plugin.version>1.0.4</H5J_Loader_Plugin.version>
 		<Helmholtz_Analysis.version>2.0.1</Helmholtz_Analysis.version>
 		<IJ_Robot.version>2.0.0</IJ_Robot.version>
-		<IO.version>2.3.1</IO.version>
+		<IO.version>3.0.0</IO.version>
 		<ImageJ_3D_Objects_Counter.version>2.0.0</ImageJ_3D_Objects_Counter.version>
 		<ImageJ_3D_Viewer.version>4.0.1</ImageJ_3D_Viewer.version>
 		<Image_5D.version>2.0.1</Image_5D.version>
@@ -188,7 +187,7 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<LSM_Toolbox.version>4.1.1</LSM_Toolbox.version>
 		<Lasso_and_Blow_Tool.version>2.0.1</Lasso_and_Blow_Tool.version>
 		<Linear_Kuwahara.version>2.0.0</Linear_Kuwahara.version>
-		<LocalThickness.version>4.0.0</LocalThickness.version>
+		<LocalThickness.version>4.0.1</LocalThickness.version>
 		<MTrack2.version>2.0.0</MTrack2.version>
 		<M_I_P.version>2.0.0</M_I_P.version>
 		<Manual_Tracking.version>2.1.0</Manual_Tracking.version>
@@ -205,15 +204,15 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<Script_Launcher.version>0.1.0</Script_Launcher.version>
 		<Series_Labeler.version>2.0.0</Series_Labeler.version>
 		<SheppLogan.version>2.0.0</SheppLogan.version>
-		<Simple_Neurite_Tracer.version>3.0.2</Simple_Neurite_Tracer.version>
+		<Simple_Neurite_Tracer.version>3.0.3</Simple_Neurite_Tracer.version>
 		<Siox_Segmentation.version>1.0.4</Siox_Segmentation.version>
-		<Skeletonize3D.version>2.0.0</Skeletonize3D.version>
+		<Skeletonize3D.version>2.1.0</Skeletonize3D.version>
 		<Snakuscule.version>2.0.0</Snakuscule.version>
 		<SplineDeformationGenerator.version>2.0.0</SplineDeformationGenerator.version>
 		<StackReg.version>2.0.0</StackReg.version>
 		<Stack_Manipulation.version>2.0.1</Stack_Manipulation.version>
 		<Statistical_Region_Merging.version>2.0.0</Statistical_Region_Merging.version>
-		<Stitching.version>3.1.0</Stitching.version>
+		<Stitching.version>3.1.1</Stitching.version>
 		<Sync_Win.version>1.7-fiji3</Sync_Win.version>
 		<Thread_Killer.version>2.0.0</Thread_Killer.version>
 		<Time_Lapse.version>2.0.1</Time_Lapse.version>
@@ -226,7 +225,7 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<TurboReg.version>2.0.0</TurboReg.version>
 		<UnwarpJ.version>2.0.0</UnwarpJ.version>
 		<VIB-lib.version>2.1.1</VIB-lib.version>
-		<VIB.version>3.0.0</VIB.version>
+		<VIB.version>3.0.1</VIB.version>
 		<Vaa3d_Reader.version>2.0.1</Vaa3d_Reader.version>
 		<Vaa3d_Writer.version>1.0.1</Vaa3d_Writer.version>
 		<Video_Editing.version>2.0.0</Video_Editing.version>
@@ -311,11 +310,6 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 				<groupId>sc.fiji</groupId>
 				<artifactId>AnalyzeSkeleton_</artifactId>
 				<version>${AnalyzeSkeleton.version}</version>
-			</dependency>
-			<dependency>
-				<groupId>sc.fiji</groupId>
-				<artifactId>Analyze_Reader_Writer</artifactId>
-				<version>${Analyze_Reader_Writer.version}</version>
 			</dependency>
 			<dependency>
 				<groupId>sc.fiji</groupId>
@@ -1080,7 +1074,6 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 
 				<!-- Standard Fiji projects -->
 				<AnalyzeSkeleton.version>LATEST</AnalyzeSkeleton.version>
-				<Analyze_Reader_Writer.version>LATEST</Analyze_Reader_Writer.version>
 				<Anisotropic_Diffusion_2D.version>LATEST</Anisotropic_Diffusion_2D.version>
 				<Archipelago_Plugins.version>LATEST</Archipelago_Plugins.version>
 				<Arrow.version>LATEST</Arrow.version>
