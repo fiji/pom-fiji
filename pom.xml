@@ -11,7 +11,7 @@
 
 	<groupId>sc.fiji</groupId>
 	<artifactId>pom-fiji</artifactId>
-	<version>25.0.1-SNAPSHOT</version>
+	<version>26.0.0-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
 	<name>Fiji Projects</name>
@@ -199,7 +199,7 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<RATS.version>2.0.0</RATS.version>
 		<Reconstruct_Reader.version>2.0.2</Reconstruct_Reader.version>
 		<SPIM_Opener.version>2.0.1</SPIM_Opener.version>
-		<SPIM_Registration.version>4.0.0</SPIM_Registration.version>
+		<SPIM_Registration.version>5.0.4</SPIM_Registration.version>
 		<Samples.version>2.0.1</Samples.version>
 		<Script_Launcher.version>0.1.0</Script_Launcher.version>
 		<Series_Labeler.version>2.0.0</Series_Labeler.version>
@@ -219,8 +219,8 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<Time_Stamper.version>2.0.0</Time_Stamper.version>
 		<ToAST.version>25.0.1</ToAST.version>
 		<TopoJ.version>2.0.0</TopoJ.version>
-		<TrackMate.version>3.4.0</TrackMate.version>
-		<Trainable_Segmentation.version>3.1.0</Trainable_Segmentation.version>
+		<TrackMate.version>3.4.2</TrackMate.version>
+		<Trainable_Segmentation.version>3.1.2</Trainable_Segmentation.version>
 		<TrakEM2_Archipelago.version>2.0.1</TrakEM2_Archipelago.version>
 		<TurboReg.version>2.0.0</TurboReg.version>
 		<UnwarpJ.version>2.0.0</UnwarpJ.version>
@@ -252,7 +252,7 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<!-- External Fiji projects -->
 
 		<!-- Sholl Analysis - https://github.com/tferr/ASA -->
-		<Sholl_Analysis.version>3.6.2</Sholl_Analysis.version>
+		<Sholl_Analysis.version>3.6.4</Sholl_Analysis.version>
 
 		<!-- JITK TPS - https://github.com/saalfeldlab/jitk-tps -->
 		<jitk-tps.version>2.1.0</jitk-tps.version>
