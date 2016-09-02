@@ -5,13 +5,13 @@
 	<parent>
 		<groupId>net.imagej</groupId>
 		<artifactId>pom-imagej</artifactId>
-		<version>16.2.1</version>
+		<version>16.4.0</version>
 		<relativePath />
 	</parent>
 
 	<groupId>sc.fiji</groupId>
 	<artifactId>pom-fiji</artifactId>
-	<version>26.0.1-SNAPSHOT</version>
+	<version>26.1.0-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
 	<name>Fiji Projects</name>
@@ -112,6 +112,10 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 	</ciManagement>
 
 	<properties>
+		<license.licenseName>gpl_v3</license.licenseName>
+		<license.copyrightAuthors>${fiji.authors}</license.copyrightAuthors>
+		<license.projectName>Fiji distribution of ImageJ for the life sciences.</license.projectName>
+
 		<!--
 		If two artifacts on the classpath use two different versions of the
 		same dependency, behavior is inconsistent at best, and often broken.
@@ -1024,15 +1028,6 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 						</goals>
 					</execution>
 				</executions>
-			</plugin>
-			<plugin>
-				<groupId>org.codehaus.mojo</groupId>
-				<artifactId>license-maven-plugin</artifactId>
-				<configuration>
-					<licenseName>gpl_v3</licenseName>
-					<organizationName>${fiji.authors}</organizationName>
-					<projectName>Fiji distribution of ImageJ for the life sciences.</projectName>
-				</configuration>
 			</plugin>
 		</plugins>
 	</build>
