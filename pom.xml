@@ -159,7 +159,7 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<Color_Inspector_3D.version>2.3.1</Color_Inspector_3D.version>
 		<Colour_Deconvolution.version>3.0.1</Colour_Deconvolution.version>
 		<CorrectBleach.version>2.0.1</CorrectBleach.version>
-		<Descriptor_based_registration.version>2.0.12</Descriptor_based_registration.version>
+		<Descriptor_based_registration.version>2.1.0</Descriptor_based_registration.version>
 		<Dichromacy.version>2.1.0</Dichromacy.version>
 		<Differentials.version>2.0.0</Differentials.version>
 		<Directionality.version>2.0.1</Directionality.version>
