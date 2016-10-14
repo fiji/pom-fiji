@@ -208,7 +208,7 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<Script_Launcher.version>0.1.0</Script_Launcher.version>
 		<Series_Labeler.version>2.0.0</Series_Labeler.version>
 		<SheppLogan.version>2.0.0</SheppLogan.version>
-		<Simple_Neurite_Tracer.version>3.0.3</Simple_Neurite_Tracer.version>
+		<Simple_Neurite_Tracer.version>3.0.4</Simple_Neurite_Tracer.version>
 		<Siox_Segmentation.version>1.0.4</Siox_Segmentation.version>
 		<Skeletonize3D.version>2.1.0</Skeletonize3D.version>
 		<Snakuscule.version>2.0.0</Snakuscule.version>
@@ -256,7 +256,7 @@ Projects wishing to use pom-fiji as a parent project need to override the &lt;na
 		<!-- External Fiji projects -->
 
 		<!-- Sholl Analysis - https://github.com/tferr/ASA -->
-		<Sholl_Analysis.version>3.6.6</Sholl_Analysis.version>
+		<Sholl_Analysis.version>3.6.7</Sholl_Analysis.version>
 
 		<!-- JITK TPS - https://github.com/saalfeldlab/jitk-tps -->
 		<jitk-tps.version>2.1.0</jitk-tps.version>
