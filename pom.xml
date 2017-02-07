@@ -114,7 +114,7 @@
 
 	<properties>
 		<license.licenseName>gpl_v3</license.licenseName>
-		<license.copyrightAuthors>${fiji.authors}</license.copyrightAuthors>
+		<license.copyrightOwners>${fiji.authors}</license.copyrightOwners>
 		<license.projectName>Fiji distribution of ImageJ for the life sciences.</license.projectName>
 	</properties>
 
